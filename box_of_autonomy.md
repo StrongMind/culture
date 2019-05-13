@@ -1,0 +1,98 @@
+
+We hire the right people and trust them to do their job.   That said, there are times when it is practical and expedient to standardize practices. 
+
+This list is intended to be as minimal as possible.  Any decisions not expressly discussed here are at the team’s discretion. 
+
+If you need clarification, ask.  If you think this goes too far, question it. If it needs to go farther, make a suggestion.
+
+Otherwise, go get it done. 
+
+Each team/product will produce/publish/follow the following:
+
+
+## Published Backlog
+- Stored in Jira
+- Single Threaded
+- Non-Nested (no parent child relationships between stories)
+- Prioritized
+- All stories User Oriented, with a consistent set of User Personas
+- Stories less than max time box in duration, Epics may be larger
+ 
+
+## Development Time Box
+- Maximum delivery time box of 2 weeks
+- Published schedule of time boxes for each team
+- Understood process, agreed up on by team
+- Delivery of value every time box.
+- Demo, from production, at end of every time box
+- Mechanism for reflecting on effectiveness of process and continually improving
+ 
+
+## APIs
+- All customer facing functionality and data available via an api
+- App consumes same API
+- language agnostic
+- stateless
+- Adhere to agreed upon API standards (e.g. naming, conventions, protocols, etc)
+- Machine Readable documentation that can generate clients in all preferred languages.
+ 
+
+## Incident Management
+- One corporate Ticket System
+- Meet or beat company Ticket SLAs
+- Team determined process for handling off hours outages, with mechanism published.  Integrate with corporate notification system, if available.
+- Adhere to company issue resolution and escalation procedures
+ 
+
+## Goals/Priorities
+- Goals Trickle Down – Damian sets company, C-Level sets organizational, etc.  Each level may augment with additional goals as appropriate.
+- Priorities may change at the end of a time box, earlier with two levels of management agreement and explanation.
+- All goals will be tracked and viewable at lowest reasonable fidelity/interval
+ 
+
+## Team Performance Objectives
+- Teams will track rate of value delivery and trend over time
+- All other team performance metrics at team discretion
+ 
+
+## Values
+- Team values must be a superset of company values and not in conflict
+ 
+
+## Release Process
+- Release to shared environments subject to OPS release policy and practices.
+- Release to team controlled environments at team discretion and must meet all stated performance SLAs
+ 
+
+## Security
+- Team should understand and follow HIPAA and FERPA for data stores
+- All Apps subject to OPS security requirements (e.g pen testing, data security in storage/transit)
+ 
+
+## Communication Tools
+- Teams need to be available via email within a reasonable time frame (asynch, not real time)
+- IT should be notified of any non-standard communication tools used so they can be be reviewed for security. Teams can start using them without review, but should notify IT as soon as usage begins.
+ 
+
+## Technology Choices – language, framework, cloud platform, etc
+- Use the best tool for the job, with the knowledge you are accountable to support the decision.
+- Teams choosing technology not on the list of Ops supported options are responsible for full productionalization and support of the product.   This may include (but is not limited to): builds, patches, security assessment, disaster recovery, instrumentation, monitoring, etc.
+- Use of a new technology should be announced/published via the standard channels.
+ 
+
+## Hiring
+- Leadership reserves the right to veto any hiring decision, but will not force a hire on a team.
+ 
+
+## Customer Communication
+- Customer impacting changes communicated via published policy, owned by client services.
+- If changes can be released behind feature toggles, communication policy can be delayed until activated.
+- Phase Gates, Blue Green, and similar Test-In-Production methods for mitigating risk of changes are encouraged.
+ 
+
+## Alerts/Notifications/Logs/Data
+- Team systems must be a superset of corporate systems run by OPS (e.g. teams need to integrate with the following OPS systems, but can stand up their own)
+- Products must integrate with the corporate alerting system.
+- Logs must be shipped to the approved OPS repository.
+- Data must be shipped to the data platform.
+- Data retention matches corporate policy.
