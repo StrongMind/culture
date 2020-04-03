@@ -12,7 +12,7 @@ Each team/product will produce/publish/follow the following:
 
 ## Published Backlog
 - Stored in Jira
-- Single Threaded
+- Single Threaded (only one #1 priority, only one #2 priority, etc)
 - Non-Nested (no parent child relationships between stories)
 - Prioritized
 - All stories User Oriented, with a consistent set of User Personas
