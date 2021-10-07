@@ -19,7 +19,7 @@ Each team/product will produce/publish/follow the following:
 - Stories less than max time box in duration, Epics may be larger
 
 ## Focused Work
-- Only stories, tasks, defects in current sprint are worked on
+- Only stories, tasks, defects in current iteration are worked on
 
 
 ## Development Time Box
