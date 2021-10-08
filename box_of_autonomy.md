@@ -54,7 +54,7 @@ Each team/product will produce/publish/follow the following:
 
 
 ## Team Performance Objectives
-- Teams will track rate of value delivery and trend over time
+- Teams will track rate of value delivery and trend over time (See [Metrics](https://github.com/StrongMind/culture/blob/master/metrics.md))
 - All other team performance metrics at team discretion
 
 
