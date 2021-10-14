@@ -9,19 +9,61 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Source Control
 - Github
 - Azure DevOps (**deprecated**)
+- TFS (**obsolete**)
+
+## Platform As A Service
+- AWS
+- Azure
+- GoogleCloud (**deprecated**)
 
 ## Continuous Integration/Deployment
 - Github Actions
 - Azure DevOps
 - TravisCI (**deprecated**)
 - Jenkins (**deprecated**)
+- TFS (**obsolete**)
 
 ## Languages
-- Python
-- C#
+- Python >3.7
+- .NET (C#)  >5
 - Ruby
+- Javascript >6
+- Typescript
+- .NET <5 (C#)(**deprecated**)
+- Python <2 (**deprecated**)
+- Javascript <6 (**deprecated**)
 - Rust (**obsolete**)
+- DNX (**obsolete**)
 
 ## Front End Frameworks
+- React
+- Angular >12
+- Ionic
+- Blazor
+- jQuery (**obsolete**)
+- Aurelia (**obsolete**)
+- Knockout (**obsolete**)
+- Breeze (**obsolete**)
+- Angular <12 (**obsolete**)
+
+## CSS Frameworks
+- Bootstrap
+- 
+
+## CSS Icon Sets
+- Font Awesome
 
 ## Logging
+- Cloudwatch
+- App Insights
+- DataDog (investigating)
+- Graylog (**obsolete**) :fire:
+
+## Exception Reporting
+- Sentry
+- App Insights
+- Stackify (**obselete**)
+
+## Metrics
+
+## Infrastructure As Code
