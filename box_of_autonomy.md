@@ -79,7 +79,7 @@ Each team/product will produce/publish/follow the following:
 
 ## Technology Choices – language, framework, cloud platform, etc
 - Use the best tool for the job, with the knowledge you are accountable to support the decision.
-- Teams choosing technology not on the list of Ops supported options are responsible need to be done via proposal to wider group.
+- Choosing technology not on the list of Ops supported options needs to be done via proposal to wider group.
 - Use of a new technology should be announced/published via the standard channels.
 
 
