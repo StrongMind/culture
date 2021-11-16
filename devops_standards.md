@@ -66,11 +66,19 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Exception Reporting
 - Sentry
 - App Insights
-- Stackify (**obselete**)
+- Stackify (**obsolete**)
 
 ## Metrics
+- Cloudwatch
+- App Insights
+- Grafana
 
 ## Infrastructure As Code
+- Terraform
+- Pulumi
+- Serverless
+- Azure Resource Manager (?)
+- Ansible (**deprecated**)
 
 ## Flow Visualization
 - Lucid Chart
