@@ -6,13 +6,12 @@
 
 ## Andromeda
 ### 11.30.2021 Speed Refactor
+* identify repositories
+*
 
 ## Steakholders
 ### 11.30.2021 Sentry
-* what is sentry
-* why use it
-* what does it tell us
-* anti-patterns
+* [Sentry Overview](/error_tracking.md)
 * fix anti-pattern 1
 * dive in headfirst
 
