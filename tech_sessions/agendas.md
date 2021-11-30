@@ -5,9 +5,10 @@
 * [Refactor 3](https://codeclimate.com/repos/61301c0f664b22014d009735/src/handler/uuid_generator.py/source#issue-e74ae0d325a3e909c2024f03ea551b4f)
 
 ## Andromeda
-### 11.30.2021 Speed Refactor
+### 11.30.2021 Refactor Basics
 * identify repositories
-*
+* editor / sharing
+* only tool refactors
 
 ## Steakholders
 ### 11.30.2021 Sentry
