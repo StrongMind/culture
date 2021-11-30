@@ -11,7 +11,7 @@
 
 ## Steakholders
 ### 11.30.2021 Sentry
-* [Sentry Overview](/error_tracking.md)
+* [Sentry Overview](error_tracking.md)
 * fix anti-pattern 1
 * dive in headfirst
 
