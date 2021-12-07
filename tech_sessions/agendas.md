@@ -1,21 +1,18 @@
 ## Platform
-### 12.03.2021 Quick Refactors
-* [Refactor 1](https://codeclimate.com/repos/61301c0f664b22014d009735/src/audit/reprocess_dlq.py/source#issue-52793cb4cc12e299974a075a68718940)
-* [Refactor 2](https://codeclimate.com/repos/61301c0f664b22014d009735/src/audit/find_missing.py/source#issue-038add4ea8d77ebe9b026e048127a681)
-* [Refactor 3](https://codeclimate.com/repos/61301c0f664b22014d009735/src/handler/uuid_generator.py/source#issue-e74ae0d325a3e909c2024f03ea551b4f)
+### 12.10.2021
 
 ## Andromeda
-### 11.30.2021 Refactor Basics
-* identify repositories
-* editor / sharing
-* only tool refactors
-* recent commits
+### 12.07.2021
+CANCELLED
 
 ## Steakholders
-### 11.30.2021 Sentry
-* [Sentry Overview](error_tracking.md)
-* fix anti-pattern 1
-* dive in headfirst
+### 12.07.2021 Quick Refactors
+* [Complexity secrets_manager.py](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/secrets_manager.py/source#issue-c3149e90f34283420a3a44627c42693c)
+* [Complexity tab.js](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/assets/javascripts/components/Tab.js/source#issue-460352e0d8ad5773c28f5619663689c8)
+* [Complexity tab.js](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/assets/javascripts/components/Tab.js/source#issue-694b459704e84f7fa44edea80bc38712)
+* [Complexity tab.js](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/assets/javascripts/components/Tab.js/source#issue-f8334e79e3067ddee9e5e642be11ee9b)
+* [Duplication views.py](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/views.py/source#issue-b1c7afd19454d77848c093c31dd69b6a)
+* Velocity Intro 
 
 ## Engagement
 
