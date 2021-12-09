@@ -12,9 +12,13 @@ CANCELLED
 * [Complexity tab.js](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/assets/javascripts/components/Tab.js/source#issue-694b459704e84f7fa44edea80bc38712)
 * [Complexity tab.js](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/assets/javascripts/components/Tab.js/source#issue-f8334e79e3067ddee9e5e642be11ee9b)
 * [Duplication views.py](https://codeclimate.com/repos/616f1852f43bf44b7800be4a/views.py/source#issue-b1c7afd19454d77848c093c31dd69b6a)
-* Velocity Intro 
+* Velocity Intro
 
 ## Engagement
+### 12.09.2021
+* Tagging Commits Jira
+* Repositories Missing?
+* Speed Refactoring (Strict Mobbing)
 
 ## Codeminers
 
