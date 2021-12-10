@@ -1,5 +1,12 @@
 ## Platform
 ### 12.10.2021
+* [Big Pull Request PLT-735](https://github.com/StrongMind/canvas-oneroster-adapter/pull/34)
+* [Big Pull Request PLT-733](https://github.com/StrongMind/canvas-oneroster-adapter/pull/33)
+* [Security Issue One Roster](https://github.com/StrongMind/oneroster-api/security/dependabot/integration_tests/package-lock.json/json-schema/open)
+* [It's Getting Worse](https://codeclimate.com/repos/618affdb34c9db014d00f29f/progress/maintainability)
+* [1 Hour Iteration Game](https://integrumtech.com/2013/06/one-hour-iterations/)
+* [Extreme Time Boxing](https://integrumtech.com/2013/05/extreme-timeboxing/)
+
 
 ## Andromeda
 ### 12.07.2021
