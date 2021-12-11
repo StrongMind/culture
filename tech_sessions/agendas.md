@@ -5,7 +5,7 @@
 ### 12.14.2021
 
 ## Steakholders
-### 12.14.2021
+### 12.14.2021 Long Cycles, Big Chunks
 * Long PRs (200 hours) - First Commit to Merge
     * [#4 - 963](https://github.com/StrongMind/passing-threshold-lti/pull/4)
     * [#18 - 1,013](https://github.com/StrongMind/account_settings_lti/pull/18)
