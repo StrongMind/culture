@@ -11,6 +11,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Azure DevOps (**deprecated**)
 - TFS (**obsolete**)
 
+### Pair Switching
+- git-author
+
 ## Platform As A Service
 - AWS
 - Azure
