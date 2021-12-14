@@ -3,6 +3,12 @@
 
 ## Andromeda
 ### 12.14.2021
+* Tooling Hurting
+* Using Jira Issue In Commits/PRs
+* Setting Up Paired Commits for Git
+* [1 Hour Iteration Game](https://integrumtech.com/2013/06/one-hour-iterations/)
+* [Extreme Time Boxing](https://integrumtech.com/2013/05/extreme-timeboxing/)
+
 
 ## Steakholders
 ### 12.14.2021 Long Cycles, Big Chunks
