@@ -17,7 +17,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Platform As A Service
 - AWS
-- Azure
+- Azure (_Do not use "Consumption Plan" for Prod instances_)
 - GoogleCloud (**deprecated**)
 
 ## Continuous Integration/Deployment
