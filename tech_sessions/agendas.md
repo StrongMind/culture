@@ -1,5 +1,7 @@
 ## Platform
 ### 12.17.2021
+* Flat Pair Serializer
+* Serverless Functions
 
 ## Andromeda
 ### 12.14.2021
@@ -40,6 +42,7 @@
 
 ## Engagement
 ### 12.16.2021
+* Skipped :cry:
 
 ## Codeminers
 ### Nothing Scheduled
