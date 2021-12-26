@@ -12,6 +12,12 @@
 
 ## Codeminers
 ### Nothing Scheduled
+* [Tidy Code Overview](https://github.com/StrongMind/culture/blob/master/tech_sessions/tidy_code.md)
+* [Code Climate Overview](http://www.codeclimate.com)
+* Challenge
 
 ## DevOps
 ### Nothing Scheduled
+* [Tidy Code Overview](https://github.com/StrongMind/culture/blob/master/tech_sessions/tidy_code.md)
+* [Code Climate Overview](http://www.codeclimate.com)
+* Challenge
