@@ -50,9 +50,6 @@
 * It measures the number of linearly-independent paths through a program module.
 * Programs with lower Cyclomatic complexity are easier to understand and less risky to modify.
 
-## CODE CLIMATE REVIEW
-## PR REVIEWS
-
 ## TAKE AWAYS
 ### Structure vs Behavior [Reversibility]
 * PRs only one kind of change
