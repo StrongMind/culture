@@ -13,7 +13,9 @@
 * [handler complexity](https://codeclimate.com/repos/6179dae754ef16014d0031b2/identity_provisioner.py/source#issue-c1727d5ca00674aa6c4d015a35286c93)
 
 ## Engagement
-### Nothing Scheduled
+### 01.04.2022
+* [Co-Authoring w/ Duet](https://github.com/git-duet/git-duet)
+* [Pair Programming](https://github.com/StrongMind/culture/blob/master/tech_sessions/pair_programming.md)
 
 ## Codeminers
 ### Nothing Scheduled

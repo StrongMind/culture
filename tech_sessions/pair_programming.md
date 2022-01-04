@@ -62,7 +62,7 @@ In this style of pair programming, the navigator instantly loses his or her inte
 
 Well, to efficiently carry out this style of pair programming, communication is what that makes all the difference. Sadly, this level of interaction isn’t inevitably inherent to a fresh pair. Due to this powerful communication specification, I usually consider this type to be a more transitional way of doing pair programming and I instruct beginners to stay away from it.
 
-### Stong Style
+### Strong Style
 Strong-style pairing is the approach in which the driver does nothing that the reviewer did not direct them to. As explained by Llewellyn, “For an idea to go from your head to the computer it must go through someone else’s hands.”
 
 Whenever the driver requires pitching in the idea, he must handover the system to his partner and then carryout the control from the observer position. This approach completely engages the observer.
@@ -86,4 +86,4 @@ In short Ping-Pong pairing helps professionals keep an eye on both the coding as
 * **Take breaks when needed.** Work at a pace that fits both developers.
 
 ## Remote Pairing
-Yeah it sucks. #kthxbai 
+Yeah it sucks. #kthxbai
