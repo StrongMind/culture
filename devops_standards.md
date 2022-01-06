@@ -12,8 +12,8 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - TFS (**obsolete**)
 
 ### Pair Switching
-- git-author
--
+- git-duet
+
 
 ## Platform As A Service
 - AWS
