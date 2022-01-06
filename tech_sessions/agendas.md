@@ -5,7 +5,9 @@
 * [flatten complexity](https://codeclimate.com/repos/6130fae2b1505d60a90033ff/src/mapper/models/identifier.py/source#issue-923758b45101f343ed1efe3ca0fcd90c)
 
 ## Andromeda
-### Nothing Scheduled
+### 01.04.2022
+* [Co-Authoring w/ Duet](https://github.com/git-duet/git-duet)
+* [Pair Programming](https://github.com/StrongMind/culture/blob/master/tech_sessions/pair_programming.md)
 
 ## Steakholders
 ### 01.04.2022
@@ -13,9 +15,7 @@
 * [handler complexity](https://codeclimate.com/repos/6179dae754ef16014d0031b2/identity_provisioner.py/source#issue-c1727d5ca00674aa6c4d015a35286c93)
 
 ## Engagement
-### 01.04.2022
-* [Co-Authoring w/ Duet](https://github.com/git-duet/git-duet)
-* [Pair Programming](https://github.com/StrongMind/culture/blob/master/tech_sessions/pair_programming.md)
+### Nothing Scheduled
 
 ## Codeminers
 ### Nothing Scheduled
