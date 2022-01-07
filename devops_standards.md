@@ -12,7 +12,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - TFS (**obsolete**)
 
 ### Pair Switching
-- git-duet
+- git-duet fix
 
 
 ## Platform As A Service
