@@ -6,9 +6,17 @@
 
 ## Andromeda
 ### 01.11.2022
+* pair breakouts
 
 ## Steakholders
 ### 01.11.2022
+* [get secret complexity](https://codeclimate.com/repos/6179d99a01deca018d0007ef/secrets_manager.py/source#issue-c3149e90f34283420a3a44627c42693c)
+* [get secret complexity](https://codeclimate.com/repos/618aff2a6f8b7a3a11001d7d/secrets_manager.py/source#issue-c3149e90f34283420a3a44627c42693c)
+* [get_exam_assignment_ids](https://codeclimate.com/repos/618aff2a6f8b7a3a11001d7d/clients/graphql_client.py/source#issue-c0953be332a701a1264366bfa5912447)
+* [lti-zendesk-chat not configured](https://codeclimate.com/repos/61dcedbe4fe4380177005e70/keys/new) should it even exist
+* renamed repositories all borked
+* pair breakouts
+
 
 ## Engagement
 ### Nothing Scheduled
