@@ -3,6 +3,7 @@
 
 ## Andromeda
 ### 01.18.2022
+* Strict Mode Mobbing
 
 ## Steakholders
 ### 01.18.2022
