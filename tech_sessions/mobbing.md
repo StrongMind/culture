@@ -38,7 +38,9 @@ Decompose problems before you start. Know before you walk in which objects you a
 ### Timeboxing and Rotation
 Before starting a session, agree upon an amount of time for each session and rotation, and agree when you will take breaks.
 
-Generally, a rotation where the next driver is the previous navigator helps a pattern of engagement.  Start with a rotation of 5 minutes and shorten or lengthen as necessary. If team members are struggling with engagement, shorten rotations. If team members are not able to get anything meaningful accomplished in a rotation, both lengthen the rotation and retrospect about what could make things move faster.
+Generally, a rotation where the next driver is the previous navigator helps a pattern of engagement.  Start with a rotation of 5 minutes and shorten or lengthen as necessary. If team members are struggling with engagement consider shortening rotations. If team members are not able to get anything meaningful accomplished in a rotation, both lengthen the rotation and retrospect about what could make things move faster.
+
+Use audible timers to ensure rotations are followed.
 ### Short mob retrospectives
 
 ### Ergonomics and Resistance
