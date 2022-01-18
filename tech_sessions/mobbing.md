@@ -69,3 +69,14 @@ Use audible timers to ensure rotations are followed.
 #### Disengagement
 
 ## Advantages and Disadvantages of mobbing vs pairing
+### Advantages
+* Improves communication problems
+* Improves decision making problems
+* Allows doing more than is barely sufficient.
+* Reduces technical debt.
+* Reduces context shifting.
+* Forces politics to be addressed quickly.
+* Reduces need for meetings.
+
+### Disadvantages
+* May not be best use of time
