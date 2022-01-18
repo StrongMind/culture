@@ -80,3 +80,5 @@ Use audible timers to ensure rotations are followed.
 
 ### Disadvantages
 * May not be best use of time
+* Difficult to do well remotely
+* Can exacerbate team issues (unresolved conflict)
