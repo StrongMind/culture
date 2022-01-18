@@ -6,7 +6,8 @@
 
 ## Steakholders
 ### 01.18.2022
-
+* Django or Rails quickstart
+* Better test doubles 
 
 ## Engagement
 ### Nothing Scheduled
