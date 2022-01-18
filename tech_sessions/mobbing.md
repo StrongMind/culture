@@ -2,7 +2,7 @@
 
 Mobbing is a technique used in small teams to involve the whole team with problem solving.
 
-The style of Mobbing that I consider to have the most success works like this :
+The style of Mobbing that I have witnessed to have the most success works like this :
 
 ## Roles
 
