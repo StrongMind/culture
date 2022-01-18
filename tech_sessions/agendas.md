@@ -10,7 +10,7 @@
 
 ## Steakholders
 ### 01.18.2022
-* Django or Rails quickstart
+* Django or Rails quickstart (requested to be carried over to next session)
 * Better test doubles 
 
 ## Engagement
