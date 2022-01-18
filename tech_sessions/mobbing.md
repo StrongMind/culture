@@ -39,7 +39,9 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 ## Patterns
 
 ### Decomposition and planning
-Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
+Call out the mobs purpose, and make there is consensus about the goal with the whole group from the start, and then begin the decomposition process.
+
+Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
 
 ### Timeboxing and Rotation
 Before starting a session, agree upon an amount of time for each session and rotation, and agree when you will take breaks.
