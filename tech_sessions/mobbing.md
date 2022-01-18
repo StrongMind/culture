@@ -20,6 +20,8 @@ The style of Mobbing that I have witnessed to have the most success works like t
 * Use a timer
 * Use a single computer
 
+*Note: If you are needed, contributing or learning, stay with the team, otherwise split off and work solo or with a pair.*
+
 ## Roles
 
 ### Driver
