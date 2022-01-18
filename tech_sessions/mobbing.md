@@ -45,3 +45,5 @@ Generally, a rotation where the next driver is the previous navigator helps a pa
 
 ### Observable Red Flag behaviours
 #### Disengagement
+
+## Advantages and Disadvantages of mobbing vs pairing
