@@ -28,7 +28,11 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 
 ## Pattern
 
+### Decomposition and planning
+
 ### Timeboxing and Rotation
+
+### Short mob retrospectives
 
 ## Red and Green flags
 
