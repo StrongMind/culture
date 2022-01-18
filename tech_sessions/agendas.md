@@ -1,5 +1,6 @@
 ## Platform
 ### 01.21.2022
+* [OneRosterAPI Startup.cs](https://codeclimate.com/repos/618affdb34c9db014d00f29f/src/StrongMind.Platform.OneRoster/Startup.cs/source#issue-8e8e0dc339ef347af09afe030f8d844b)
 
 ## Andromeda
 ### 01.18.2022
