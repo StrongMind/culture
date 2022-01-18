@@ -1,5 +1,9 @@
 # Mobbing
 
+Mob programming (informally mobbing) is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer. This is similar to [pair programming](https://github.com/StrongMind/culture/blob/master/tech_sessions/pair_programming.md) where two people sit at the same computer and collaborate on the same code at the same time. With mob programming, the collaboration is extended to everyone on the team, while still using a single computer for writing the code and inputting it into the code base.
+
+*"The basic concept of mob programming is simple: the entire team works as a team together on one task at the time. That is: one team – one (active) keyboard – one screen (projector of course)" -- Marcus Hammarberg*
+
 Mobbing is a technique used in small teams to involve the whole team with problem solving.
 
 The style of Mobbing that I have witnessed to have the most success works like this :
