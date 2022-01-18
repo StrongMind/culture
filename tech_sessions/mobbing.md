@@ -22,6 +22,8 @@ The drivers job is to act as hands for the navigator. They focus on the short te
 
 The driver does not write any code that they are not instructed to write by the navigator. This is particularly important if the driver is a more experienced programmer than the navigator, as this can lead to "watch the master" style mobbing or pairing which will lead to fast disengagement.
 
+**"For an idea to go from someone's head into the computer it must got through someone else's hands." -- Llewellyn Falco**
+
 In addition to the considerations normally applied to the driver navigator pairing style, the driver does not initiate conversation with the mob and the mob does not initiate conversation with the driver. This helps to avoid unstructured and undirected conversation in the mob, and allows the driver to stay focussed on the driver role.
 
 ### Navigator
@@ -39,9 +41,7 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 ## Patterns
 
 ### Decomposition and planning
-Call out the mobs purpose, and make there is consensus about the goal with the whole group from the start, and then begin the decomposition process.
-
-Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
+Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
 
 ### Timeboxing and Rotation
 Before starting a session, agree upon an amount of time for each session and rotation, and agree when you will take breaks.
