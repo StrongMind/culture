@@ -4,6 +4,12 @@ Mob programming (informally mobbing) is a software development approach where th
 
 *"The basic concept of mob programming is simple: the entire team works as a team together on one task at the time. That is: one team – one (active) keyboard – one screen (projector of course)" -- Marcus Hammarberg*
 
+All the brilliant minds working on:
+* the same thing
+* at the same time
+* in the same space
+* on the same computer
+
 Mobbing is a technique used in small teams to involve the whole team with problem solving.
 
 The style of Mobbing that I have witnessed to have the most success works like this :
