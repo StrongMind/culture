@@ -39,3 +39,4 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 ### Observable Green Flag behaviours
 
 ### Observable Red Flag behaviours
+#### Disengagement
