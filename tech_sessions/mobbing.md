@@ -57,15 +57,16 @@ Before starting a session, agree upon an amount of time for each session and rot
 Generally, a rotation where the next driver is the previous navigator helps a pattern of engagement.  Start with a rotation of 5 minutes and shorten or lengthen as necessary. If team members are struggling with engagement consider shortening rotations. If team members are not able to get anything meaningful accomplished in a rotation, both lengthen the rotation and retrospect about what could make things move faster.
 
 Use audible timers to ensure rotations are followed.
+
 ### Short mob retrospectives
 
 ### Ergonomics and Resistance
 
 ## Red and Green flags
 
-### Observable Green Flag behaviours
+### Observable Green Flag behaviors
 
-### Observable Red Flag behaviours
+### Observable Red Flag behaviors
 #### Disengagement
 
 ## Advantages and Disadvantages of mobbing vs pairing
