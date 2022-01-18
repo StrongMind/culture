@@ -32,8 +32,12 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
 
 ### Timeboxing and Rotation
+Before starting a session, agree upon an amount of time for each session and rotation, and agree when you will take breaks.
 
+Generally, a rotation where the next driver is the previous navigator helps a pattern of engagement.  Start with a rotation of 5 minutes and shorten or lengthen as necessary. If team members are struggling with engagement, shorten rotations. If team members are not able to get anything meaninful accomplished in a rotation, both lengthen the rotation and retrospect about what could make things move faster.
 ### Short mob retrospectives
+
+### Ergonomics and Resistance
 
 ## Red and Green flags
 
