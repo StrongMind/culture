@@ -14,6 +14,12 @@ Mobbing is a technique used in small teams to involve the whole team with proble
 
 The style of Mobbing that I have witnessed to have the most success works like this :
 
+## Simple Rules
+* Use strict Driver/Navigator
+* Rotate AT LEAST every 7-10 minutes
+* Use a timer
+* Use a single computer
+
 ## Roles
 
 ### Driver
@@ -21,6 +27,8 @@ The style of Mobbing that I have witnessed to have the most success works like t
 The drivers job is to act as hands for the navigator. They focus on the short term tactical goal the team has, in the same way as a driver from the driver/navigator pairing style.
 
 The driver does not write any code that they are not instructed to write by the navigator. This is particularly important if the driver is a more experienced programmer than the navigator, as this can lead to "watch the master" style mobbing or pairing which will lead to fast disengagement.
+
+**"For an idea to go from someone's head into the computer it must got through someone else's hands." -- Llewellyn Falco**
 
 In addition to the considerations normally applied to the driver navigator pairing style, the driver does not initiate conversation with the mob and the mob does not initiate conversation with the driver. This helps to avoid unstructured and undirected conversation in the mob, and allows the driver to stay focussed on the driver role.
 
@@ -39,9 +47,7 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 ## Patterns
 
 ### Decomposition and planning
-Call out the mobs purpose, and make there is consensus about the goal with the whole group from the start, and then begin the decomposition process.
-
-Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
+Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
 
 ### Timeboxing and Rotation
 Before starting a session, agree upon an amount of time for each session and rotation, and agree when you will take breaks.
@@ -50,7 +56,6 @@ Generally, a rotation where the next driver is the previous navigator helps a pa
 
 Use audible timers to ensure rotations are followed.
 ### Short mob retrospectives
-Plan time to run a short retrospective after each mobbing session. Concentrate on what made the mob effective or ineffective, and amplify the things that made the mob effective and reduce or change the things that made the group ineffective.
 
 ### Ergonomics and Resistance
 
