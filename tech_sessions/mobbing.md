@@ -14,6 +14,12 @@ Mobbing is a technique used in small teams to involve the whole team with proble
 
 The style of Mobbing that I have witnessed to have the most success works like this :
 
+## Simple Rules
+* Use strict Driver/Navigator
+* Rotate AT LEAST every 7-10 minutes
+* Use a timer
+* Use a single computer
+
 ## Roles
 
 ### Driver
