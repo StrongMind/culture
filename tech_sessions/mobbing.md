@@ -24,11 +24,12 @@ The navigator asks questions of the mob to draw upon the mobs expertise and to c
 
 The role of the remaining members of the mob is to be a resource for the navigator to draw upon in order to achieve the mobs stated goal.  It is important to understand that unstructured conversation between the mob and others can detract forward movement.
 
-If a member of the mob is concerned about a direction that the mob is taking, I have seen it be much more productive to raise a hand, rather than just interrupt the navigator and driver, and for the concern to be represented as a question. "If we do this this way, how will we avoid y problem?".
+If a member of the mob is concerned about a direction that the mob is taking, I have seen it be much more productive to raise a hand, rather than just interrupt the navigator and driver, and for the concern to be represented as a question. "If we do this this way, how will we avoid x problem?".
 
-## Pattern
+## Patterns
 
 ### Decomposition and planning
+Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team.
 
 ### Timeboxing and Rotation
 
