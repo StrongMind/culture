@@ -29,7 +29,7 @@ If a member of the mob is concerned about a direction that the mob is taking, I 
 ## Patterns
 
 ### Decomposition and planning
-Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team.
+Decompose problems before you start. Know before you walk in which objects you are likely to create and either draw them out and how they relate to each other, or write them down. Make sure the illustration or description is easily viewable by the whole team. Stand at a whiteboard and have people do this activity, or if remote, use a remote whiteboarding tool like google jamboard or something better. These should be low-fidelity for speed and flexibility.
 
 ### Timeboxing and Rotation
 
