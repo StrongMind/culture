@@ -15,6 +15,8 @@
 
 ## Engagement
 ### 01.20.2022
+* [Pairing](https://github.com/StrongMind/culture/blob/master/tech_sessions/pair_programming.md)
+* [Git-duet windows setup](https://github.com/git-duet/git-duet/releases)
 
 ## Codeminers
 ### 01.21.2022
