@@ -14,10 +14,10 @@
 * Better test doubles 
 
 ## Engagement
-### Nothing Scheduled
+### 01.20.2022
 
 ## Codeminers
-### Nothing Scheduled
+### 01.21.2022
 * [Tidy Code Overview](https://github.com/StrongMind/culture/blob/master/tech_sessions/tidy_code.md)
 * [Code Climate Overview](http://www.codeclimate.com)
 * Challenge
