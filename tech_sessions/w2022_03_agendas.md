@@ -14,12 +14,10 @@
 * Better test doubles 
 
 ## Engagement
-### 01.20.2022
-* [Pairing](https://github.com/StrongMind/culture/blob/master/tech_sessions/pair_programming.md)
-* [Git-duet windows setup](https://github.com/git-duet/git-duet/releases)
+### Nothing Scheduled
 
 ## Codeminers
-### 01.21.2022
+### Nothing Scheduled
 * [Tidy Code Overview](https://github.com/StrongMind/culture/blob/master/tech_sessions/tidy_code.md)
 * [Code Climate Overview](http://www.codeclimate.com)
 * Challenge
