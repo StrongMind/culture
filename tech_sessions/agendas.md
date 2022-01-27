@@ -4,7 +4,7 @@
 
 ## Andromeda
 ### 01.27.2022
-*
+* [Decomposition](https://github.com/StrongMind/culture/blob/master/tech_sessions/decomposition.md)
 
 ## Steakholders
 ### 01.25.2022
