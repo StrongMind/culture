@@ -38,7 +38,7 @@ See: [Retrospectives w/ Outcomes](http://arlobelshee.github.io/AgileEngineeringF
 
 ### Keys For Success
 * Give People a Chance to Transition From Daily Work to Retrospecting Mindset
-* Have a Wide Variety of Quick Activities For Setting the Stage [Improv WarmUps](https://www.learnimprov.com/warm-ups/)
+* Have a Wide Variety of Quick Activities For Setting the Stage
 * Use Themes and Topics to Focus Retrospective
 
 ## Gathering Data
@@ -49,3 +49,12 @@ See: [Retrospectives w/ Outcomes](http://arlobelshee.github.io/AgileEngineeringF
 ### Keys For Success
 * Use Data From Systems
 * Collect Data In Real Time
+
+## Resources
+* [Improv WarmUps](https://www.learnimprov.com/warm-ups/)
+* [Agile Retrospectives Book](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+* [Podcasts](https://agileweekly.com/tag/retrospectives/)
+* [FlowTopic](https://www.flowtopic.com)
+* [Faciliting Retrospectives Internal](https://strongmind.atlassian.net/wiki/spaces/PA/pages/907313154/Facilitating+Restrospectives)
+* [Facilitator Training & Mentorship Program](https://strongmind.atlassian.net/wiki/spaces/PA/pages/908328961/Retrospective+Facilitator+Training+Mentorship+Program)
+* Slack Channel #topic-facilitation
