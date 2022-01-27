@@ -12,6 +12,7 @@
 
 ## Engagement
 ### 01.27.2022
+* Shopping Cart Kata pairs
 
 ## Codeminers
 ### 01.28.2022
