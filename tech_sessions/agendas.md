@@ -16,6 +16,7 @@
 
 ## Codeminers
 ### 01.28.2022
+* [Making sure we're making code quality go in the right direction](https://codeclimate.com/repos/618b00146f8b7a3a320020b4/compare/3f4d1f5eeed5508ceb9765c9e5f19d38b4af0765...fbc4dbceeb4cb3bcb99f90e68cbbf93df004d505)
 
 ## DevOps
 ### Nothing Scheduled
