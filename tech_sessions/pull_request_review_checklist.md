@@ -12,6 +12,9 @@
 		- Can I see ways in which I could change the functionality of the program by mutating it that would change the functionality and still pass the tests?
 		- Can I run mutation testing to be sure?
 	- Is the code easy to understand?
+		- Does it pass automated complexity checks?
+		- Does it use naming that makes the usage of methods, attributes, classes and variables obvious?
+		- Does it have confusing constructs like double negatives?
 	- Is the code idiomatic and unsurprising?
 		- much of this can be covered by tools like [[CodeClimate]], but there are some cases where we might choose to do something that is more idiomatic in a language
 	- Are there any design patterns that your team is attempting to eliminate present in this code?
