@@ -10,6 +10,7 @@
 - Consider the code
 	- Does the code do anything the tests don't say it does (is all code in response to a test?)
 		- Can I see ways in which I could change the functionality of the program by mutating it that would change the functionality and still pass the tests?
+		- Can I run mutation testing to be sure?
 	- Is the code easy to understand?
 	- Is the code idiomatic and unsurprising?
 		- much of this can be covered by tools like [[CodeClimate]], but there are some cases where we might choose to do something that is more idiomatic in a language
