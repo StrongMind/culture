@@ -4,7 +4,7 @@
 
 ## Andromeda
 ### 02.01.2022
-* 
+* What works as stories for us?
 
 ## Steakholders
 ### 02.01.2022
