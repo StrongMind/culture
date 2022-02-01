@@ -1,22 +1,22 @@
 ## Platform
-### 01.28.2022
-* Pods Talk
+### 02.04.2022
+* Search?
 
 ## Andromeda
-### 01.27.2022
-* [Decomposition](https://github.com/StrongMind/culture/blob/master/tech_sessions/decomposition.md)
+### 02.01.2022
+* 
 
 ## Steakholders
-### 01.25.2022
-* Continue Rails Quick Start
+### 02.01.2022
+* [Code Review - no rubber stamps!](https://github.com/StrongMind/culture/blob/master/tech_sessions/pull_request_review_checklist.md)
 
 ## Engagement
-### 01.27.2022
+### 02.03.2022
 * Shopping Cart Kata pairs
 
 ## Codeminers
-### 01.28.2022
-* [Making sure we're making code quality go in the right direction](https://codeclimate.com/repos/618b00146f8b7a3a320020b4/compare/3f4d1f5eeed5508ceb9765c9e5f19d38b4af0765...fbc4dbceeb4cb3bcb99f90e68cbbf93df004d505)
+### 02.04.2022
+* [Making sure we're making code quality go in the right direction](https://codeclimate.com/repos/618b00246f8b7a3a320020b4/compare/3f4d1f5eeed5508ceb9765c9e5f19d38b4af0765...fbc4dbceeb4cb3bcb99f90e68cbbf93df004d505)
 
 ## DevOps
 ### Nothing Scheduled
