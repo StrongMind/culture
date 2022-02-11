@@ -14,6 +14,7 @@
 - Does the code do anything the tests don't say it does (is all code in response to a test?)
 	- Can I see ways in which I could change the functionality of the program by mutating it that would change the functionality and still pass the tests?
 	- Can I run mutation testing to be sure?
+	- Can I remove random lines of code and tests still pass?
 - Is the code easy to understand?
 	- Does it pass automated complexity checks?
 	- Does it use naming that makes the usage of methods, attributes, classes and variables obvious?
