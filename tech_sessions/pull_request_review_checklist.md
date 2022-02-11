@@ -41,3 +41,6 @@
 		- If yes, will those scripts be automatically run by CI/CD?
 		- If no, can we reasonably make some?
 			- If not, have we documented the changes required in the infrastructure and arranged that they will happen at the appropriate point in the release?
+- Do the changes in this system have potentially significant performance or cost gains or losses?
+	- who needs to know about that?
+	- Is that okay?
