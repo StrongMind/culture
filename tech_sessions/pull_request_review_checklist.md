@@ -21,6 +21,8 @@
 	- Does it have confusing constructs like double negatives?
 - Is the code idiomatic and unsurprising?
 	- much of this can be covered by tools like [[CodeClimate]], but there are some cases where we might choose to do something that is more idiomatic in a language
+	- Python
+		- do things that mean singular gets raise exceptions if there are none or more than 1?
 - Are there any design patterns that your team is attempting to eliminate present in this code?
 	- did we introduce any? Can we not?
 	- is this a reasonable time to improve the design of this part of the system?
