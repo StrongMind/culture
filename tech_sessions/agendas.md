@@ -3,8 +3,8 @@
 * Search?
 
 ## Andromeda
-### 02.01.2022
-* What works as stories for us?
+### Tuesday
+* Either decompose more stories or pair on a decomposed task, dependent upon current status
 
 ## Steakholders
 ### 02.01.2022
