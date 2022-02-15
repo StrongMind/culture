@@ -7,8 +7,8 @@
 * Either decompose more stories or pair on a decomposed task, dependent upon current status
 
 ## Steakholders
-### 02.01.2022
-* [Code Review - no rubber stamps!](https://github.com/StrongMind/culture/blob/master/tech_sessions/pull_request_review_checklist.md)
+### Tuesday
+* Testing, Doubles, Fakes, Stubs and Mocks
 
 ## Engagement
 ### 02.03.2022
