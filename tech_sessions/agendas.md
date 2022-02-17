@@ -12,7 +12,7 @@
 
 ## Engagement
 ### Thursday
-* Pass-the-laptop mobbing
+* Pass-the-laptop mobbing/Testing Doubles Fakes Stubs and Mocks
 
 ## Codeminers
 ### 02.04.2022
