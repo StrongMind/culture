@@ -11,8 +11,8 @@
 * Testing, Doubles, Fakes, Stubs and Mocks
 
 ## Engagement
-### 02.03.2022
-* Shopping Cart Kata pairs
+### Thursday
+* Pass-the-laptop mobbing
 
 ## Codeminers
 ### 02.04.2022
