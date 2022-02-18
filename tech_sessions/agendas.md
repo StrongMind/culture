@@ -1,6 +1,6 @@
 ## Platform
-### 02.04.2022
-* Search?
+### Friday
+* Mutation Testing
 
 ## Andromeda
 ### Tuesday
