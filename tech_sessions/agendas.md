@@ -4,7 +4,7 @@
 
 ## Andromeda
 ### Tuesday
-* Either decompose more stories or pair on a decomposed task, dependent upon current status
+* Test Driven Development by Example
 
 ## Steakholders
 ### Tuesday
