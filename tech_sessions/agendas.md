@@ -16,7 +16,7 @@
 
 ## Codeminers
 ### Friday
-* SFD Diagramming - what's working?
+* Applied TDD; let's do it in our own codebases
 
 ## DevOps
 ### Nothing Scheduled
