@@ -12,7 +12,7 @@
 
 ## Engagement
 ### Thursday
-* Pass-the-laptop mobbing/Testing Doubles Fakes Stubs and Mocks
+* Applied TDD; let's do it in our own codebases
 
 ## Codeminers
 ### Friday
