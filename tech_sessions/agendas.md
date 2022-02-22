@@ -8,7 +8,7 @@
 
 ## Steakholders
 ### Tuesday
-* Testing, Doubles, Fakes, Stubs and Mocks
+* Testing, Doubles, Fakes, Stubs and Mocks or Mutation Testing, choose your own adventure
 
 ## Engagement
 ### Thursday
