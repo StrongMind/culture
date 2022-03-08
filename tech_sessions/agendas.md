@@ -4,7 +4,7 @@
 
 ## Andromeda
 ### Tuesday
-* Test Driven Development by Example
+* Testing Dependencies and Side Effects using Test Doubles
 
 ## Steakholders
 ### Tuesday
