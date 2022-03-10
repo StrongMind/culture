@@ -114,17 +114,6 @@ When using a test double to provide context, you are looking to replicate the co
       assert type(result) is dict
     ```
 
-#### Databases?
-
-#### Execution Environment
-
 ### Interception
 
-
-
-
-
-## In new code
-
-## Transitioning code
-
+In some cases, you're working with a system which has large classes with no injection. Typically, these systems make lots of direct calls to other parts of the system by hard coded mechanisms.
