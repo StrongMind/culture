@@ -95,10 +95,24 @@ When using a test double to provide context, you are looking to replicate the co
   * In C#, this looks a bit like this:
 
     ```c#
+    // Moq
     something.Setup(x => x.Add(It.IsAny<string>(), It.IsAny<object>()))
     ```
 
-    
+    The danger of this is you could completely change what the method is asking for, and still pass all your tests
+
+* No assertions are made against anything returning from the mock
+
+  * In Python this looks a bit like this
+
+    ```python
+    def test_it_returns_the_status_from_the_api_in_the_result(self):
+      when(api_client).get_status().thenReturn('ok')
+    	
+      result = sut.get_result()
+      
+      assert type(result) is dict
+    ```
 
 #### Databases?
 
