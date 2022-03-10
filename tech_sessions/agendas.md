@@ -12,11 +12,11 @@
 
 ## Engagement
 ### Thursday
-* Applied TDD; let's do it in our own codebases
+* [Testing Dependencies and Side Effects using Test Doubles](https://github.com/StrongMind/culture/blob/master/tech_sessions/test_doubles.md)
 
 ## Codeminers
 ### Friday
-* Applied TDD; let's do it in our own codebases
+* [Testing Dependencies and Side Effects using Test Doubles](https://github.com/StrongMind/culture/blob/master/tech_sessions/test_doubles.md)
 
 ## DevOps
 ### Nothing Scheduled
