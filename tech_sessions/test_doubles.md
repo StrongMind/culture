@@ -67,6 +67,9 @@ Side effects are effects that you want to cause in other systems or portions of 
 * Sending an email.
 
 When using test doubles with side effects, you are looking to verify that the action that the side effect that you intended to create actually happened. What side effects do you test in your systems? When do you not test side effects? What makes you decide not to test those side effects?
+
+##### Smells
+
 A common smell with testing side effects is that your test simply asserts the place you wanted to see a side effect got called, without asserting what parameters with which it was called, or that the system in which you wish to cause side effects was instantiated with the correct context. This can lead to tests building a false sense of security, and side effects changing or breaking without tests failing.
 
 #### Context
@@ -76,7 +79,26 @@ Providing context to a system is often a reason for test doubles. Examples inclu
 * Receiving messages from a system
 * Loading records from a database
 
+When using a test double to provide context, you are looking to replicate the context within which the unit runs. When your unit pulls information from a dependency, the test double returns data similar to the data you would see in a production system.
 
+##### Smells
+
+* Mocks set up to respond to a function without specification of what is in the parameters
+
+  * in Python this looks a bit like this: 
+
+    ```python
+    # Mockito
+    when(requests).get(...).thenReturn(response)
+    ```
+
+  * In C#, this looks a bit like this:
+
+    ```c#
+    something.Setup(x => x.Add(It.IsAny<string>(), It.IsAny<object>()))
+    ```
+
+    
 
 #### Databases?
 
