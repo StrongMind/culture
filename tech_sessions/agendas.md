@@ -12,7 +12,7 @@
 
 ## Engagement
 ### Thursday
-* Applied TDD; let's do it in our own codebases
+* More Applied TDD; let's do it in our own codebases
 
 ## Codeminers
 ### Friday
