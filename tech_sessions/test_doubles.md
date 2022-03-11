@@ -10,6 +10,8 @@ In order to unit test, you need to be able to isolate the unit that you're testi
 * increased complexity of local testing configuration to manage dependencies
 * not being able to easily run tests in many environments for CI/CD
 
+## TLDR, how do I understand which of these I should be using?
+
 ```mermaid
 flowchart TD
 	what{What am I asserting?}
