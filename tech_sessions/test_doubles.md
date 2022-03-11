@@ -10,6 +10,31 @@ In order to unit test, you need to be able to isolate the unit that you're testi
 * increased complexity of local testing configuration to manage dependencies
 * not being able to easily run tests in many environments for CI/CD
 
+```mermaid
+flowchart TD
+	what{What am I asserting?}
+	what-->| Both |split
+	what-->| A side effect |assert-side-effect
+	what-->| A return value |assert-return-value
+	split(Split your test into multiple tests)
+	split-->what
+	assert-side-effect{More than one?}
+	assert-side-effect-->| Yes |split
+	assert-side-effect-->| No  |assert-single-side-effect
+	assert-single-side-effect{Do you have other dependencies?}
+	assert-single-side-effect-->| Yes |side-effect-with-deps
+	assert-single-side-effect-->| No  |side-effect-without-deps
+	side-effect-with-deps(Stub or Fake deps, Mock and assert side effect system)
+	side-effect-without-deps(Mock and assert side effect system)
+	assert-return-value{Have dependencies?}
+	assert-return-value-->| Yes |return-value-with-deps
+	assert-return-value-->| No  |return-value-without-deps
+	return-value-with-deps[Stub or fake deps, assert return]
+	return-value-without-deps[Do not use a test double, assert return]
+```
+
+
+
 ### Isolation
 
 Isolation can happen at several levels and has different benefits at different levels. Very strict unit testing would specify that every single dependency is a fake within a test, and that all dependencies are replaceable. In some cases, you may not wish to go to this length - why would you want to still include dependencies to a class, method or system under test?
