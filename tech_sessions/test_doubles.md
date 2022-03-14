@@ -1,5 +1,9 @@
 # Testing dependencies and side effects using test doubles
 
+## Prerequisites
+
+<links to earlier testing topics, like "what is unit testing" either internal or external>
+
 ## Why?
 
 In order to unit test, you need to be able to isolate the unit that you're testing. Without doing so, you have considerations like:
@@ -11,6 +15,13 @@ In order to unit test, you need to be able to isolate the unit that you're testi
 * not being able to easily run tests in many environments for CI/CD
 
 ## TLDR, how do I understand which of these I should be using?
+
+* Prerequisites
+  * [Assertions](https://wiki.c2.com/?WhatAreAssertions)
+  * [Dependencies](#dependencies)
+  * [Stubs](#stubs)
+  * [Fakes](#fakes)
+  * [Mocks](#mocks)
 
 ```mermaid
 flowchart TD
@@ -144,3 +155,4 @@ When using a test double to provide context, you are looking to replicate the co
 ### Interception
 
 In some cases, you're working with a system which has large classes with no injection. Typically, these systems make lots of direct calls to other parts of the system by hard coded mechanisms.
+
