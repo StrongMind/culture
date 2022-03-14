@@ -1,25 +1,23 @@
 ## Platform
 ### Friday
-* Mutation Testing
+* Automated System Diagrams
 
 ## Andromeda
 ### Tuesday
-* Testing Dependencies and Side Effects using Test Doubles
+* Automated System Diagrams
 
 ## Steakholders
 ### Tuesday
-* The [12 factor app](https://12factor.net/), or choose your own adventure.
+* Automated System Diagrams
 
 ## Engagement
 ### Thursday
-* [Testing Dependencies and Side Effects using Test Doubles](https://github.com/StrongMind/culture/blob/master/tech_sessions/test_doubles.md)
+* Automated System Diagrams
 
 ## Codeminers
 ### Friday
-* [Testing Dependencies and Side Effects using Test Doubles](https://github.com/StrongMind/culture/blob/master/tech_sessions/test_doubles.md)
+* Automated System Diagrams
 
 ## DevOps
 ### Nothing Scheduled
-* [Tidy Code Overview](https://github.com/StrongMind/culture/blob/master/tech_sessions/tidy_code.md)
-* [Code Climate Overview](http://www.codeclimate.com)
-* Challenge
+* Automated System Diagrams

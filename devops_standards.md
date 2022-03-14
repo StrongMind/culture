@@ -86,5 +86,6 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Flow Visualization
 - Lucid Chart
+- Mermaid.js
 - Draw.io (**obsolete**)
 - GraphViz (**obsolete**)
