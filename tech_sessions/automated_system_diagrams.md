@@ -2,6 +2,10 @@
 
 Visualising a system, for most people, significantly reduces the amount of time it takes to understand that system. Creating maps of systems manually is time intensive work that doesn't tend to happen, and even when it does, those maps tend to rot.  Thankfully, there are lots of tools to automatically inspect and create diagrams about systems. Here are some and how to use them!
 
+## Exercise
+
+Create diagrams for as many of your systems as possible in this technical excellence session!
+
 ## Web Frameworks
 
 ### Django
