@@ -40,9 +40,9 @@ Pulumi provides the `pulumi stack graph` [command](https://www.pulumi.com/docs/r
 
 ### Azure Data Studio
 
-(Visualization)[https://github.com/R0tenur/visualization] looks like it will do Mermaid renderings
+[Visualization](https://github.com/R0tenur/visualization) looks like it will do Mermaid renderings in Azure Data Studio with any data source.
 
 ### DataGrip
 
-(Datagrip)[https://www.jetbrains.com/help/datagrip/creating-diagrams.html] can create ERD diagrams for any type of database that it can connect to.
+[Datagrip](https://www.jetbrains.com/help/datagrip/creating-diagrams.html) can create ERD diagrams for any type of database that it can connect to. (Tested and working well)
 
