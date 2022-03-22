@@ -16,7 +16,7 @@
 
 ## Codeminers
 ### Friday
-* Cohort First session followup and set next weeks agenda
+* Not yet set
 
 ## DevOps
 ### Nothing Scheduled
