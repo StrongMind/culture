@@ -1,23 +1,23 @@
 ## Platform
 ### Friday
-* Automated System Diagrams
+* Cohort First session followup and set next weeks agenda
 
 ## Andromeda
 ### Tuesday
-* Automated System Diagrams
+* Cohort First session followup and set next weeks agenda
 
 ## Steakholders
 ### Tuesday
-* Automated System Diagrams
+* Cohort First session followup and set next weeks agenda
 
 ## Engagement
 ### Thursday
-* Automated System Diagrams
+* Cohort First session followup and set next weeks agenda
 
 ## Codeminers
 ### Friday
-* Automated System Diagrams
+* Cohort First session followup and set next weeks agenda
 
 ## DevOps
 ### Nothing Scheduled
-* Automated System Diagrams
+* Cohort First session followup and set next weeks agenda
