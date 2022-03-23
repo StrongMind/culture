@@ -4,7 +4,9 @@
 
 ## Andromeda
 ### Tuesday
-* Cohort First session followup and set next weeks agenda
+* "Looking for Seams" [Where does my code belong in an MVC framework](mvc_framework_seams.md), [How do I break apart massive classes](creating_single_responsibilities.md)
+* [Asynchronous Programming](asynchronous.md)
+* [Cloud infrastructure design patterns](cloud_design.md)
 
 ## Steakholders
 ### Tuesday
