@@ -10,7 +10,9 @@
 
 ## Steakholders
 ### Tuesday
-* Cohort First session followup and set next weeks agenda
+* deployment strategies
+* enterprise canvas deployment improvements?
+* MVC Pattern and DRY
 
 ## Engagement
 ### Thursday
