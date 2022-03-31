@@ -16,7 +16,8 @@
 
 ## Engagement
 ### Thursday
-* Cohort First session followup and set next weeks agenda
+* The observer pattern (and specifically in RxJS)
+* Highly nested components (should these exist? When should they? What should we do instead if not? How do we handle them if so?)
 
 ## Codeminers
 ### Friday
