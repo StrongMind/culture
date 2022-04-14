@@ -6,7 +6,7 @@ Furthermore, it can obscure problems and make debugging harder in our larger eco
 
 ### Examples
 
-The two most recent examples of this that I have seen, [one in Python](https://github.com/StrongMind/id-mapper-client/pull/6/files) and [one in C#](https://github.com/StrongMind/id-mapper-client/pull/6/files) for illustration both work in this fashion.
+The two most recent examples of this that I have seen, [one in Python](https://github.com/StrongMind/id-mapper-client/pull/6/files) and [one in C#](https://github.com/StrongMind/MessageEngine/pull/2/files) for illustration both work in this fashion.
 
 ```mermaid
 flowchart TB
