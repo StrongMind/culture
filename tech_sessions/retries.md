@@ -2,7 +2,7 @@
 
 I've been seeing a pattern of retrying HTTP requests for downstream APIs in process when handling events from queues. There are some problems with this, which can result in significant scaling issues and a massive increase of cloud costs in an outage scenario.
 
-Furthermore, it can obscure problems and make debugging harder in our larger ecosystem.
+Furthermore, it can obscure problems and make debugging harder in our larger ecosystem - if multiple systems in a row do this, it can also multiply exponentially.
 
 ### Examples
 
