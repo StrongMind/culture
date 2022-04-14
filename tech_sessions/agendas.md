@@ -16,12 +16,14 @@
 
 ## Engagement
 ### Thursday
+* RESTful interfaces and what is a resource?
 * The observer pattern (and specifically in RxJS)
 * Highly nested components (should these exist? When should they? What should we do instead if not? How do we handle them if so?)
 
 ## Codeminers
 ### Friday
-* Not yet set
+* Pairing and mobbing practice with katas
+* Tackling cognitive load and complexity
 
 ## DevOps
 ### Nothing Scheduled
