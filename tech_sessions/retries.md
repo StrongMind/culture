@@ -2,6 +2,8 @@
 
 I've been seeing a pattern of retrying HTTP requests for downstream APIs in process when handling events from queues. There are some problems with this, which can result in significant scaling issues and a massive increase of cloud costs in an outage scenario.
 
+Furthermore, it can obscure problems and make debugging harder in our larger ecosystem.
+
 ### Examples
 
 The two most recent examples of this that I have seen, [one in Python](https://github.com/StrongMind/id-mapper-client/pull/6/files) and [one in C#](https://github.com/StrongMind/id-mapper-client/pull/6/files) for illustration both work in this fashion.
