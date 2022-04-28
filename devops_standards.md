@@ -29,11 +29,11 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Languages
 - Python >3.7
-- .NET (C#)  >5
+- .NET (C#) >6
 - Ruby
 - Javascript >6
 - Typescript
-- .NET <5 (C#)(**deprecated**)
+- .NET <6 (C#)(**deprecated**)
 - Python <2 (**deprecated**)
 - Javascript <6 (**deprecated**)
 - Rust (**obsolete**)
