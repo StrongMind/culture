@@ -8,7 +8,7 @@
 ## Secondary
 ### Lead Time (Efficiency)
 ### Cycle Time (Productivity)
-## [Review Sheet] (https://strongmind0.sharepoint.com/:x:/s/DevelopmentManagers/EVJQuhZTlS1FglfcUXQmoEQBLmE0Mf99VgWCohn0XAjYmw?e=w5cjTJ)
+## [Review Sheet](https://strongmind0.sharepoint.com/:x:/s/DevelopmentManagers/EVJQuhZTlS1FglfcUXQmoEQBLmE0Mf99VgWCohn0XAjYmw?e=w5cjTJ)
 ### Team By Team
 ### Aggregate
 ### Sprint Signatures
