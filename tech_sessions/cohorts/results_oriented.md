@@ -16,7 +16,7 @@ You develop methods to track progress towards desired outcomes at the team level
 ## Sessions
 
 **Cohort 2**
-1. Team Metrics
+1. [Team Metrics](team_metrics.md)
 2. Velocity Metrics
 3. Epic Outcomes
 4. Jira Board and Standups
