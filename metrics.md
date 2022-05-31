@@ -38,4 +38,3 @@ The counter-balance to autonomy is accountability to results.  Meaningful metric
 
 **How**: Expressed as average number days/hours it takes a story/task to move from "in progress" to "done" also average number of days/hours it takes a sub-task to move from "in progress" to "done".
 
-[Example Metric Spreadsheet](https://strongmind0-my.sharepoint.com/:x:/g/personal/derek_neighbors_strongmind_com/ESXU5pgBaQhEkYSEkVLJZVgB8KrO3FDdOOWDmUvx9uoTOA?e=QREEfx)

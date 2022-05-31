@@ -28,13 +28,13 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - TFS (**obsolete**)
 
 ## Languages
-- Python >3.7
-- .NET (C#)  >5
+- Python >= 3.7
+- .NET (C#) >6
 - Ruby
 - Javascript >6
 - Typescript
-- .NET <5 (C#)(**deprecated**)
-- Python <2 (**deprecated**)
+- .NET <6 (C#)(**deprecated**)
+- Python <3.7 (**deprecated**)
 - Javascript <6 (**deprecated**)
 - Rust (**obsolete**)
 - DNX (**obsolete**)
@@ -64,7 +64,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Logging
 - Cloudwatch
 - App Insights
-- DataDog (investigating)
+- DataDog (**obsolete**)
 - Graylog (**obsolete**) :fire:
 
 ## Exception Reporting
@@ -78,9 +78,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Grafana
 
 ## Infrastructure As Code
-- Terraform
+- Terraform (**deprecated**)
 - Pulumi
-- Serverless
+- Serverless (**deprecated**)
 - Azure Resource Manager (?)
 - Ansible (**deprecated**)
 

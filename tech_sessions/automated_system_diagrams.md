@@ -6,6 +6,12 @@ Visualising a system, for most people, significantly reduces the amount of time 
 
 Create diagrams for as many of your systems as possible in this technical excellence session!
 
+## Homework
+
+Could you include these in your CI/CD to have automatically updating diagrams?
+
+How would you include these in your documentation?
+
 ## Web Frameworks
 
 ### Django
@@ -37,6 +43,8 @@ Pulumi provides the `pulumi stack graph` [command](https://www.pulumi.com/docs/r
 ## Database
 
 ### SQL Server Management Studio
+
+In "database diagrams" in a database view, click "new database diagram" and add all relevant tables one by one. If you try to add many at a time, it seems to crash.
 
 ### Azure Data Studio
 
