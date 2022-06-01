@@ -1,6 +1,6 @@
 # Andromeda
 ## Pairing Habits
-* 1hr a day while Brandon/Eric on Vacation Pair with Ashley or Brandon
+* 1hr a day while Brandon/Eric on Vacation Pair with Ashley or Dorien
 * Adhere to Pairing Habits in Technical document
 * Do perfection game after each session
 
