@@ -1,6 +1,6 @@
-## Platform
+## Horseshoes
 ### Friday
-* Cohort First session followup and set next weeks agenda
+* Thinking about behaviours and mixins in rails (https://github.com/StrongMind/horseshoes-app/commit/69a7c1f5bf8c7050a721f5a9d9351913c0cef156)
 
 ## Andromeda
 ### Tuesday
