@@ -11,7 +11,7 @@ You follow and participate in the creation of team conventions and processes.
 
 **Cohort 1A**
 1. [User Stories](user_stories.md)
-2. Workshop- user stories
+2. [Workshop - User Stories](user_stories_workshop.md)
 3. Tasking Stories
 4. Workshop- tasking stories
 5. Pairing
@@ -19,7 +19,7 @@ You follow and participate in the creation of team conventions and processes.
 ----
 **Cohort1B**
 1. [User Stories](user_stories.md)
-2. Workshop- user stories
+2. [Workshop - User Stories](user_stories_workshop.md)
 3. Estimation
 4. Tasking Stories
 5. Workshop- tasking stories
