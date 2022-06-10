@@ -50,6 +50,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Breeze (**obsolete**)
 - Angular <12 (**obsolete**)
 
+## MVC Frameworks
+- Flask (**deprecated**)
+
 ## CSS Frameworks
 - Bootstrap
 
