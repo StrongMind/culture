@@ -9,6 +9,7 @@
 * "Looking for Seams" [Where does my code belong in an MVC framework](mvc_framework_seams.md), [How do I break apart massive classes](creating_single_responsibilities.md)
 * Quick Refactors
   * https://github.com/StrongMind/LearnosityPlayer/pull/29/files#diff-0a430ad1ec1108bdb44cb9753b7974c0ab2f1e5430b7d94812ed0f286a6e0febR163
+  * https://codeclimate.com/repos/618ad4647c8efd517f00dd94/issues
 * [Asynchronous Programming](asynchronous.md)
 * [Cloud infrastructure design patterns](cloud_design.md)
 
