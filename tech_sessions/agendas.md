@@ -30,6 +30,9 @@
 * Pairing and mobbing practice with katas
 * Tackling cognitive load and complexity
 
+## Qwerty Talk
+### Tuesday
+
 ## DevOps
 ### Nothing Scheduled
 * Cohort First session followup and set next weeks agenda
