@@ -16,11 +16,11 @@
 ## Steakholders
 ### Tuesday
 * test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py
- - we don't test set_user  
- - we mock ourselves  
- - we don't use fixtures properly  
- - we were running our fixtures as tests  
- - large setup in every test  
+ * we don't test set_user  
+ * we mock ourselves  
+ * we don't use fixtures properly  
+ * we were running our fixtures as tests  
+ * large setup in every test  
 * deployment strategies
 * enterprise canvas deployment improvements?
 * MVC Pattern and DRY
