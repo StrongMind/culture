@@ -35,7 +35,7 @@ As a bowler I should be able to create, read, update and delete a game.
 As a bowler I should be able to create, read, update and delete a shot of a game.
 * it should respond to the following requests:
   * POST /api/games/{:game_id}/shots (create frame)
-  * DELETE /api/games/{:game_id}/shots/{:id} (delete game)
+  * DELETE /api/games/{:game_id}/shots/{:id} (delete frame)
   * GET /api/games/{:game_id}/shots/{:id} (read frame)
   * PUT /api/games/{:game_id}/shots/{:id} (update frame)
 * it should have the following attributes:
