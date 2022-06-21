@@ -20,6 +20,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Azure (_Do not use "Consumption Plan" for Prod instances_)
 - GoogleCloud (**deprecated**)
 
+## Deployment container
+- Docker (with HTTP on port 3000 for HTTP services)
+
 ## Continuous Integration/Deployment
 - Github Actions
 - Azure DevOps
