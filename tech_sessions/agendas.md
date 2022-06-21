@@ -15,7 +15,7 @@
 
 ## Steakholders
 ### Tuesday
-* ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py
+* ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py~~
 * deployment strategies
 * enterprise canvas deployment improvements?
 * MVC Pattern and DRY
