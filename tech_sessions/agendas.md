@@ -26,11 +26,6 @@
 * Highly nested components (should these exist? When should they? What should we do instead if not? How do we handle them if so?)
 * ~~RESTful interfaces and what is a resource?~~ (Revisit in June?)
 
-## Codeminers
-### Friday
-* Pairing and mobbing practice with katas
-* Tackling cognitive load and complexity
-
 ## Qwerty Talk
 ### Tuesday
 * Pizza servers, with tests
