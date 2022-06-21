@@ -19,6 +19,6 @@ You develop methods to track progress towards desired outcomes at the team level
 1. [Team Metrics](team_metrics.md)
 2. [Velocity Metrics](velocity_metrics.md)
 3. [Epic Outcomes](epic_outcomes.md)
-4. Jira Board and Standups
-5. What is missing for my team?
-6. What is mising for my products?
+4. [Jira Board and Standups](standups_jira.md)
+5. [What is missing for my team?](missing_from_team.md)
+6. What is missing for my products?

@@ -14,7 +14,7 @@ You follow and participate in the creation of team conventions and processes.
 2. [Workshop - User Stories](user_stories_workshop.md)
 3. [Tasking Stories](tasking_stories.md)
 4. [Workshop- Tasking Stories](tasking_stories_workshop.md)
-5. Pairing
+5. [Pairing](pair_programming.md)
 6. Pull Request / Reviews
 ----
 **Cohort1B**
