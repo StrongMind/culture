@@ -33,6 +33,7 @@
 
 ## Qwerty Talk
 ### Tuesday
+* Pizza servers, with tests
 
 ## DevOps
 ### Nothing Scheduled
