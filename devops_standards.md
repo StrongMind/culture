@@ -26,8 +26,8 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Continuous Integration/Deployment
 - Github Actions
 - Azure DevOps
-- TravisCI (**deprecated**)
-- Jenkins (**deprecated**)
+- TravisCI (**obsolete**)
+- Jenkins (**obsolete**)
 - TFS (**obsolete**)
 
 ## Languages
