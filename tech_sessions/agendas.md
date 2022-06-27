@@ -33,3 +33,7 @@
 ## DevOps
 ### Nothing Scheduled
 * Cohort First session followup and set next weeks agenda
+
+## KapeBara
+### Wednesday
+* Velocity, code climate quality
