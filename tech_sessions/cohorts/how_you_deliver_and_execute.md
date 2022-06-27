@@ -23,5 +23,5 @@ You follow and participate in the creation of team conventions and processes.
 3. [Tasking Stories](tasking_stories.md)
 4. [Workshop- Tasking Stories](tasking_stories_workshop.md)
 5. [Estimation](https://strongmind0-my.sharepoint.com/:p:/g/personal/derek_neighbors_strongmind_com/EfjLc7jipDFBj6lQk2-N27sBYQNC7DMT6lhfDLOXXss7dw?e=mLTAx0)
-6. Continuous Delivery
+6. [Continuous Delivery](continuous_delivery.md)
 
