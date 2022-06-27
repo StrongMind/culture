@@ -21,4 +21,4 @@ You develop methods to track progress towards desired outcomes at the team level
 3. [Epic Outcomes](epic_outcomes.md)
 4. [Jira Board and Standups](standups_jira.md)
 5. [What is missing for my team?](missing_from_team.md)
-6. What is missing for my products?
+6. [What is missing for my products?](missing_from_product.md)
