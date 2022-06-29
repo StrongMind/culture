@@ -2,7 +2,9 @@
 ### Friday
 * ~~Thinking about behaviours and mixins in rails (https://github.com/StrongMind/horseshoes-app/commit/69a7c1f5bf8c7050a721f5a9d9351913c0cef156)~~
 * ~~Structured logging and Cloudwatch (https://github.com/StrongMind/canvas-oneroster-adapter/pull/79#pullrequestreview-1003004119)~~
-* Further behaviors/mixins/concerns
+* ~~Further behaviors/mixins/concerns~~
+* Let's make some READMEs!
+* Add meaningful tests to untested code
 
 ## Andromeda
 ### Tuesday
@@ -10,24 +12,30 @@
 * Quick Refactors
   * ~~https://github.com/StrongMind/LearnosityPlayer/pull/29/files#diff-0a430ad1ec1108bdb44cb9753b7974c0ab2f1e5430b7d94812ed0f286a6e0febR163~~
   * https://codeclimate.com/repos/618ad4647c8efd517f00dd94/issues
+* Let's make some READMEs!
+* Add meaningful tests to untested code
 * [Asynchronous Programming](asynchronous.md)
 * [Cloud infrastructure design patterns](cloud_design.md)
 
 ## Steakholders
 ### Tuesday
 * ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py~~
-* deployment strategies
-* enterprise canvas deployment improvements?
-* MVC Pattern and DRY
+* ~~MVC Pattern and DRY~~
+* Let's make some READMEs!
+* Add meaningful tests to untested code
 
 ## Engagement
 ### Thursday
+* Let's make some READMEs!
+* Add meaningful tests to untested code
 * The observer pattern (and specifically in RxJS)
 * Highly nested components (should these exist? When should they? What should we do instead if not? How do we handle them if so?)
 * ~~RESTful interfaces and what is a resource?~~ (Revisit in June?)
 
 ## Qwerty Talk
 ### Tuesday
+* Let's make some READMEs!
+* Add meaningful tests to untested code
 * Pizza servers, with tests
 
 ## DevOps
@@ -37,3 +45,5 @@
 ## KapeBara
 ### Wednesday
 * Velocity, code climate quality
+* Let's make some READMEs!
+* Add meaningful tests to untested code
