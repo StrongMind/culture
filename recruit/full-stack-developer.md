@@ -4,65 +4,70 @@ At StrongMind we work in terms of user stories with varying degrees of requireme
 
 1. Create a GitHub repository for this project.  
 2. Complete the stories below.
-3. Deploy application
-3. Email development@strongmind.com links to your application repository and working deployed application with the subject “**Full Stack Developer Candidate - Your Name**"
+3. Deploy your application (see below for options) 
+4. Email recruiter@strongmind.com links to your application repository and working deployed application with the subject “**Full Stack Developer Candidate - Your Name**"
 
-# Bowling Exercise
+# Stories 
 
-## Bowling Scoring
-As a bowler, I should be able to keep track by frame of one of games.
-* it should allow entry of score by frame
-* it should score strikes properly (see below)
-* it should score spares properly (see below)
-* it should score an incomplete game up to the last frame provided.
+## Toppings API 
+
+As a pizza application maker I should be able to create, read, update and delete pizza toppings. 
+
+* It should have an API end point for creating a new topping 
+* It should have an API end point for getting a list of existing toppings 
+* It should have an API end point to delete an existing topping 
+* It should have an API to update an existing topping 
+* It should now allow duplicate toppings 
+
+## Pizza API 
+
+As a pizza application maker I should be able to create, read, update and delete pizzas. 
+
+* It should have an API end point for creating a new pizza 
+* It should have an API end point for getting a list of existing pizzas 
+* It should have an API end point to delete an existing pizza 
+* It should have an API to update an existing pizza 
+* It should not allow duplicate pizzas 
+
+## Pizza Toppings API 
+
+As a pizza application maker I should be able to view/add/remove toppings from my pizza creations. 
+
+* It should have an API end point to add an existing topping to a pizza 
+* It should have an API end point to remove a topping from a pizza 
+* It should have an API end point to view toppings for a pizza 
+
+Bonus: Make API documentation publicly available. 
+
+## Manage Toppings 
+
+As a pizza operation manager I should be able to manage toppings available for my pizza chefs. 
+
+* It should allow me to see a list of available toppings 
+* It should allow me to add a new topping 
+* It should allow me to delete an existing topping 
+
+## Manage Pizzas 
+
+As a pizza chef I should be able to create new pizza master pieces 
+
+* It should allow me to see a list of existing pizzas and their toppings 
+* It should allow me to allow me to create a new pizza and add toppings to it 
+* It should allow me to allow me to delete an existing pizza 
+
+ 
+
+# Deployment 
+
+Your project should be deployed to a service of your choice. If you need some references to free web resources for development try https://free-for.dev  
+
+All the major cloud providers have some sort of free plan. Here are some examples: 
+
+https://azure.microsoft.com/free 
+https://www.heroku.com/free 
+https://cloud.google.com/free 
+https://www.ibm.com/cloud/free 
+https://aws.amazon.com/free 
+https://www.oracle.com/cloud/free 
 
 
-*Bonus:* Create APIs For Game
-# Bowling API
-
-## Bowling Game Create, Read, Update, Delete
-As a bowler I should be able to create, read, update and delete a game.
-* it should respond to the following requests:
-  * POST /api/games/ (create game)
-  * DELETE /api/games/{:id} (delete game)
-  * GET /api/games/{:id} (read game)
-  * PUT /api/games/{:id} (update game)
-* it should have the following attributes:
-  * id
-  * name
-
-## Frame Score Create, Read, Update, Delete
-As a bowler I should be able to create, read, update and delete a shot of a game.
-* it should respond to the following requests:
-  * POST /api/games/{:game_id}/shots (create frame)
-  * DELETE /api/games/{:game_id}/shots/{:id} (delete frame)
-  * GET /api/games/{:game_id}/shots/{:id} (read frame)
-  * PUT /api/games/{:game_id}/shots/{:id} (update frame)
-* it should have the following attributes:
-  * id
-  * pins_knocked_down
-
-## Frame Scoring
-A frame consists of 2 opportunities to knock down 10 bowling pins with a bowling ball.  The 10 pins are then reset for the next frame
-
-### Strike
-If you knock down all 10 pins in the first shot of a frame, you get a strike.
-**Score:** A strike earns 10 points plus the sum of your next two shots.
-
-### Spare
-If you knock down all 10 pins using both shots of a frame, you get a spare.
-**Score:** A spare earns 10 points plus the sum of your next one shot.
-
-### Open Frame
-If you do not knock down all 10 pins using both shots of your frame, you have an open frame.
-**Score:** An open frame only earns the number of pins knocked down.
-
-### 10th Frame
-The 10th frame is a bit different.  
-* If you roll a strike in the first shot of the 10th frame, you get 2 more shorts.  
-* If you roll a spare in the first two shots, you get 1 more shot.
-* If you leave the 10th frame open after two shots, the game is over and you do not get an additional shot.
-**Score:**
-The score for the 10th frame is the total number of pins knocked down in the 10th frame.
-
-More scoring details can be found [here](http://www.fryes4fun.com/Bowling/scoring.htm).
