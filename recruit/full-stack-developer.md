@@ -63,11 +63,16 @@ Your project should be deployed to a service of your choice. If you need some re
 
 All the major cloud providers have some sort of free plan. Here are some examples: 
 
-https://azure.microsoft.com/free 
-https://www.heroku.com/free 
-https://cloud.google.com/free 
-https://www.ibm.com/cloud/free 
-https://aws.amazon.com/free 
-https://www.oracle.com/cloud/free 
+[Azure](https://azure.microsoft.com/free)
+
+[Heroku](https://www.heroku.com/free)
+
+[Google](https://cloud.google.com/free)  
+
+[IBM](https://www.ibm.com/cloud/free)
+
+[AWS](https://aws.amazon.com/free)
+
+[Oracle](https://www.oracle.com/cloud/free) 
 
 
