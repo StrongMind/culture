@@ -28,6 +28,7 @@
 ### Thursday
 * Let's make some READMEs!
 * Add meaningful tests to untested code
+* Angular Upgrades - 9 to 12
 * The observer pattern (and specifically in RxJS)
 * Highly nested components (should these exist? When should they? What should we do instead if not? How do we handle them if so?)
 * ~~RESTful interfaces and what is a resource?~~ (Revisit in June?)
