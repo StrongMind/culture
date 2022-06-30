@@ -5,7 +5,7 @@ At StrongMind we work in terms of user stories with varying degrees of requireme
 1. Create a GitHub repository for this project.  
 2. Complete the stories below.
 3. Deploy your application (see below for options) 
-4. Email recruiter@strongmind.com links to your application repository and working deployed application with the subject “**Full Stack Developer Candidate - Your Name**"
+4. Email [recruiter@strongmind.com](mailto:recruiter@strongmind.com) links to your application repository and working deployed application with the subject “**Full Stack Developer Candidate - Your Name**"
 
 # Stories 
 
