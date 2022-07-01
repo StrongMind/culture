@@ -27,7 +27,7 @@ As a pizza chef I should be able to create new pizza master pieces
 * It should allow me to allow me to create a new pizza and add toppings to it 
 * It should allow me to allow me to delete an existing pizza 
 * It should allow me to update an existing pizza 
-* It shoudl allow me to update toppings on an existing pizza
+* It should allow me to update toppings on an existing pizza
 * It should not allow me to enter duplicate pizzas
  
 
