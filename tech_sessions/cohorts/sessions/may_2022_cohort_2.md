@@ -1,3 +1,8 @@
+# Category: Product and Business
+## Competency: Results Oriented
+### Phase: Developing
+
+[Results Oriented](../product_and_business/results_oriented.md)
 
 **Cohort 2**
 1. [Team Metrics](../topics/team_metrics.md)

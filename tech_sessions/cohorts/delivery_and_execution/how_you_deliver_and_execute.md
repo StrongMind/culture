@@ -1,6 +1,5 @@
 # Category: Delivery and Execution
 ## Competency: How You Deliver and Execute
-### Phase: Developing
 
 You follow and participate in the creation of team conventions and processes.
 - Participates in the process of estimating and tasking out user stories

@@ -1,3 +1,8 @@
+# Category: Delivery and Execution
+## Competency: How You Deliver and Execute
+### Phase: Developing
+
+[How You Deliver and Execute](../delivery_and_execution/how_you_deliver_and_execute.md)
 
 ## Sessions
 **Cohort 1A**
