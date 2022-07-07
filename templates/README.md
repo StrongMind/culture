@@ -1,6 +1,9 @@
-# Learnosity Player
+# Example README
+
+This is an example of what we expect in a README.
 
 ## What?
+
 A summary of the purpose of this piece of software, for example: 
 
 Delivery of Learnosity assessments to students and reporting student results to teachers.
@@ -13,19 +16,45 @@ A diagram showing all of the following:
 * project outputs
 * project data stores
 
-For example:
+For example [see mermaid documentation](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax):
 
 ```mermaid
-graph TD
+graph LR
+    subgraph project_components[Hypothetical Service]
+    	
+	    project_api[Hypothetical Service API]
+	    project_frontend[Hypothetical Service Frontend]
+	    subgraph datastores[Data Stores]
+    		postgres[PostgreSQL]
+    		queue[SQS queue service]
+    	end
+	  end
 
-    subgraph raw_iot
-        a
+    subgraph inputs[Inputs]
+    	event_platform_input[Event Platform]
+			cloud_canvas[Cloud Canvas API]
+			identity[Identity Server]
     end
+    
 
-    subgraph warehouse
-        A --> B
-        B --> C
+    subgraph end_users[End Users]
+	    student[Student]
+			administrator[Administrator]
     end
+    
+    subgraph outputs[Outputs]
+    	event_platform_out[Event Platform]
+    end
+    
+    event_platform_input -->|Canvas Change Events| project_api
+    cloud_canvas -->|Canvas User API get| project_api
+    identity -->|Authentication of users| project_frontend
+    
+    project_frontend -->|Views a thing| student
+    administrator -->|Creates things| project_frontend
+    
+    project_api -->|Sends create and view messages| event_platform_out
+
 ```
 
 
@@ -94,7 +123,6 @@ py manage.py runserver
 ```
 
 > Code owners can be found in [CODEOWNERS file](./CODEOWNERS)
-
 
 
 
