@@ -14,3 +14,12 @@
   * Ask questions about anything sitting in In Progress more than one day (the dots on the cards)
 
 Take notes of what you are observing and share in #team-new52
+
+---
+
+## Pairing Habits
+* Pair with Tylar, Jerry, Chris while different team members are on PTO at different times
+* Adhere to Pairing Habits in Technical document
+* Do perfection game after session
+
+Share perfection game insights in #team-new52
