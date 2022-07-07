@@ -16,7 +16,9 @@ A diagram showing all of the following:
 * project outputs
 * project data stores
 
-For example [see mermaid documentation](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax):
+([see mermaid documentation on how to create these diagrams](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax))
+
+For example:
 
 ```mermaid
 graph LR
