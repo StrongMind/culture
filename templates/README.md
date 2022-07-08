@@ -93,6 +93,16 @@ In this source directory:
 4. create virtual environment for project `mkvirtualenv project_name -p /opt/homebrew/opt/python@3.10/bin/python3`
 5. install project requirements `pip install -r requirements.txt`
 
+##### known issues and fixes
+
+If your system python does not include pip, you will need to make sure pip is installed :
+
+```console
+python -m ensurepip # if your system python is at least 3.4
+```
+
+If your system python isn't at least 3.4, you will need to use your system package manager to install pip.
+
 
 ### windows
 In this source directory:
