@@ -22,4 +22,15 @@ Take notes of what you are observing and share in #team-new52
 * Adhere to Pairing Habits in Technical document
 * Do perfection game after session
 
-Share perfection game insights in #team-new52
+Share feedback and insights in #team-new52
+
+
+---
+
+## Effective Retrospectives
+* Identify specific areas for the team to retro on
+* Facilitate conversations related to those focus areas  
+* Do perfection game after session
+
+Share feedback and insights in #team-new52
+
