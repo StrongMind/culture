@@ -46,7 +46,7 @@ A list of links to operational information, for example:
 
 ## Local Install
 
-* Visit [https://recruiting2.ultipro.com/STR1017SMINC/JobBoard/e883a137-8797-484c-bf4d-c3d514ec5e38/?q=&o=postedDateDesc&w=&wc=&we=&wpst=&f5=fomFUKZBpE-POmuBhDZQgQ](our current vacancies)
+* Visit [our current vacancies](https://recruiting2.ultipro.com/STR1017SMINC/JobBoard/e883a137-8797-484c-bf4d-c3d514ec5e38/?q=&o=postedDateDesc&w=&wc=&we=&wpst=&f5=fomFUKZBpE-POmuBhDZQgQ)
 * Select vacancy
 * Click Apply Now
 * Speak with our recruiters in the USA or the Phillippines
