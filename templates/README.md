@@ -16,9 +16,7 @@ A diagram showing all of the following:
 * project outputs
 * project data stores
 
-([see mermaid documentation on how to create these diagrams](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax))
-
-For example:
+For example [see mermaid documentation](https://mermaid-js.github.io/mermaid/#/./flowchart?id=flowcharts-basic-syntax):
 
 ```mermaid
 graph LR
@@ -76,9 +74,9 @@ For example:
 * [https://github.com/StrongMind/culture/actions](https://github.com/StrongMind/culture/actions)
 
 ### Administration
-A list of links to operational information, for example:
+A list of links to operational production information, with any account information included for aws for example:
 
-* [logs](https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2#logsV2:logs-insights$3FqueryDetail$[…]*2flambda*2fid-mapper-prod$2529$2529)
+* [logs](https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2#logsV2:logs-insights$3FqueryDetail$[…]*2flambda*2fid-mapper-prod$2529$2529) (using cinnamon account)
 * [exception tracking](https://sentry.io/organizations/strongmind-4j/projects/id-mapper/?project=6262579)
 * [monitoring & metrics dashboard](https://us-west-2.console.aws.amazon.com/cloudwatch/home?region=us-west-2#dashboards:name=identifier-mapper-prod)
 
