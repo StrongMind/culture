@@ -31,14 +31,9 @@ graph LR
 
 ### CI/CD
 
-A link to CI/CD for this repository
-For example:
-
 * [https://github.com/StrongMind/culture/actions](https://github.com/StrongMind/culture/actions)
 
 ### Administration
-
-A list of links to operational information, for example:
 
 * [(b)logs](https://strongmind-newsletter.netlify.app/)
 * [exception tracking](https://sentry.io/organizations/strongmind-4j/)
