@@ -1,4 +1,14 @@
 # Qwerty
+
+## Understanding and Following Capacity Planning
+* Start by understanding what the team capacity has been for the past 5 sprints
+* Compare to the actual delivery of the recent sprints
+* Talk about the importance of reliability to Product
+  * Reduces surprises about what will be delivered
+  * allows a predictive roadmap
+  * may affect the prioritization of work or the "must have" scope
+* Challenge: in the next planning use the capacity average to commit to only that amount of work.
+
 ## Introduce & Enforce Strict Stand-up Standards Daily
 * Start with burn down chart.
   * Determine the delta and what it takes to be on track
