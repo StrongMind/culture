@@ -3,6 +3,7 @@
 * ~~Thinking about behaviours and mixins in rails (https://github.com/StrongMind/horseshoes-app/commit/69a7c1f5bf8c7050a721f5a9d9351913c0cef156)~~
 * ~~Structured logging and Cloudwatch (https://github.com/StrongMind/canvas-oneroster-adapter/pull/79#pullrequestreview-1003004119)~~
 * ~~Further behaviors/mixins/concerns~~
+* [id-mapper security upgrades bugged dependencies](https://github.com/StrongMind/id-mapper/security/dependabot)
 * Let's make some READMEs!
 * Add meaningful tests to untested code
 
