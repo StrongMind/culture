@@ -42,6 +42,13 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Rust (**obsolete**)
 - DNX (**obsolete**)
 
+## Video/Audio/Chat Conferencing
+- Zoom
+- Slack
+- Discord (**deprecated**)
+- Teams (**obsolete**)
+
+
 ## Front End Frameworks
 - React
 - Angular >12
