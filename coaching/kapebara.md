@@ -28,5 +28,6 @@ Take notes of what you are observing and share in #team-new52
 * Retrospectively, identify past situations where progress has stalled
   * Hint: check the cycle time of past stories, bugs and even subtasks
 * How could an ask for help enabled the team to get past the hurdle sooner?
+* What are some strategies SM and SMLP can incorporate to address time zone differnces when asking for help?
 
 Take notes of what you are observing and share a summary in #team-new52
