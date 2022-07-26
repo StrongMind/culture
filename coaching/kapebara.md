@@ -14,3 +14,19 @@
   * Ask questions about anything sitting in In Progress more than one day (the dots on the cards)
 
 Take notes of what you are observing and share in #team-new52
+
+## Ask for Help
+
+* Review the concept of [asking for help](https://liveingreatness.com/core-protocols/ask-for-help).
+* Individually, identify something you are having trouble moving forward on
+* In round robin fashion, ask one of your teammates for help in the form of "Will you..."
+
+* Next, identify something the team is stuck moving forward on
+* Clearly articulate what you want want help with
+* Identify who to direct the ask for help to (i.e. another team, manager)
+
+* Retrospectively, identify past situations where progress has stalled
+  * Hint: check the cycle time of past stories, bugs and even subtasks
+* How could an ask for help enabled the team to get past the hurdle sooner?
+
+Take notes of what you are observing and share a summary in #team-new52
