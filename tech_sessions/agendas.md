@@ -42,7 +42,7 @@
 
 ## DevOps
 ### Nothing Scheduled
-* Cohort First session followup and set next weeks agenda
+* Pizza Server in rails
 
 ## KapeBara
 ### Wednesday
