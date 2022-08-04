@@ -9,6 +9,11 @@ At StrongMind we work in terms of user stories with varying degrees of requireme
 
 # Stories 
 
+# Readme
+
+* It should describe steps required for building and running locally
+* It should describe how to run tests locally
+
 ## Manage Toppings 
 
 As a pizza store owner I should be able to manage toppings available for my pizza chefs. 
