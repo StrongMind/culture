@@ -32,3 +32,9 @@ Share perfection game insights in #team-new52
   * Ask questions about anything sitting in In Progress more than one day (the dots on the cards)
 
 Take notes of what you are observing and share in #team-new52
+
+## Team Observation
+* Now that Andromeda's team lead has left, observe the team behavior
+* Take note of what is going well and opportunities for coaching
+
+Share observations in #team-new52
