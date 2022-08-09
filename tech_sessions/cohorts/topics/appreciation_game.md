@@ -15,3 +15,12 @@
 ## Exercise
 * Put an appreciation in for someone else in the room.
 
+## Appreciation Game Homework
+* Do appreciation game after at least one stand up.
+* Do appreciation game after a pairing / mobbing session.
+
+** Share the following:**
+
+1. The reaction from others.
+2. How it made you feel.
+3. Positive/Negative impacts.

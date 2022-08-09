@@ -27,3 +27,13 @@ The Perfection Game protocol will support you in your desire to aggregate the be
   * Introduction Refinement
 * Introduction Round 2
 * Swap
+
+## Perfection Game Homework
+* Do perfection game after at least one stand up.
+* Do perfection game after a pairing / mobbing session.
+
+** Share the following:**
+
+1. The reaction from others.
+2. How it made you feel.
+3. Positive/Negative impacts.
