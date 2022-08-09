@@ -22,6 +22,8 @@
 ### Tuesday
 * ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py~~
 * ~~MVC Pattern and DRY~~
+* How do we make our logs more searchable (structured logging and standards?)
+* How do we automate understanding if we have regressions
 * Let's make some READMEs!
 * Add meaningful tests to untested code
 
