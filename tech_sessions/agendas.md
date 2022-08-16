@@ -23,6 +23,7 @@
 ### Tuesday
 * ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py~~
 * ~~MVC Pattern and DRY~~
+* [Why do we do this?](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py#L83)
 * How do we make our logs more searchable (structured logging and standards?)
 * How do we automate understanding if we have regressions
 * Let's make some READMEs!
