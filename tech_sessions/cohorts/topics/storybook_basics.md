@@ -20,4 +20,6 @@
 * Find the component you're looking for under "Documentation" or "Atom"
 * Copy the html by clicking "Show code"
 * Under "Documentation" for the component you're looking for, there is a link to "View CSS on Github" or you can [find the CSS in Github here](https://github.com/StrongMind/strongmind-ui/tree/master/src)
+* Customize a component using the controls provided in the "Docs" section of an Atom or Element
 * Reach out to Search Party for any components you're looking for that aren't there yet and we'll prioritze them
+* More [info on getting started can be found here](https://github.com/StrongMind/strongmind-ui/blob/intro/src/stories/GetStarted.stories.mdx) or head on over to  [ux.strongmind.com](http://ux.strongmind.com/) and start using it!
