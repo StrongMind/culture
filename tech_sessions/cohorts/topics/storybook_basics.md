@@ -13,7 +13,7 @@
 
 ## What is Storybook?
 * Open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
-* Uses atomic design
+* Uses [atomic design](https://bradfrost.com/blog/post/atomic-web-design/)
 * [Storybook](https://storybook.js.org/)
 
 ## How to Use
