@@ -10,10 +10,14 @@
 ## Importance
 * Helps with product consistency
 * Reduces development time
-* 
 
 ## What is Storybook?
+* Open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 * Uses atomic design
+* [Storybook](https://storybook.js.org/)
 
 ## How to Use
-* 
+* Find the component you're looking for under "Documentation" or "Atom"
+* Copy the html by clicking "Show code"
+* Under "Documentation" for the component you're looking for, there is a link to "View CSS on Github" or you can [find the CSS in Github here](https://github.com/StrongMind/strongmind-ui/tree/master/src)
+* Reach out to Search Party for any components you're looking for that aren't there yet and we'll prioritze them
