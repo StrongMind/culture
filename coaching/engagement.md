@@ -34,3 +34,16 @@ Share feedback and insights in #team-new52
 
 Share feedback and insights in #team-new52
 
+---
+
+## Capacity Planning
+* Since the team will have less than full capacity this sprint, this is a good time to introduce a technique for Capacity Planning
+* Create table containing each team member on the vertical axis and the days of the sprint in the horizontal axis
+* Choose a number to use for the max hours of work time per day (the actual number isn't important since it will be used to derive a percentage)
+* Fill in, up to the max hours, the availability for each person per day. If someone will be out or have partial availability on certain days, be sure to indicate by reducing their time for those days
+* Total up the capacity for the sprint and divide it by the the maximum team capacity (availability percentage)
+* Use the Insights tool in Jira to determine the average velocity for the past 5 sprints
+* Multiply the availability percentage by the average velocity
+* The resulting number is the target committment story points for the team for the sprint
+
+Share summary in #team-new52
