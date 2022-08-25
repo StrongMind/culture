@@ -1,4 +1,12 @@
 # Horseshoes
+
+## Openly Opinionated and Bias to Action
+
+When we openly share opinions, ideas and concerns it provides the opportunity for others to ask questions, to understand, and respond. Communicating openly helps us understand where we are or are not aligned with others. 
+
+* Introduce Decider Protocol and encourage bias to action
+* Introduce Investigate Protocol as a tool for seeking clarification or uncovering non-alignment
+
 ## Understanding and Using Capacity Planning
 * Start by understanding what the team capacity has been for the past 5 sprints
 * Compare to the actual delivery of the recent sprints
