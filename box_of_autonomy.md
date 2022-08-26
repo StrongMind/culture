@@ -97,5 +97,6 @@ Each team/product will produce/publish/follow the following:
 - Team systems must be a superset of corporate systems run by OPS (e.g. teams need to integrate with the following OPS systems, but can stand up their own)
 - Products must integrate with the corporate alerting system.
 - Logs must be shipped to the approved OPS repository.
+- Exceptions must be reported to an approved exception reporting system.
 - Data must be shipped to the data platform.
 - Data retention matches corporate policy.
