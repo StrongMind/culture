@@ -38,6 +38,8 @@
 * ~~Let's make some READMEs!~~
 * Add meaningful tests to untested code
   * Dealing w/ tests when tests are split across paradigms (mockito, pytest, unittest)
+  * Controller Unit Testing
+  * Front end testing
 
 ## Engagement
 ### Thursday
