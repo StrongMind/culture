@@ -37,6 +37,7 @@
 * ~~How do we automate understanding if we have regressions~~
 * ~~Let's make some READMEs!~~
 * Add meaningful tests to untested code
+  * Dealing w/ tests when tests are split across paradigms (mockito, pytest, unittest)
 
 ## Engagement
 ### Thursday
