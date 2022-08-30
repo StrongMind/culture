@@ -32,7 +32,8 @@
 * Revocable LTI keys
   * How to actually use LTI keys for LTIs to secure our calls (authorization)
   * What does "Revocable" look like for access to our LTIs
-* Lti-list-view-gradebook
+* How do we move away from crappy Django clones?
+  * Lti-list-view-gradebook is a good candidate to start with this
 * How do we automate understanding if we have regressions
 * Let's make some READMEs!
 * Add meaningful tests to untested code
