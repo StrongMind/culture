@@ -27,6 +27,8 @@
 * ~~[Why do we do this?](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py#L83)~~
 * ~~[Large Views file with lots of business logic](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py)~~
 * How do we make our logs more searchable (structured logging and standards?)
+  * Gather input on first draft in conjunction w/ Horseshoes
+  * Create implementation in Ruby
 * Revocable LTI keys
 * Lti-list-view-gradebook
 * How do we automate understanding if we have regressions
