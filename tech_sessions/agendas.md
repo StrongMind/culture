@@ -25,7 +25,7 @@
 * ~~MVC Pattern and DRY~~
 * Build new agenda session
 * ~~[Why do we do this?](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py#L83)~~
-* [Large Views file with lots of business logic](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py)
+* ~~[Large Views file with lots of business logic](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py)~~
 * How do we make our logs more searchable (structured logging and standards?)
 * Revocable LTI keys
 * Lti-list-view-gradebook
