@@ -50,3 +50,12 @@ Share observations in #team-new52
 * The resulting number is the target committment story points for the team for the sprint
 
 Share summary in #team-new52
+
+## Driving Toward Shorter Cycle Time
+* Review cycle time data from Holistics
+* Reflect on oppotunities to deliver value in smaller chunks
+* Discuss the importance for shorter cycle times
+  * Shorter feedback cycles
+  * Better guage of progress
+* Look ahead for oppotunities to split stories
+* Work with product to split stories during backlog grooming
