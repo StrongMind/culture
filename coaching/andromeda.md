@@ -59,3 +59,5 @@ Share summary in #team-new52
   * Better guage of progress
 * Look ahead for oppotunities to split stories
 * Work with product to split stories during backlog grooming
+
+Share summary in #team-new52
