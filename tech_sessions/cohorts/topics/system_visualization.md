@@ -18,3 +18,14 @@ References: *[Francis Miller - The Power of Diagrams](https://www.francismiller.
   * Structural (i.e. Class, Component, Deployment)
   * Behavorial (i.e. Use Case, Activity, Sequence, State)
 * Entity-Relationship Diagram
+
+## Simple block diagram
+* Simple components
+  * simple shapes (blocks, ovals)
+  * words
+  * lines and arrows
+  * icons
+* No "training" required
+
+*ToDo: insert picture*
+
