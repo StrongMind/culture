@@ -19,7 +19,7 @@ References: *[Francis Miller - The Power of Diagrams](https://www.francismiller.
   * Behavorial (i.e. Use Case, Activity, Sequence, State)
 * Entity-Relationship Diagram
 
-## Simple block diagram
+## Simple Block Diagram
 * Simple components
   * simple shapes (blocks, ovals)
   * words
@@ -27,16 +27,23 @@ References: *[Francis Miller - The Power of Diagrams](https://www.francismiller.
   * icons
 * No "training" required
 
-*ToDo: insert picture*
+![Sample block diagram](./sample_block_diagram.png)
 
-## User Flow diagram
+## User Centric Diagrams
+
+### User flow diagram
 * User's navigation through a product or products
   * user experience
   * sequence of steps
 
-*ToDo: insert picture*
+![Sample user flow diagram](./sample_user_flow_diagram.png)
+### User Journey Map
+* a visual representation of the customer experience
+* view the entire customer experience as a path or journey that begins with having a need and ends with having that need met
 
-## Data Flow diagram
+![Sample user journey map](./sample_user_journey_map.jpg)
+
+## Data Flow Diagram
 * Maps out the flow of information for any process or system
 * Component Types
   * External Entity - outside system that sends/receives data
@@ -44,14 +51,14 @@ References: *[Francis Miller - The Power of Diagrams](https://www.francismiller.
   * Data Store - repository that persists data
   * Data Flow - direction of the flow of data
 
-*ToDo: insert picture*
+![Sample data flow diagram](./sample_data_flow_diagram.jpg)
 
 ## UML Sequence Diagram
 * Behavioral diagrams that detail how software operations
 * Captures the interaction between objects, components, systems
 * Captures order of operations
 
-*ToDo: insert picture*
+![Sample sequence diagram](./sample_sequence_diagram.png)
 
 ## Diagramming Tools
 * Basics
