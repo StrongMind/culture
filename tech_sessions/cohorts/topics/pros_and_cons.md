@@ -64,7 +64,7 @@ score each option by multiplying the factor score by the factor weight, then sum
 * Bias to action
 * make cheap mistakes
 * create quick feedback cycles
-* make a proposal
+* make a proposal using [Decider Protocol](https://liveingreatness.com/core-protocols/decider/)
 
 **Not Considering the Ripple Effects**
 * Consider the systems upstream and downstream which would be effected
