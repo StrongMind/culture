@@ -21,6 +21,7 @@
 
 ## Steakholders
 ### Tuesday
+* [strangler figs](https://martinfowler.com/bliki/StranglerFigApplication.html)
 * ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py~~
 * ~~MVC Pattern and DRY~~
 * Build new agenda session
