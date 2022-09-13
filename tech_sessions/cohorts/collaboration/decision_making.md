@@ -31,14 +31,15 @@ Draw two axis -
 * Effort going to the right from low to high
 
 For each potential approach, place it on the chart according to level of effort and probably impact
-![](@attachment/Clipboard_2022-09-13-11-19-18.png)
+
+("<img src= 'https://cdn-images-1.medium.com/max/800/0*fAxZVRNG9st6Aiji.'/>")
 
 **Analysis Matrix**
 List the options in rows
 In the columns across list the primary factors to consider
 In the top row assign "weights" to each factor (1-5)
 
-![](@attachment/Clipboard_2022-09-13-11-31-34.png)
+("<img src= 'https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q2/decision-matrix/decision-matrix-restaurant-example-2.png'/>")
 
 score each option by multiplying the factor score by the factor weight, then sum scores for each option
 
