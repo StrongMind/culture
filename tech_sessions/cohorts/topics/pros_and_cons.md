@@ -27,7 +27,7 @@ Write Pros on one side and Cons on the other
 2. Score each Con with 0 to -5
 3. Sum each side to determine if it makes sense to proceed with the solution
 
-"<img src= 'http://idea-sandbox.com/blog_images/pro_con_rank-1.jpg'/>"
+<img src= 'http://idea-sandbox.com/blog_images/pro_con_rank-1.jpg'/>
 
 **Impact / Effort Matrix**
 1. Draw two axis - 
@@ -36,7 +36,7 @@ Write Pros on one side and Cons on the other
 
 For each potential approach, place it on the chart according to level of effort and probably impact
 
-("<img src= 'https://cdn-images-1.medium.com/max/800/0*fAxZVRNG9st6Aiji.'/>")
+<img src= 'https://cdn-images-1.medium.com/max/800/0*fAxZVRNG9st6Aiji.'/>
 
 **Force Field Analysis**
 This tool is especially useful to understand the forces for and against a proposed change. Each force is given a size or weight that represents how "strong" it is compared to other forces. 
@@ -47,14 +47,14 @@ This tool is especially useful to understand the forces for and against a propos
 4. Use dot voting, sizing or another method to determine the strength rating for each force
 5. Sum each side of the forces
 
-"<img src= 'https://www.mindtools.com/pages/article/newTED_06.htm'/>"
+<img src= 'https://www.mindtools.com/media/Diagrams/Figure2_Forcefield_Analysis_v3.png'/>
 
 **Analysis Matrix**
 1. List the options in rows
 2. In the columns across list the primary factors to consider
 3. In the top row assign "weights" to each factor (1-5)
 
-("<img src= 'https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q2/decision-matrix/decision-matrix-restaurant-example-2.png'/>")
+<img src= 'https://d2slcw3kip6qmk.cloudfront.net/marketing/blog/2019Q2/decision-matrix/decision-matrix-restaurant-example-2.png'/>
 
 score each option by multiplying the factor score by the factor weight, then sum scores for each option
 
