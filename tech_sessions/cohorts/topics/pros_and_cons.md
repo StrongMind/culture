@@ -1,4 +1,4 @@
-# Decision Making
+# Pros and Cons Decision Making
 
 ## Define the Problem
 
