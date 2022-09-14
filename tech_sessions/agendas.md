@@ -63,6 +63,7 @@
 
 ## KapeBara
 ### Wednesday
+* Redo code climate quality for new folks
 * Velocity, code climate quality
 * Let's make some READMEs!
 * Add meaningful tests to untested code
