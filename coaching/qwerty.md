@@ -1,5 +1,17 @@
 # Qwerty
 
+## Refresh on Good Pairing Practices
+* Provided team with infographic / suggestions
+* Group "pop quiz" based on infographic
+* Challenge them to choose one good practice to focus on in next pairing. Then share back. 
+  * What did you choose to focus on?
+  * How did that practice help your pairing?
+  * Any negatives?
+* Team commits to adopt practices that improved the pairing sessions. 
+* Reflections on how effective pairing helps over all progress.
+* ![image](https://user-images.githubusercontent.com/20523663/190516089-eb140ed5-b9dc-419b-a408-5bb6586dc3b3.png)
+
+
 ## Understanding and Following Capacity Planning
 * Start by understanding what the team capacity has been for the past 5 sprints
 * Compare to the actual delivery of the recent sprints
