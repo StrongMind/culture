@@ -47,3 +47,17 @@ Share feedback and insights in #team-new52
 * The resulting number is the target committment story points for the team for the sprint
 
 Share summary in #team-new52
+
+## Addressing OpsGenie Issues
+* Now that we've automated the process of generating Jira tickets for OpsGenie issues, addressing these has increased visibility
+* The goal is to ensure that OpsGenie alerts reflect issues that need to be delt with
+* These need to be reviewed on a daily basis
+* Anything that is adversely impacting our customers needs to be addressed in the current sprint
+* Check for the value that alerts are providing.
+  * Adjust alerting thresholds for alerts that might be too sensitive
+  * Remove alerts for items that are simply warnings or informational
+* For repeating alerts, once the underlying issue has been identified, delete the duplicates and monitor for recurrances
+* Lather, rinse, repeat
+
+Share summary in #team-new52
+
