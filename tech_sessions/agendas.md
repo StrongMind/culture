@@ -21,6 +21,8 @@
 
 ## Steakholders
 ### Tuesday
+* Dashboarding in AWS
+* ~~[strangler figs](https://martinfowler.com/bliki/StranglerFigApplication.html)~~
 * ~~test issues with https://github.com/StrongMind/canvas-cloud-adapter-oneroster-proxy/blob/main/tests/serializers/test_user_serializer.py~~
 * ~~MVC Pattern and DRY~~
 * Build new agenda session
@@ -62,6 +64,7 @@
 
 ## KapeBara
 ### Wednesday
+* Redo code climate quality for new folks
 * Velocity, code climate quality
 * Let's make some READMEs!
 * Add meaningful tests to untested code
