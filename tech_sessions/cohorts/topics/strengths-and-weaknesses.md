@@ -1,18 +1,34 @@
-Why do we care about strenghts and weaknesses?
-* super charge your team
-* awareness of blind spots
-* may inform how we approach a problem to solve
+**What are Strengths
+* Things I'm good at
+* Things I'm interested/passionate about
+* Things do instinctively
+* Others ask me for help with
 
-Assessing your strengths and weaknesses
+**What are weaknesses
+* Things I struggle with
+* Require a lot of effort to do
+* Make mistakes doing
+* Areas where I lack experience
+
+**Why do we care about strenghts and weaknesses?
+* super charge your team
+* awareness of blind spots or gaps that are holding you back
+* may inform how we approach a problem to solve
+* areas I can help others grow
+
+**Assessing your strengths and weaknesses
+* Self reflection
+* Ask others for feedback
 * https://www.gravyforthebrain.com/wp-content/uploads/2016/11/Identifying-Your-Strengths-Weaknesses-1.pdf
 * Additional online tools:
   https://www.viacharacter.org/character-strengths
   https://richardstep.com/richardstep-strengths-weaknesses-aptitude-test/free-aptitude-test-find-your-strengths-weaknesses-online-version/
   https://high5test.com/
   https://www.gallup.com/cliftonstrengths/en/home.aspx (paid)
+* Strongminder's Journey
 
 
-Playing to your strengths
+**Playing to your strengths
 * Should I work on my weaknesses?
 *   yes (cover the major gaps)
 *   and no (think about the ROI of where you spend your time and energy)
