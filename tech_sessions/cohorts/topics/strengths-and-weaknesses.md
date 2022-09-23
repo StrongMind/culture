@@ -32,7 +32,7 @@
 * Should I work on my weaknesses?
 *   yes (cover the major gaps)
 *   and no (think about the ROI of where you spend your time and energy)
-* data on engagment and happiness (https://www.gallup.com/cliftonstrengths/en/356810/strengths-set-apart.aspx)
+* stats on engagment and happiness (https://www.gallup.com/cliftonstrengths/en/356810/strengths-set-apart.aspx)
 * Drucker https://www.google.com/books/edition/Managing_Oneself/jHT_BgAAQBAJ?hl=en&gbpv=1&dq=peter+drucker+strengths+and+weaknesses&printsec=frontcoverß
 * Think about the your unique strengths and how to grow / leverage them
 
