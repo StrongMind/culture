@@ -52,6 +52,9 @@ For this exercise, we will be taking a look at READMEs for the repos we use most
    1. Instructions for getting working locally are missing or sparse
    1. The README was never updated from the default template
 1. Your goal, at a minimum, will be to update the README to accurately reflect how to install and run the application locally
+   1. Start following the steps in the README to get the application to run on your local machine
+   1. If there are no steps, attempt to figure it out
+   1. As you progress, update the README to include the steps you followed.
 1. Aftewards, pair up with someone...
    1.  Ask them to perfection perfection game the updated README
    1.  Ask them to follow your instructions to get the application installed and running locally
