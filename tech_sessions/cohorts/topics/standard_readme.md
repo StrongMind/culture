@@ -41,4 +41,18 @@ Explicit step-by-step instructions to get the code working locally
 
 ## Template
 
-[StrongMind Standard README template](/templates/README.md)
+* [StrongMind Standard README template](/templates/README.md)
+
+# In-Class Exercise
+
+For this exercise, we will be taking a look at READMEs for the repos we use most, following the instructions to get it working locally and make improvements to the READEM where needed.
+
+1. Browse through the repos that have fairly regular activity by navigating to the [Repository Dashboard](https://repository-dashboard.strongmind.com).
+1. Choose one of the projects where the README needs some love
+   1. Instructions for getting working locally are missing or sparse
+   1. The README was never updated from the default template
+1. Your goal, at a minimum, will be to update the README to accurately reflect how to install and run the application locally
+1. Aftewards, pair up with someone...
+   1.  Ask them to perfection perfection game the updated README
+   1.  Ask them to follow your instructions to get the application installed and running locally
+
