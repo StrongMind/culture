@@ -57,25 +57,41 @@ Cons
 
 
 <h2>how would you make an evaluation?</h2>
+
 * phase of development (new vs mature product)
 * current scale of usage
 * complexity of the business needs
 * resources available to develop and support
 * speed to market (get it in the user's hands)
 
-<h2>samples of good examples of each</h2>
-Monolith
+<h2>Examples</h2>
 
+Netflix (started as Monolith)
+Amazon (started as Monolith)
+Ebay (started as Monolith)
+Uber (started as Monolith)
 
-Micro-Services
-Netflix
-Amazon
-Google
-
-In other words, M/SOA fits the organizational shape of very large corporations. 
+In other words, many very successful products started as a monolitgh and transitioned as they grew in maturity, scale and complexity. A Microservices model fits the organizational shape of very large corporations. 
  
-<h2>maybe things that shouldn’t be what they are</h2>
+Can you think of examples of products that might be in the wrong model?
 
 <h2>what does it look like to morph from one to the other?</h2>
 
-(intent: new things default to monolith and get abstracted out as you need to)
+Create a plan
+* Identify which services should stand alone
+* Disentangle dependencies within the monolith
+* Design APIs and plan for backwards compatibility
+* Consider migration and sync of data between the monolith and microservices databases
+
+(Maybe) Put everything in a monorepo
+
+![image](https://user-images.githubusercontent.com/20523663/193133291-7282722b-6bb5-4d41-9bd2-6b19d6dc2729.png)
+
+Use a shared CI Pipeline
+
+Testing is your friend
+
+Use Feature Flags
+
+Add Observability (monitoring and logging to keep tabs on multiple services)
+
