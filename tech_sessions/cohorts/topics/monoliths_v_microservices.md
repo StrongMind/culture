@@ -1,5 +1,7 @@
 <h2>What are they?</h2>
+
 **Monolith**
+
 * application built as a single unified unit
 * Self contained
 * independant from other applications
@@ -15,6 +17,7 @@
 
 
 <h2>define pros and cons</h2>
+
 **Monolith**
 
 Pros
