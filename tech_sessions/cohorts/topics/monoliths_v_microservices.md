@@ -3,24 +3,31 @@
 * application built as a single unified unit
 * Self contained
 * independant from other applications
-* 
+
+![image](https://user-images.githubusercontent.com/20523663/192886732-0db9a01f-4ce5-400d-a3b2-c6370e12c1f7.png)
 
 **Microservices**
 * a collection of smaller, independently delployable services
 * services have their own business logic and database with a specific goal. 
 * Updating, testing, deployment, and scaling occur within each service.
 
+![image](https://user-images.githubusercontent.com/20523663/192887168-41006eca-562c-44a3-ac1d-7461265ad4dd.png)
+
+
 <h2>define pros and cons</h2>
 **Monolith**
+
 Pros
+
 * ease of code management -  When an application is built with one code base, it is easier to develop.
-* less cognitive overhead
+* less cognitive overhead - developers need not learn different applications, they can focus on one
 * easier deployment - One executable file or directory makes deployment easier
 * Performance – In a centralized code base and repository, one API can often perform the same function that numerous APIs perform with microservices.
 * Simplified testing – Since a monolithic application is a single, centralized unit, end-to-end testing can be performed faster than with a distributed application. 
 * Easy debugging – With all code located in one place, it’s easier to follow a request and find an issue.
 
 Cons
+
 Monolithic applications can be quite effective until they grow too large and scaling becomes a challenge. 
 * Slower development speed – A large, monolithic application makes development more complex and slower.
 * Scalability – You can’t scale individual components.
@@ -30,6 +37,7 @@ Monolithic applications can be quite effective until they grow too large and sca
 * Deployment – A small change to a monolithic application requires the redeployment of the entire monolith.
 
 **Microservices**
+
 Pros
 
 * Flexible scaling – If a microservice reaches its load capacity, new instances of that service can be deployed to help relieve pressure.
@@ -38,6 +46,7 @@ Pros
 * Technology flexibility – Microservice architectures allow teams the freedom to mix and match tools. 
 
 Cons
+
 * Development sprawl – Microservices add more complexity compared to a monolith architecture, since there are more services in more places created by multiple teams. If development sprawl isn’t properly managed, it results in slower development speed and poor operational performance. 
 * Exponential infrastructure costs – Each new microservice can have its own cost for test suite, deployment playbooks, hosting infrastructure, monitoring tools, and more.
 * Added organizational overhead – Teams need to add another level of communication and collaboration to coordinate updates and interfaces. 
@@ -48,8 +57,22 @@ Cons
 
 
 <h2>how would you make an evaluation?</h2>
+* phase of development (new vs mature product)
+* current scale of usage
+* complexity of the business needs
+* resources available to develop and support
+* speed to market (get it in the user's hands)
 
 <h2>samples of good examples of each</h2>
+Monolith
+
+
+Micro-Services
+Netflix
+Amazon
+Google
+
+In other words, M/SOA fits the organizational shape of very large corporations. 
  
 <h2>maybe things that shouldn’t be what they are</h2>
 
