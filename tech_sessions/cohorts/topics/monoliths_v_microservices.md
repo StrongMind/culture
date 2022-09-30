@@ -2,15 +2,15 @@
 
 **Monolith**
 
-* application built as a single unified unit
+* Application built as a single unified unit
 * Self contained
-* independant from other applications
+* Independent from other applications
 
 ![image](https://user-images.githubusercontent.com/20523663/192886732-0db9a01f-4ce5-400d-a3b2-c6370e12c1f7.png)
 
 **Microservices**
-* a collection of smaller, independently delployable services
-* services have their own business logic and database with a specific goal. 
+* A collection of smaller, independently deployable services
+* Services have their own business logic and database with a specific goal. 
 * Updating, testing, deployment, and scaling occur within each service.
 
 ![image](https://user-images.githubusercontent.com/20523663/192887168-41006eca-562c-44a3-ac1d-7461265ad4dd.png)
@@ -74,7 +74,7 @@ Amazon (started as Monolith)
 Ebay (started as Monolith)
 Uber (started as Monolith)
 
-In other words, many very successful products started as a monolitgh and transitioned as they grew in maturity, scale and complexity. A Microservices model fits the organizational shape of very large corporations. 
+In other words, many very successful products started as a monolith and transitioned as they grew in maturity, scale and complexity. A Microservices model fits the organizational shape of very large corporations. 
  
 Can you think of examples of products that might be in the wrong model?
 
