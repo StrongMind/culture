@@ -22,6 +22,8 @@
 * Build new agenda session
 * ~~[Why do we do this?](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py#L83)~~
 * ~~[Large Views file with lots of business logic](https://github.com/StrongMind/lti-account-settings/blob/a4cce10fbe47a3b0b90f59e7aa7feff7b6cacbc1/views.py)~~
+* Adding modern tests to [lti bulk assign observer](https://github.com/StrongMind/lti-bulk-assign-observer)
+  * interested in using Mockito and make it more rspecish
 * How do we make our logs more searchable (structured logging and standards?)
   * Gather input on first draft in conjunction w/ Horseshoes
   * Create implementation in Ruby
