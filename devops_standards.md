@@ -51,9 +51,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Front End Frameworks
 - React
-- Angular >12 (**deprecated**)
 - Ionic
 - Blazor
+- Angular >12 (**deprecated**)
 - jQuery (**obsolete**)
 - Aurelia (**obsolete**)
 - Knockout (**obsolete**)
