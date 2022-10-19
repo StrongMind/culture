@@ -11,8 +11,5 @@
 ## Testing
 (what did you do to confirm this works/what would a QA engineer do to confirm - Think: setup process, steps, expected outcomes)
 
-## Screenshots (if applicable)
+## Screenshots/Video
 (show before/after of the change if possible)
-
-## Anything else 
-(lingering questions/concerns/learning)
