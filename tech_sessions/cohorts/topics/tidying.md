@@ -1,7 +1,36 @@
 # Tidying Code
+
+Finding small areas of disorganization you improve by cleaning things up bit by bit.
+
 ## Structure vs Behavior [Reversibility]
-## Tidy vs Rewriting
+
+**Behavioral**: change means changing the way the code operates
+**Structural**: rearranges and/or reorganizes the code
+
+## Tidying vs Rewriting
+### Tidying
+#### Pros
+- lower risk of introducing regression issues
+- quick
+- small changes are easy
+- iterate small chunks toward larger changes
+- existing tests can be reused
+
+#### Cons
+- doesn't address system design concerns
+
+### Rewriting
+#### Pros
+- Fresh new outlook on the solution
+- Can simplify larger sets of code
+#### Cons
+- higher risk of introducing regression issues
+- slower
+- introduces behavorial changes
+- introduces breaking changes to tests
+
 ## Refactoring vs Rewriting
+
 
 ## Refactor Types
 
@@ -59,3 +88,9 @@
 * Smaller PRs
 * Quicker PR reviews
 * Harder than you think
+
+
+## References
+
+[Does this code spark joy? Tidying up your code bit by bit.](https://engineering.gusto.com/does-this-code-spark-joy)
+
