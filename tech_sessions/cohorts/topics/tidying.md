@@ -33,44 +33,74 @@ Finding small areas of disorganization you improve by cleaning things up bit by 
 
 
 ## Refactor Types
-
 ### NAMES
+Before
+```
+  function total(num1, num2)
+    return num1 + num2
+  end function
+
+  sum = total(2, 3)
+  print("The total is " + sum)
+```
+
+After
+```
+  function summarizeValues(num1, num2)
+    return num1 + num2
+  end function
+
+  sum = summarizeValues(2, 3)
+  print("The total is " + sum)
+```
+
 ### CONDITIONS
 #### Simple Case
+Before
 ```
   if (condition)
     many lines
   else
     one line
+```
 
+After
+```
   if (!condition)
     one line
   else
     many lines
 ```
 #### Preconditions
+Before
 ```
   if (variable)
     return variable
   else
     compute variable
   return variable
-
+```
+After
+```
   if (variable) return variable
   compute variable
   return variable
 ```
 #### Compute Values vs Pick a Path
+Before
 ```
   if (condition)
    temp = foo
   else
    temp = bar
-
+```
+After
+```
   temp = condition ? foo : bar
 ```
 
 ### REDUNDANCY
+
 ### EXTRACTION
 ### REORDERING
 
@@ -93,4 +123,5 @@ Finding small areas of disorganization you improve by cleaning things up bit by 
 ## References
 
 [Does this code spark joy? Tidying up your code bit by bit.](https://engineering.gusto.com/does-this-code-spark-joy)
+[Software Design: Tidy First?](https://tidyfirst.substack.com/archive)
 
