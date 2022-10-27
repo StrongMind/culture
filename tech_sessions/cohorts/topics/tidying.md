@@ -102,6 +102,27 @@ After
 ### REDUNDANCY
 
 ### EXTRACTION
+Before
+```
+function main(args)
+  radius = args[0]
+
+  area = Math.PI * radius * radius
+end function
+```
+
+After
+```
+function main(args)
+  radius = args[0]
+
+  area = calculateArea(radius)
+end function
+
+function calculateArea(radius)
+  return Math.PI * radius * radius
+end function
+```
 ### REORDERING
 
 ## Cyclomatic Complexity
