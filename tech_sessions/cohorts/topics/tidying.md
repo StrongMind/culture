@@ -30,7 +30,25 @@ Finding small areas of disorganization you improve by cleaning things up bit by 
 - introduces breaking changes to tests
 
 ## Refactoring vs Rewriting
+Refactoring
+#### Pros
+- lower risk (than rewriting) of introducing regression issues
+- changes smaller than rewriting
+- iterate small chunks toward larger changes
 
+#### Cons
+- small refactors don't address system design concerns
+- might introduce breaking changes to tests
+
+### Rewriting
+#### Pros
+- Fresh new outlook on the solution
+- Can simplify larger sets of code
+#### Cons
+- higher risk of introducing regression issues
+- slower
+- introduces larger behavorial changes
+- introduces breaking changes to tests
 
 ## Refactor Types
 ### NAMES
@@ -124,6 +142,19 @@ function calculateArea(radius)
 end function
 ```
 ### REORDERING
+Before
+```
+  function createSymLink(link, target)
+    // create symbolic link
+  end function
+```
+
+After
+```
+  function createSymLink(target, link)
+    // create symbolic link
+  end function
+```
 
 ## Cyclomatic Complexity
 * Cyclomatic complexity is a measurement to determine the stability and level of confidence in a program.
