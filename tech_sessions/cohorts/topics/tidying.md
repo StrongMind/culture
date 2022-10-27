@@ -130,6 +130,8 @@ end function
 * It measures the number of linearly-independent paths through a program module.
 * Programs with lower Cyclomatic complexity are easier to understand and less risky to modify.
 
+![CodeClimate Quality repo list](./codeclimate_quality_repo_list.png)
+![CodeClimate Quality sample analysis](./codeclimate_quality_sample_analysis.png)
 ## TAKE AWAYS
 ### Structure vs Behavior [Reversibility]
 * PRs only one kind of change
@@ -139,7 +141,6 @@ end function
 * Smaller PRs
 * Quicker PR reviews
 * Harder than you think
-
 
 ## References
 
