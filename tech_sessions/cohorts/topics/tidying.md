@@ -4,8 +4,8 @@ Finding small areas of disorganization you improve by cleaning things up bit by 
 
 ## Structure vs Behavior [Reversibility]
 
-**Behavioral**: change means changing the way the code operates
-**Structural**: rearranges and/or reorganizes the code
+* **Behavioral**: change means changing the way the code operates
+* **Structural**: rearranges and/or reorganizes the code
 
 ## Tidying vs Rewriting
 ### Tidying
