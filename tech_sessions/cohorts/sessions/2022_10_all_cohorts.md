@@ -8,11 +8,11 @@
 * Thurs/Topic 2: Incident Response: [Overview of Support Process](../topics/support_process.md) & [Outage Expectations](../topics/outage_expectations.md)
 
 ### Week 1
-* Tues/Topic 1: *System Sustainability: Tidying
+* Tues/Topic 1: *System Sustainability: [Tidying](../topics/tidying.md)
 * Thurs/Topic 2: Research: [Product Consistency](../topics/product_consistency.md)
 
 ### Week 2
-* Tues/Topic 1: *Human Computer Interaction: User Flow Diagrams
+* Tues/Topic 1: *Human Computer Interaction: [User Flow Diagrams and Story Mapping](../topics/userflow_and_story_mapping.md)
 * Thurs/Topic 2: Collaboration Across Team Boundaries: [ReadMe Standards](../topics/standard_readme.md)
 
 ### Week 3
