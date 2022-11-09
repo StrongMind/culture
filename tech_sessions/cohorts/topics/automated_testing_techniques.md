@@ -10,18 +10,31 @@
 * speed of delivery (speeds up regression testing)
 * allows retest during development
 
-## What kinds of tests can be automated?
-*
+## When should a test be automated?
+* Repeatable
+* Determinant
+* Repetitive/tedious
+* Business-critical
 
 ## Types of automated testing
-*
-
-## How to and tools
-*
+* Unit tests (Test::Unit, Jest, Xunit, unittest)
+* Integration tests
+* System testing
+  * functional (Selenium)
+  * regression
+  * smoke
+* Acceptance tests (Rspec, Cucumber)
+  * behaviorial tests
+  * performance tests
+  * A/B testing 
 
 ## Best Practices
-*
-
+1. Plan your testing. Make sure your test cases are clearly defined and well written. 
+2. Test as early and as often as possible during development.
+3. Test cases should be self-contained and easy to understand.
+4. Schedule testing automatically, ideally when new code is pushed. 
+5. Set up alerts so you are told as soon as a test fails.
+6. Remember that you need to constantly reassess your test plans as your app develops and changes.
 
 ## Resources
 * [Automated testing](https://www.functionize.com/automated-testing)
