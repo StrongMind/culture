@@ -36,5 +36,13 @@
 5. Set up alerts so you are told as soon as a test fails.
 6. Remember that you need to constantly reassess your test plans as your app develops and changes.
 
+## Test Driven Development
+1. Add a test
+2. Run all tests. The new test should fail for expected reasons
+3. Write the simplest code that passes the new test
+4. All tests should now pass
+5. Refactor as needed, using tests after each refactor to ensure that functionality is preserved
+6. Repeat
+
 ## Resources
 * [Automated testing](https://www.functionize.com/automated-testing)
