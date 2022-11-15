@@ -10,23 +10,17 @@
 * speed of delivery (speeds up regression testing)
 * allows retest during development
 
-## When should a test be automated?
-* Repeatable
-* Determinant
-* Repetitive/tedious
-* Business-critical
-
 ## Types of automated testing
-* Unit tests (Test::Unit, Jest, Xunit, unittest)
+* Unit tests
 * Integration tests
 * System testing
-  * functional (Selenium)
+  * functional
   * regression
   * smoke
-* Acceptance tests (Rspec, Cucumber)
-  * behaviorial tests
-  * performance tests
-  * A/B testing 
+* Acceptance tests
+* Behaviorial tests
+* Performance tests
+* A/B testing 
 
 ## Best Practices
 1. Plan your testing. Make sure your test cases are clearly defined and well written. 
