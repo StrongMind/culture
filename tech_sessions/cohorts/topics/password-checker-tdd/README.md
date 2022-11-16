@@ -20,3 +20,20 @@ We need to add support for checking admin passwords
 We need to provide feedback to the user about the strength of their password
 
 * Provide the user with a list of reasons why their password is 'weak'
+
+## Local Install
+
+1. [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+2. Run `bundler` to install dependencies
+```
+bundle install
+```
+3. Generate binstubs for gem executables in `bin` folder
+```
+bundle binstubs
+```
+
+### Run tests
+```
+bin\rspec
+```
