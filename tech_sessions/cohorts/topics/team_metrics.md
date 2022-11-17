@@ -12,7 +12,7 @@
       1. Team By Team
       2. Aggregate
       3. Sprint Signatures
-   5. [Velocity](../topics/veloicty_metrics.md)
+   5. [Velocity](../topics/velocity_metrics.md)
 2. What Other Metrics Teams Using
 3. Playing w/ Metrics
 4. Metrics for Value (Epics)
