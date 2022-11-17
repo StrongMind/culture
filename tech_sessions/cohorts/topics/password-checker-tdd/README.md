@@ -30,7 +30,7 @@ bundle install
 ```
 3. Generate binstubs for gem executables in `bin` folder
 ```
-bundle binstubs
+bundle binstubs rspec-core
 ```
 
 ### Run tests
