@@ -81,9 +81,9 @@ Sharing feedback from multiple touch points helps us to assess whether this cand
 * Multiple perspectives (it generally takes only one "thumbs down" to end the process)
 
 ## Additional Resources
-[Interview and Hiring Confluence](https://strongmind.atlassian.net/wiki/spaces/EM/pages/1010827275/Interview+and+Hiring+Resources )
-[Hiring is not Hazing (podcast)](https://rework.fm/hiring-is-not-hazing/)
-[Hiring Scorecard](https://strongmind.atlassian.net/wiki/spaces/EM/pages/2821881874/Hiring+Score+Card)
+* [Interview and Hiring Confluence](https://strongmind.atlassian.net/wiki/spaces/EM/pages/1010827275/Interview+and+Hiring+Resources )
+* [Hiring is not Hazing (podcast)](https://rework.fm/hiring-is-not-hazing/)
+* [Hiring Scorecard](https://strongmind.atlassian.net/wiki/spaces/EM/pages/2821881874/Hiring+Score+Card)
 
 
 
