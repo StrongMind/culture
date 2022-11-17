@@ -2,9 +2,9 @@ Confluence reference https://strongmind.atlassian.net/wiki/spaces/EM/pages/10108
 
 What is our Process?
 * Resume screen
-* Code Exercise
+* Code Exercise / Evaluating Work Out Put
 * Cultural / Phone Screen
-* Pairing Session
+* Pairing Session (Engineering)
 
 Resumes what do we look for?
 * Candidates bring unique backgrounds
@@ -15,6 +15,12 @@ Resumes what do we look for?
 - education
 - at this stage we primarily opt in to moving forward
   
+Evaluating Work Out Put
+- GitHub profile/projects
+- Product design portfolio
+- UI/UX portfolio
+- Product design submission (UI/UX and User Research candidates)
+- Pizza Exercise submission
 
 Code Exercise
 * Pizza server - https://github.com/StrongMind/culture/blob/master/recruit/full-stack-developer.md
