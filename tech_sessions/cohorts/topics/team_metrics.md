@@ -8,10 +8,11 @@
    3. Secondary
       1. Lead Time (Efficiency)
       2. Cycle Time (Productivity)
-   4. [Review Sheet](https://strongmind0.sharepoint.com/:x:/s/DevelopmentManagers/EVJQuhZTlS1FglfcUXQmoEQBLmE0Mf99VgWCohn0XAjYmw?e=w5cjTJ)
+   4. [Dashboarding](https://us.holistics.com)
       1. Team By Team
       2. Aggregate
       3. Sprint Signatures
+   5. [Velocity](../topics/veloicty_metrics.md)
 2. What Other Metrics Teams Using
 3. Playing w/ Metrics
 4. Metrics for Value (Epics)
