@@ -25,15 +25,15 @@ We need to provide feedback to the user about the strength of their password
 
 1. [Install Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 2. Run `bundler` to install dependencies
-```
+```shell
 bundle install
 ```
 3. Generate binstubs for gem executables in `bin` folder
-```
+```shell
 bundle binstubs rspec-core
 ```
 
 ### Run tests
-```
-bin\rspec
+```shell
+bin/rspec
 ```
