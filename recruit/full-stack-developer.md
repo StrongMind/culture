@@ -44,8 +44,6 @@ All the major cloud providers have some sort of free plan. Here are some example
 
 [Azure](https://azure.microsoft.com/free)
 
-[Heroku](https://www.heroku.com/free)
-
 [Google](https://cloud.google.com/free)  
 
 [IBM](https://www.ibm.com/cloud/free)
