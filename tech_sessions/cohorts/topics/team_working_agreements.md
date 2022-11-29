@@ -1,13 +1,22 @@
 
 # Team Working Agreements
 
-## Definition
+## What are Working Agreements?
+
+* Describe how a team wants to work together. In practice, they are guidelines, rules, or behaviors the team has agreed on.
+* Describe behaviors that are not automatically demonstrated in the team's processes.
+* Create clarity and mutual expectations in a social system
+* Make *implicit* social expectations *explicit*
+* Align their ways of working and improve collaboration
 
 ## Why Are They Important?
-
+* Team members are free to concentrate on real, wholehearted interactions, dive into creativity, and let go of social fears
+* Align ways of working and improve collaboration
 ## What Do Teams Need To Agree On?
 
 ## Techniques to Garner Alignment
+
+## Pro-Tips
 
 ## In-Class Exercise
 
