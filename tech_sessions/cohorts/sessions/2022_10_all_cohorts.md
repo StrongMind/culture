@@ -21,7 +21,7 @@
 
 ### Week 4
 * Tues/Topic 1: Visual Communication: [Power of Sketching](../topics/power_of_sketching.md)
-* Thurs/Topic 2: *Interviews and Hiring: Evaluating Candidates
+* Thurs/Topic 2: [Interviews and Hiring: Evaluating Candidates](../topics/interview_and_hiring.md)
 
 ### Week 5
 * Tues/Topic 1: *How You Deliver and Execute: Team Working Agreements and Conventions
