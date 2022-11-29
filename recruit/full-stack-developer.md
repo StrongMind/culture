@@ -42,6 +42,8 @@ Your project should be deployed to a service of your choice. If you need some re
 
 All the major cloud providers have some sort of free plan. Here are some examples: 
 
+[Fly](https://fly.io/)
+
 [Azure](https://azure.microsoft.com/free)
 
 [Google](https://cloud.google.com/free)  
