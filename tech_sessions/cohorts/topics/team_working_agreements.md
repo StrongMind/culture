@@ -10,8 +10,24 @@
 * Align their ways of working and improve collaboration
 
 ## Why Are They Important?
-* Team members are free to concentrate on real, wholehearted interactions, dive into creativity, and let go of social fears
+
+### Forming, Storming, Norming, Performing
+
+Tuckman's Stages of Group Development
+
+![Tuckman's Stages of Group Development](./Tuckman_stages_of_group_development.png)
+![Forming, Storming, Norming, Performing](./forming_storming_norming_performing.png)
+
+### Benefits of Working Agreements
+* Address mismatch of individual ways of working and expectations
 * Align ways of working and improve collaboration
+* Develop a sense of shared responsibility
+* Increase awareness of member and team behavior
+* Empowers accountability
+* Enhance quality of group process
+* Free to concentrate on real, wholehearted interactions, dive into creativity, and let go of social fears
+* Addresses the [stories we tell ourselves](https://www.oprah.com/omagazine/brene-brown-rising-strong-excerpt) in our own heads
+
 ## What Do Teams Need To Agree On?
 
 ## Techniques to Garner Alignment
