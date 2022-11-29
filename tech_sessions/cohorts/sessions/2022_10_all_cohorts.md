@@ -17,7 +17,7 @@
 
 ### Week 3
 * Tues/Topic 1: Professional Community: [Event Strategy](../topics/event_strategy.md) & [Writing Strategy](../topics/writing_strategy.md)
-* Thurs/Topic 2: *Quality: Automated Testing Techniques
+* Thurs/Topic 2: *Quality: [Automated Testing Techniques](../topics/automated_testing_techniques.md)
 
 ### Week 4
 * Tues/Topic 1: Visual Communication: [Power of Sketching](../topics/power_of_sketching.md)
