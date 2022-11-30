@@ -31,27 +31,41 @@ Tuckman's Stages of Group Development
 ## Examples of Items for Working Agreements
 
 ### Presence
-Core Hours
-In office days
-Communicate days, hours when unavailable
+* core Hours
+* in office days
 ### Behaviors
-being on time
-provide timely feedback
-ask for help
-don't interrupt others
-ok to disagree
+* being on time
+* provide timely feedback
+* ask for help
+* don't interrupt others
+* ok to disagree
+* communicate days, hours when unavailable
 
 ### Process
-WIP limits
-Use PRs when not pairing
-Link pull requests to Jira tickets
-Review pull requests in less than 24 hours
-Adhere to definition of done for all user stories
-Only work on what's on the Jira board
-## Techniques to Garner Alignment
+* WIP limits
+* use PRs when not pairing
+* link pull requests to Jira tickets
+* review pull requests in less than 24 hours
+* adhere to definition of done for all user stories
+* only work on what's on the Jira board
 
-## Pro-Tips
+## Garner Contribution and Alignment
 
+1. Carve out time to focus
+1. Set the stage
+    * Check In
+1. Get everyone to contribute
+    * Round Robin
+1. Get decisions made quickly
+    * Decider Protocol
+
+### Recipes:
+* [Atlassian Team Playbook: Working Agreements](https://www.atlassian.com/wac/team-playbook/plays/working-agreements?)
+* [How to Facilitate Powerful Working Agreements](https://resources.scrumalliance.org/Article/facilitate-powerful-working-agreements)
+### Tips
+* keep it succinct
+* revisit periodically
+* revisit when members come/go
 ## In-Class Exercise
 
 ## References
