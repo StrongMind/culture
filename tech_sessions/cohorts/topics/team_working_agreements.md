@@ -28,8 +28,26 @@ Tuckman's Stages of Group Development
 * Free to concentrate on real, wholehearted interactions, dive into creativity, and let go of social fears
 * Addresses the [stories we tell ourselves](https://www.oprah.com/omagazine/brene-brown-rising-strong-excerpt) in our own heads
 
-## What Do Teams Need To Agree On?
+## Examples of Items for Working Agreements
 
+### Presence
+Core Hours
+In office days
+Communicate days, hours when unavailable
+### Behaviors
+being on time
+provide timely feedback
+ask for help
+don't interrupt others
+ok to disagree
+
+### Process
+WIP limits
+Use PRs when not pairing
+Link pull requests to Jira tickets
+Review pull requests in less than 24 hours
+Adhere to definition of done for all user stories
+Only work on what's on the Jira board
 ## Techniques to Garner Alignment
 
 ## Pro-Tips
