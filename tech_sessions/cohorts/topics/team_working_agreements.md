@@ -74,7 +74,11 @@ Tuckman's Stages of Group Development
 * use automation
 
 ## In-Class Exercise
-
+(a way in which we can demonstrate to people the power of working agreements)
+1. Gather people in groups of 4
+1. Have them complete a task as a group
+1. Next, prescribe to them a small set of working agreemets
+1. Have them do a different assignment with these agreements
 ## References
 * [The essential guide to agile team working agreements](https://www.swarmia.com/blog/agile-team-working-agreements/)
 * [Atlassian Team Playbook: Working Agreements](https://www.atlassian.com/wac/team-playbook/plays/working-agreements?)
