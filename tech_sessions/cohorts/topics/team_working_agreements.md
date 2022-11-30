@@ -49,15 +49,18 @@ Tuckman's Stages of Group Development
 * adhere to definition of done for all user stories
 * only work on what's on the Jira board
 
-## Garner Contribution and Alignment
+## Garner Contribution and Alignment on Working Agreements
 
 1. Carve out time to focus
 1. Set the stage
-    * Check In
+    * [check in](https://liveingreatness.com/core-protocols/check-in)
+    * [ice breaker](https://www.hooplaimpro.com/resource/bunny-bunny)
 1. Get everyone to contribute
-    * Round Robin
+    * [round robin](https://www.mindtools.com/a81qk8y/round-robin-brainstorming)
+    * [flowtopic](https://www.flowtopic.com)
 1. Get decisions made quickly
-    * Decider Protocol
+    * [decider protocol](https://liveingreatness.com/core-protocols/decider)
+1. Document where easily accessible by team members 
 
 ### Recipes:
 * [Atlassian Team Playbook: Working Agreements](https://www.atlassian.com/wac/team-playbook/plays/working-agreements?)
