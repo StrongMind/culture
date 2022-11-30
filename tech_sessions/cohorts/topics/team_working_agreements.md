@@ -65,10 +65,14 @@ Tuckman's Stages of Group Development
 ### Recipes:
 * [Atlassian Team Playbook: Working Agreements](https://www.atlassian.com/wac/team-playbook/plays/working-agreements?)
 * [How to Facilitate Powerful Working Agreements](https://resources.scrumalliance.org/Article/facilitate-powerful-working-agreements)
-### Tips
+## Pro Tips
 * keep it succinct
 * revisit periodically
 * revisit when members come/go
+* make it easy to propose changes
+* hold each other accountable
+* use automation
+
 ## In-Class Exercise
 
 ## References
