@@ -74,7 +74,7 @@ Tuckman's Stages of Group Development
 * use automation
 
 ## In-Class Exercise
-(a way in which we can demonstrate to people the power of working agreements)
+(idea: a way in which we can demonstrate to people the power of working agreements)
 1. Gather people in groups of 4
 1. Have them complete a task as a group
 1. Next, prescribe to them a small set of working agreemets
