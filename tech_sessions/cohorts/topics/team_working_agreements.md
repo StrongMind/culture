@@ -48,8 +48,9 @@ Tuckman's Stages of Group Development
 * review pull requests in less than 24 hours
 * adhere to definition of done for all user stories
 * only work on what's on the Jira board
+* interation length
 
-## Garner Contribution and Alignment on Working Agreements
+## Creating and Aligning on Working Agreements
 
 1. Carve out time to focus
 1. Set the stage
