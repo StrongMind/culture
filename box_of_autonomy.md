@@ -23,7 +23,7 @@ Each team/product will produce/publish/follow the following:
 
 
 ## Development Time Box
-- Maximum delivery to production time box of 1 week
+- Sprint lengths of 1 week
 - Published schedule of time boxes for each team
 - Understood process, agreed up on by team
 - Delivery of value every time box
