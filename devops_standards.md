@@ -102,3 +102,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Mermaid.js
 - Draw.io (**obsolete**)
 - GraphViz (**obsolete**)
+
+## Application URLs
+- <environment>-<app-name>.strongmind.com for lower environments
+- <app-name>.strongmind.com for production environments
