@@ -28,5 +28,5 @@
 * Thurs/Topic 2: No Cohort: **[Hackathon Mixer #2](https://sites.google.com/view/flipit-hackathon-2022/home#h.did2f8ei6u63)**
 
 ### Week 6
-* Thurs/Topic 2: Performance Coaching: [Perfection Game ](../topics/perfection_game.md) & [Appreciation Game](../topics/appreciation_game.md)
+* Tues/Topic 2: Performance Coaching: [Perfection Game ](../topics/perfection_game.md) & [Appreciation Game](../topics/appreciation_game.md)
 * Thurs/Topic 2: No Cohort: **Department Team Building Event** 🎉🥳🎊
