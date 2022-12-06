@@ -24,9 +24,9 @@
 * Thurs/Topic 2: [Interviews and Hiring: Evaluating Candidates](../topics/interview_and_hiring.md)
 
 ### Week 5
-* Tues/Topic 1: *How You Deliver and Execute: Team Working Agreements and Conventions
-* Thurs/Topic 2: Performance Coaching: [Perfection Game ](../topics/perfection_game.md) & [Appreciation Game](../topics/appreciation_game.md)
+* Tues/Topic 1: *How You Deliver and Execute: [Team Working Agreements and Conventions](../topics/team_working_agreements.md)
+* Thurs/Topic 2: No Cohort: **[Hackathon Mixer #2](https://sites.google.com/view/flipit-hackathon-2022/home#h.did2f8ei6u63)**
 
 ### Week 6
-* Tues/Topic 1: *Connecting with People: Team Connect (from Leadership Choice) or Communication Styles
-* Thurs/Topic 2: *Connecting with People: Team Connect (from Leadership Choice) or Communication Styles
+* Thurs/Topic 2: Performance Coaching: [Perfection Game ](../topics/perfection_game.md) & [Appreciation Game](../topics/appreciation_game.md)
+* Thurs/Topic 2: No Cohort: **Department Team Building Event** 🎉🥳🎊
