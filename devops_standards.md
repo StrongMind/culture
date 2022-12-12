@@ -15,7 +15,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - git-duet fix
 
 
-## Platform As A Service
+## Platform As A Service ([for all platforms, do not use their domain names (i.e azurewebsites.com or amazonaws.com) for any service](https://flipswitch.slack.com/archives/C02GC9LSTFT/p1670519806699359))
 - AWS
 - Azure (_Do not use "Consumption Plan" for Prod instances_)
 - GoogleCloud (**deprecated**)
