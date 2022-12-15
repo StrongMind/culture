@@ -16,6 +16,10 @@ Understanding your communication style and those of the people you interact with
 * The communication styles of your peers
 * How we can adapt to each others syles and improve communication
 
+## Assess Your Communication Style
+
+(insert assessment)
+
 ## 4 Communication Styles
 
 * Dominant
