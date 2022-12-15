@@ -36,3 +36,29 @@ Higher Responsiveness
 
 Lower Responsivness
 * Dominants and Analytcals
+
+## Dominant
+### Characteristics
+* Independent
+* Decisive
+* Determined
+* Risk taker
+* Declares opinion
+* Takes charge
+* Driven
+* Aloof
+
+## Expressive
+### Characteristics
+* Active
+* Confident
+* Uses Power
+* Outgoing
+* Verbose
+* Shares thoughts
+* Conversational
+* Communicative
+* Enthusiastic
+* Imaginitive
+
+
