@@ -97,3 +97,11 @@ Lower Responsivness
 * Group focused
 * Compassionate
 
+## Identifying Communication Sytles In Others
+
+Most frequently, that person...
+
+* Tells and Controls --> Dominant
+* Tells and Expresses --> Expressive
+* Asks and Controls --> Analytical
+* Asks and Expressives --> Amiable
