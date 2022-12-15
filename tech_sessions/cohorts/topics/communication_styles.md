@@ -87,7 +87,6 @@ Lower Responsivness
 * Hides Feelings
 
 ## Amiable
-
 ### Characteristics
 * Quiet
 * Reserved
@@ -113,7 +112,7 @@ Most frequently, that person...
 ## Interacting with Others
 
 Tips for interacting with people based on their primary communication style
-# Dominant
+### Dominant
 * Be prompt
 * Take them seriously, not personally
 * Use time effectively
@@ -124,7 +123,7 @@ Tips for interacting with people based on their primary communication style
 * Be task focused
 * Provide options
 
-# Expressive
+### Expressive
 * Provide big picture
 * Recap agreements and understandings
 * Be energetic, fast-paced
@@ -134,7 +133,7 @@ Tips for interacting with people based on their primary communication style
 * Follow up with plans and details
 * Praise verbally
 
-# Analytical
+### Analytical
 * Get down to business
 * Use a moderate and deliberate pace
 * Avoid being loud
@@ -144,7 +143,7 @@ Tips for interacting with people based on their primary communication style
 * Set dates
 * Give them time to think and respond
 
-# Amiable
+### Amiable
 * Use a moderate and deliberate pace
 * Speak softly
 * Be genuine
