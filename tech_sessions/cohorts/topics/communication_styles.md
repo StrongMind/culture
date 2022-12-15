@@ -39,7 +39,7 @@ Higher Responsiveness
 * Expressives and Amiables
 
 Lower Responsivness
-* Dominants and Analytcals
+* Dominants and Analyticals
 
 ## Dominant
 ### Characteristics
