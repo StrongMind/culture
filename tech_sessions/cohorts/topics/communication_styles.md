@@ -43,10 +43,12 @@ Lower Responsivness
 * Decisive
 * Determined
 * Risk taker
-* Declares opinion
+* Declartively opinionated
 * Takes charge
 * Driven
 * Aloof
+* Task focused
+* Strict
 
 ## Expressive
 ### Characteristics
@@ -60,5 +62,38 @@ Lower Responsivness
 * Communicative
 * Enthusiastic
 * Imaginitive
+* Dramatic
+* Impulsive
+* Warm
+* Approachable
 
+## Analytical
+### Characteristics
+* Deliberate
+* Cautious
+* Quietly opinionated
+* Thoughtful decision making
+* Asks detailed questions
+* Methodical
+* Logical
+* Objective
+* Controlled
+* Proper
+* Fact Oriented
+* Hides Feelings
+
+## Amiable
+
+### Characteristics
+* Quiet
+* Reserved
+* Supportive
+* Easygoing
+* Listner
+* Cooperative
+* Risk avoidance
+* Relaxed
+* Lenient
+* Group focused
+* Compassionate
 
