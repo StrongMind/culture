@@ -15,3 +15,24 @@ Understanding your communication style and those of the people you interact with
 * Your own communication style
 * The communication styles of your peers
 * How we can adapt to each others syles and improve communication
+
+## 4 Communication Styles
+
+* Dominant
+* Expressive
+* Analytical
+* Amiable
+
+### Assertiveness vs Responsiveness
+
+Higher Assertiveness
+* Dominants and Expressives
+
+Lower Assertiveness
+* Analyticals and Amiables
+
+Higher Responsiveness
+* Expressives and Amiables
+
+Lower Responsivness
+* Dominants and Analytcals
