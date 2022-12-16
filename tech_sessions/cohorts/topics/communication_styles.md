@@ -100,14 +100,14 @@ Lower Responsivness
 * Group focused
 * Compassionate
 
-## Identifying Communication Sytles In Others
+## Identifying Communication Styles In Others
 
 Most frequently, that person...
 
 * Tells and Controls --> Dominant
 * Tells and Expresses --> Expressive
 * Asks and Controls --> Analytical
-* Asks and Expressives --> Amiable
+* Asks and Expresses --> Amiable
 
 ## Interacting with Others
 
