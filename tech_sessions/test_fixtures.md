@@ -16,7 +16,7 @@ Context variables also provide the ability to change only small parts of the con
 * **Stage 2** : Tests are split into several methods reflecting different groupings of assertions with setup included in the methods.
 * **Stage 3** : Tests are split into several methods with setup in a `setup` method.
 * **Stage 4** : Tests are split into many methods, named for the specific things they are asserting (usually only one or two assertions per method).
-* **Stage 5** : Context variables are extracted from the setup.
+* **Stage 5** : Context variables are lazy loaded and extracted from the setup.
 * **Stage 6** : Context are nested, to allow minimized duplication, and to allow context variables to be overridden.
 
 ### Examples of each stage

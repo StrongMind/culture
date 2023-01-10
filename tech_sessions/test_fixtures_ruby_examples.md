@@ -258,7 +258,7 @@ RSpec.describe Course do
 end
 
 ```
-### Context variables are extracted from the setup.
+### Context variables are lazy loaded and extracted from the setup.
 ```ruby
 RSpec.describe Course do
   before :each do
