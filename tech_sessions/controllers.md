@@ -2,13 +2,11 @@
 
 ## Background
 
-Sometimes, controller code becomes confusing and unwieldy. Controllers are intended to pass messages from the user to a model, and display relevant information from the model to the user. Frameworks provide standard mechanisms to do this, for example, rails provides scaffolding.
+Sometimes, controller code becomes confusing and unwieldy. Controllers are intended to display relevant information from the model to the user via the view and/or pass messages from the user to a model. Frameworks provide standard mechanisms to do this. For example, rails provides scaffolding.
 
-Controllers are, by custom, focussed around a resource, most often a model from a model-view-controller framework.
+Controllers are, by custom, focused around a resource, most often a model from a model-view-controller framework.
 
 ### Definitions
-
-Downstream : a class that the controller is either sending information to or retrieving information from.
 
 CRUD : "Create Read Update Delete", a default set of actions for a resource.
 
@@ -18,7 +16,7 @@ Here we'll talk about things to look out for when trying to simplify controllers
 
 #### Calling things other than the model or user
 
-Calling downstream (i.e things that we are sending information to or receiving information from) classes or services other than the model or resource that the controller refers to or its user is a sign either that we are implementing the model in the controller or we are overloading a controller and should create a new controller for a different resource.
+Calling downstream (i.e. things that we are sending information to or receiving information from) classes or services other than the model or resource that the controller refers to or its user is a sign either that we are implementing the model in the controller or we are overloading a controller and should create a new controller for a different resource.
 
 #### Actions that are not entirely verbs
 
