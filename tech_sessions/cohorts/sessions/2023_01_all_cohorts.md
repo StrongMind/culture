@@ -3,9 +3,13 @@
 
 *indicates new topic
 
+### Week 0
+* Tues/Topic 1: *Connecting With People: [Communication Styles](../topics/communication_styles.md)
+* Thurs/Topic 2: *Connecting With People: [Communication Styles](../topics/communication_styles.md)
+
 ### Week 1
-* Tues/Topic 1: Connecting With People: [Communication Styles](../topics/communication_styles.md)
-* Thurs/Topic 2: Connecting With People: [Communication Styles](../topics/communication_styles.md)
+* Tues/Topic 1: TBD
+* Thurs/Topic 2: TBD
 
 ### Week 2
 * Tues/Topic 1: TBD
