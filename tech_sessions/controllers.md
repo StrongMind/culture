@@ -2,7 +2,7 @@
 
 ## Background
 
-Sometimes, controller code becomes confusing and unweildy. Controllers are intended to pass messages from the user to a model, and display relevant information from the model to the user. Frameworks provide standard mechanisms to do this, for example, rails provides scaffolding.
+Sometimes, controller code becomes confusing and unwieldy. Controllers are intended to pass messages from the user to a model, and display relevant information from the model to the user. Frameworks provide standard mechanisms to do this, for example, rails provides scaffolding.
 
 Controllers are, by custom, focussed around a resource, most often a model from a model-view-controller framework.
 
