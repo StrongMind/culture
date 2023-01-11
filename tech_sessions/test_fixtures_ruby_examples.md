@@ -1,5 +1,5 @@
 
-### Tests are written in a single test method, with setup and assertions mixed together. There are many assertions in a single method.
+### 1. Tests are written in a single test method, with setup and assertions mixed together. There are many assertions in a single method.
 ```ruby
 RSpec.describe Course do
   it 'tests the course class' do
@@ -48,7 +48,7 @@ RSpec.describe Course do
 end
 ```
 
-### Tests are split into several methods reflecting different groupings of assertions with setup included in the methods.
+### 2. Tests are split into several methods reflecting different groupings of assertions with setup included in the methods.
 ```ruby
 RSpec.describe Course do
   it 'has data' do
@@ -124,7 +124,7 @@ RSpec.describe Course do
 end
 
 ```
-### Tests are split into several methods with setup in a `setup` method.
+### 3. Tests are split into several methods with setup in a `setup` method.
 ```ruby
 RSpec.describe Course do
   before :each do
@@ -152,8 +152,8 @@ RSpec.describe Course do
   end
 
   it 'can be checked for save permissions' do
-    expect(course.can_be_saved_by?(@teacher)).to eq(true)
-    expect(course.can_be_saved_by?(@student)).to eq(false)
+    expect(@course.can_be_saved_by?(@teacher)).to eq(true)
+    expect(@course.can_be_saved_by?(@student)).to eq(false)
   end
 
   it 'can be saved' do
@@ -182,7 +182,7 @@ RSpec.describe Course do
   end
 end
 ```
-### Tests are split into many methods, named for the specific things they are asserting (usually only one or two assertions per method).
+### 4. Tests are split into many methods, named for the specific things they are asserting (usually only one or two assertions per method).
 ```ruby
 RSpec.describe Course do
   before :each do
@@ -213,11 +213,11 @@ RSpec.describe Course do
   end
 
   it 'has a save permission for a teacher' do
-    expect(course.can_be_saved_by?(@teacher)).to eq(true)
+    expect(@course.can_be_saved_by?(@teacher)).to eq(true)
   end
 
   if 'has no save permission for a student' do
-    expect(course.can_be_saved_by?(@student)).to eq(false)
+    expect(@course.can_be_saved_by?(@student)).to eq(false)
   end
 
   it 'saves a title' do
@@ -258,77 +258,79 @@ RSpec.describe Course do
 end
 
 ```
-### Context variables are lazy loaded and extracted from the setup.
+### 5. Context variables are lazy loaded and extracted from the setup.
 ```ruby
 RSpec.describe Course do
-  before :each do
-    setup_teacher
-    setup_student
-    setup_unsaved_course
+  let :teacher do
+    teacher = User.new
+    teacher.name = 'John Doe'
+    teacher.role = 'teacher'
+    teacher.save
+    teacher
   end
 
-  def setup_teacher
-    @teacher = User.new
-    @teacher.name = 'John Doe'
-    @teacher.role = 'teacher'
-    @teacher.save
+  let :student do
+    student = User.new
+    student.name = 'Jane Doe'
+    student.role = 'student'
+    student.save
+    student
   end
 
-  def setup_student
-    @student = User.new
-    @student.name = 'Jane Doe'
-    @student.role = 'student'
-    @student.save
+  let :unsaved_course do
+    course = Course.new
+    course.title = 'Ruby Programming'
+    course.description = 'Learn Ruby Programming'
+    course.price = 0
+    course
   end
 
-  def setup_unsaved_course
-    @course = Course.new
-    @course.title = 'Ruby Programming'
-    @course.description = 'Learn Ruby Programming'
-    @course.price = 0
+  let :course do
+    unsaved_course.save
+    unsaved_course
   end
 
   it 'has a title' do
-    expect(@course.title).to eq('Ruby Programming')
+    expect(unsaved_course.title).to eq('Ruby Programming')
   end
+
   it 'has a description' do
-    expect(@course.description).to eq('Learn Ruby Programming')
+    expect(unsaved_course.description).to eq('Learn Ruby Programming')
   end
+
   it 'has a price' do
-    expect(@course.price).to eq(0)
+    expect(unsaved_course.price).to eq(0)
   end
 
   it 'has a save permission for a teacher' do
-    expect(course.can_be_saved_by?(@teacher)).to eq(true)
+    expect(unsaved_course.can_be_saved_by?(teacher)).to eq(true)
   end
 
-  if 'has no save permission for a student' do
-    expect(course.can_be_saved_by?(@student)).to eq(false)
+  it 'has no save permission for a student' do
+    expect(unsaved_course.can_be_saved_by?(student)).to eq(false)
   end
 
   it 'saves a title' do
-    expect(@course.save).to eq(true)
+    expect(unsaved_course.save).to eq(true)
     saved_course = Course.find(course.id)
     expect(saved_course.title).to eq('Ruby Programming')
   end
 
   it 'saves a description' do
-    expect(@course.save).to eq(true)
+    expect(unsaved_course.save).to eq(true)
     saved_course = Course.find(course.id)
     expect(saved_course.description).to eq('Learn Ruby Programming')
   end
 
   it 'saves a price' do
-    expect(@course.save).to eq(true)
+    expect(unsaved_course.save).to eq(true)
     saved_course = Course.find(course.id)
     expect(saved_course.price).to eq(0)
   end
 
   it 'can be updated' do
-    expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
-    saved_course.description = 'Learn Ruby Programming with Rails'
-    expect(saved_course.save).to eq(true)
+    course.description = 'Learn Ruby Programming with Rails'
+    expect(course.save).to eq(true)
 
     updated_course = Course.find(saved_course.id)
     expect(updated_course).to be_a(Course)
@@ -338,102 +340,111 @@ RSpec.describe Course do
   end
 
   it 'can be destroyed' do
-    @course.destroy
+    course.destroy
     expect(Course.find_by(id: course.id)).to eq(nil)
   end
 end
 
 ```
-### Context are nested, to allow minimized duplication, and to allow context variables to be overridden.
+### 6. Context are nested, to allow minimized duplication, and to allow context variables to be overridden.
 
 ```ruby
-
 RSpec.describe Course do
-  before :each do
-    setup_unsaved_course
-  end
-
-  def setup_unsaved_course
-    @course = Course.new
-    @course.title = 'Ruby Programming'
-    @course.description = 'Learn Ruby Programming'
-    @course.price = 0
+  let :course do
+    course = Course.new
+    course.title = 'Ruby Programming'
+    course.description = 'Learn Ruby Programming'
+    course.price = 0
+    course
   end
 
   it 'has a title' do
-    expect(@course.title).to eq('Ruby Programming')
+    expect(course.title).to eq('Ruby Programming')
   end
+
   it 'has a description' do
-    expect(@course.description).to eq('Learn Ruby Programming')
+    expect(course.description).to eq('Learn Ruby Programming')
   end
+
   it 'has a price' do
-    expect(@course.price).to eq(0)
+    expect(course.price).to eq(0)
+  end
+
+  it 'has a save permission for a teacher' do
+    expect(course.can_be_saved_by?(teacher)).to eq(true)
+  end
+
+  it 'has no save permission for a student' do
+    expect(course.can_be_saved_by?(student)).to eq(false)
   end
 
   it 'saves a title' do
-    expect(@course.save).to eq(true)
+    expect(course.save).to eq(true)
     saved_course = Course.find(course.id)
     expect(saved_course.title).to eq('Ruby Programming')
   end
 
   it 'saves a description' do
-    expect(@course.save).to eq(true)
+    expect(course.save).to eq(true)
     saved_course = Course.find(course.id)
     expect(saved_course.description).to eq('Learn Ruby Programming')
   end
 
   it 'saves a price' do
-    expect(@course.save).to eq(true)
+    expect(course.save).to eq(true)
     saved_course = Course.find(course.id)
     expect(saved_course.price).to eq(0)
   end
 
-  it 'can be updated' do
-    expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
-    saved_course.description = 'Learn Ruby Programming with Rails'
-    expect(saved_course.save).to eq(true)
+  context 'when checking permissions for a student' do
+    let :student do
+      student = User.new
+      student.name = 'Jane Doe'
+      student.role = 'student'
+      student.save
+      student
+    end
 
-    updated_course = Course.find(saved_course.id)
-    expect(updated_course).to be_a(Course)
-    expect(updated_course.title).to eq('Ruby Programming')
-    expect(updated_course.description).to eq('Learn Ruby Programming with Rails')
-    expect(updated_course.price).to eq(0)
+    it 'has no save permission' do
+      expect(course.can_be_saved_by?(student)).to eq(false)
+    end
   end
 
-  it 'can be destroyed' do
-    @course.destroy
-    expect(Course.find_by(id: course.id)).to eq(nil)
+  context 'when checking permissions for a teacher' do
+    let :teacher do
+      teacher = User.new
+      teacher.name = 'John Doe'
+      teacher.role = 'teacher'
+      teacher.save
+      teacher
+    end
+
+    it 'has a save permission' do
+      expect(course.can_be_saved_by?(teacher)).to eq(true)
+    end
   end
 
-  RSpec.describe CoursePermissions do
-    before :each do
-      setup_teacher
-      setup_student
+  context 'when the course is saved' do
+    let :course do
+      course = super()
+      course.save
+      course
+    end
+    it 'can be updated' do
+      course.description = 'Learn Ruby Programming with Rails'
+      expect(course.save).to eq(true)
+
+      updated_course = Course.find(saved_course.id)
+      expect(updated_course).to be_a(Course)
+      expect(updated_course.title).to eq('Ruby Programming')
+      expect(updated_course.description).to eq('Learn Ruby Programming with Rails')
+      expect(updated_course.price).to eq(0)
     end
 
-    def setup_teacher
-      @teacher = User.new
-      @teacher.name = 'John Doe'
-      @teacher.role = 'teacher'
-      @teacher.save
+    it 'can be destroyed' do
+      course.destroy
+      expect(Course.find_by(id: course.id)).to eq(nil)
     end
-
-    def setup_student
-      @student = User.new
-      @student.name = 'Jane Doe'
-      @student.role = 'student'
-      @student.save
-    end
-
-    it 'has a save permission for a teacher' do
-      expect(course.can_be_saved_by?(@teacher)).to eq(true)
-    end
-
-    if 'has no save permission for a student' do
-    expect(course.can_be_saved_by?(@student)).to eq(false)
-    end
-
   end
 end
 
