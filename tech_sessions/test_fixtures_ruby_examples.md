@@ -158,7 +158,7 @@ RSpec.describe Course do
 
   it 'can be saved' do
     expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
+    saved_course = Course.find(@course.id)
     expect(saved_course).to be_a(Course)
     expect(saved_course.title).to eq('Ruby Programming')
     expect(saved_course.description).to eq('Learn Ruby Programming')
@@ -167,7 +167,7 @@ RSpec.describe Course do
 
   it 'can be updated' do
     expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
+    saved_course = Course.find(@course.id)
     expect(saved_course.save).to eq(true)
     updated_course = Course.find(saved_course.id)
     expect(updated_course).to be_a(Course)
@@ -178,7 +178,7 @@ RSpec.describe Course do
 
   it 'can be destroyed' do
     @course.destroy
-    expect(Course.find_by(id: course.id)).to eq(nil)
+    expect(Course.find_by(id: @course.id)).to eq(nil)
   end
 end
 ```
@@ -222,25 +222,25 @@ RSpec.describe Course do
 
   it 'saves a title' do
     expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
+    saved_course = Course.find(@course.id)
     expect(saved_course.title).to eq('Ruby Programming')
   end
 
   it 'saves a description' do
     expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
+    saved_course = Course.find(@course.id)
     expect(saved_course.description).to eq('Learn Ruby Programming')
   end
 
   it 'saves a price' do
     expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
+    saved_course = Course.find(@course.id)
     expect(saved_course.price).to eq(0)
   end
 
   it 'can be updated' do
     expect(@course.save).to eq(true)
-    saved_course = Course.find(course.id)
+    saved_course = Course.find(@course.id)
     saved_course.description = 'Learn Ruby Programming with Rails'
     expect(saved_course.save).to eq(true)
 
@@ -253,7 +253,7 @@ RSpec.describe Course do
 
   it 'can be destroyed' do
     @course.destroy
-    expect(Course.find_by(id: course.id)).to eq(nil)
+    expect(Course.find_by(id: @course.id)).to eq(nil)
   end
 end
 
