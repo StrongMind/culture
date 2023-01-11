@@ -14,20 +14,26 @@ Context variables also provide the ability to change only small parts of the con
 
 * **Stage 1** : Tests are written in a single test method, with setup and assertions mixed together. There are many assertions in a single method.
 * **Stage 2** : Tests are split into several methods reflecting different groupings of assertions with setup included in the methods.
-* **Stage 3** : Tests are split into several methods with setup in a `setup` method.
+* **Stage 3** : Tests are split into several methods with setup in a method.
 * **Stage 4** : Tests are split into many methods, named for the specific things they are asserting (usually only one or two assertions per method).
-* **Stage 5** : Context variables are extracted from the setup.
+* **Stage 5** : Context variables are lazy loaded and extracted from the setup.
 * **Stage 6** : Context are nested, to allow minimized duplication, and to allow context variables to be overridden.
 
-### Split apart test methods into smaller methods (Stage 1 > 2)
+### Examples of each stage
 
-### Extract setup into a `setup` method (Stage 2 > 3)
+- [Ruby Examples](test_fixtures_ruby_examples.md)
+- [Python Examples](test_fixtures_python_examples.md)
+- [DotNet Examples](test_fixtures_dotnet_examples.md)
 
-### Extract assertions into well-named separate methods (Stage 3 > 4)
+#### Split apart test methods into smaller methods (Stage 1 > 2)
 
-### Extract context variables (Stage 4 > 5)
+#### Extract setup into a `setup` method (Stage 2 > 3)
 
-### Nest contexts (Stage 5 > 6)
+#### Extract assertions into well-named separate methods (Stage 3 > 4)
+
+#### Extract context variables (Stage 4 > 5)
+
+#### Nest contexts (Stage 5 > 6)
 
 ## Other tips
 
