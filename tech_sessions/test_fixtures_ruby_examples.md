@@ -124,7 +124,7 @@ RSpec.describe Course do
 end
 
 ```
-### 3. Tests are split into several methods with setup in a `setup` method.
+### 3. Tests are split into several methods with setup in a method.
 ```ruby
 RSpec.describe Course do
   before :each do
