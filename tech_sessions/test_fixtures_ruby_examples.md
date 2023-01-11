@@ -370,14 +370,6 @@ RSpec.describe Course do
     expect(course.price).to eq(0)
   end
 
-  it 'has a save permission for a teacher' do
-    expect(course.can_be_saved_by?(teacher)).to eq(true)
-  end
-
-  it 'has no save permission for a student' do
-    expect(course.can_be_saved_by?(student)).to eq(false)
-  end
-
   it 'saves a title' do
     expect(course.save).to eq(true)
     saved_course = Course.find(course.id)
@@ -430,6 +422,7 @@ RSpec.describe Course do
       course.save
       course
     end
+    
     it 'can be updated' do
       course.description = 'Learn Ruby Programming with Rails'
       expect(course.save).to eq(true)
