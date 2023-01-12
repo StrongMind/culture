@@ -205,9 +205,11 @@ RSpec.describe Course do
   it 'has a title' do
     expect(@course.title).to eq('Ruby Programming')
   end
+
   it 'has a description' do
     expect(@course.description).to eq('Learn Ruby Programming')
   end
+
   it 'has a price' do
     expect(@course.price).to eq(0)
   end
@@ -217,32 +219,36 @@ RSpec.describe Course do
   end
 
   if 'has no save permission for a student' do
-    expect(@course.can_be_saved_by?(@student)).to eq(false)
+  expect(@course.can_be_saved_by?(@student)).to eq(false)
+  end
+
+  it 'saves' do
+    expect(@course.save).to eq(true)
   end
 
   it 'saves a title' do
-    expect(@course.save).to eq(true)
+    @course.save
     saved_course = Course.find(@course.id)
     expect(saved_course.title).to eq('Ruby Programming')
   end
 
   it 'saves a description' do
-    expect(@course.save).to eq(true)
+    @course.save
     saved_course = Course.find(@course.id)
     expect(saved_course.description).to eq('Learn Ruby Programming')
   end
 
   it 'saves a price' do
-    expect(@course.save).to eq(true)
+    @course.save
     saved_course = Course.find(@course.id)
     expect(saved_course.price).to eq(0)
   end
 
   it 'can be updated' do
-    expect(@course.save).to eq(true)
+    @course.save
     saved_course = Course.find(@course.id)
     saved_course.description = 'Learn Ruby Programming with Rails'
-    expect(saved_course.save).to eq(true)
+    @course.save
 
     updated_course = Course.find(saved_course.id)
     expect(updated_course).to be_a(Course)
@@ -310,33 +316,34 @@ RSpec.describe Course do
     expect(unsaved_course.can_be_saved_by?(student)).to eq(false)
   end
 
-  it 'saves a title' do
+  it 'saves' do
     expect(unsaved_course.save).to eq(true)
+  end
+
+  it 'saves a title' do
+    unsaved_course.save
     saved_course = Course.find(course.id)
     expect(saved_course.title).to eq('Ruby Programming')
   end
 
   it 'saves a description' do
-    expect(unsaved_course.save).to eq(true)
+    unsaved_course.save
     saved_course = Course.find(course.id)
     expect(saved_course.description).to eq('Learn Ruby Programming')
   end
 
   it 'saves a price' do
-    expect(unsaved_course.save).to eq(true)
+    unsaved_course.save
     saved_course = Course.find(course.id)
     expect(saved_course.price).to eq(0)
   end
 
   it 'can be updated' do
     course.description = 'Learn Ruby Programming with Rails'
-    expect(course.save).to eq(true)
+    course.save
 
     updated_course = Course.find(saved_course.id)
-    expect(updated_course).to be_a(Course)
-    expect(updated_course.title).to eq('Ruby Programming')
     expect(updated_course.description).to eq('Learn Ruby Programming with Rails')
-    expect(updated_course.price).to eq(0)
   end
 
   it 'can be destroyed' do
@@ -370,22 +377,10 @@ RSpec.describe Course do
     expect(course.price).to eq(0)
   end
 
-  it 'saves a title' do
-    expect(course.save).to eq(true)
-    saved_course = Course.find(course.id)
-    expect(saved_course.title).to eq('Ruby Programming')
-  end
-
-  it 'saves a description' do
-    expect(course.save).to eq(true)
-    saved_course = Course.find(course.id)
-    expect(saved_course.description).to eq('Learn Ruby Programming')
-  end
-
-  it 'saves a price' do
-    expect(course.save).to eq(true)
-    saved_course = Course.find(course.id)
-    expect(saved_course.price).to eq(0)
+  context "when saving" do
+    it "saves" do
+      expect(course.save).to eq(true)
+    end
   end
 
   context 'when checking permissions for a student' do
@@ -423,15 +418,27 @@ RSpec.describe Course do
       course
     end
     
+    it 'has the title' do
+      saved_course = Course.find(course.id)
+      expect(saved_course.title).to eq('Ruby Programming')
+    end
+
+    it 'has the description' do
+      saved_course = Course.find(course.id)
+      expect(saved_course.description).to eq('Learn Ruby Programming')
+    end
+
+    it 'has the price' do
+      saved_course = Course.find(course.id)
+      expect(saved_course.price).to eq(0)
+    end
+
     it 'can be updated' do
       course.description = 'Learn Ruby Programming with Rails'
-      expect(course.save).to eq(true)
+      course.save
 
       updated_course = Course.find(saved_course.id)
-      expect(updated_course).to be_a(Course)
-      expect(updated_course.title).to eq('Ruby Programming')
       expect(updated_course.description).to eq('Learn Ruby Programming with Rails')
-      expect(updated_course.price).to eq(0)
     end
 
     it 'can be destroyed' do
