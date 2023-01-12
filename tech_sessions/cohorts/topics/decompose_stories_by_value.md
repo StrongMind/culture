@@ -9,33 +9,25 @@
 
 ## How to Split
 
-### By Data Boundaries
-* Data available
-* Exception handling / Error conditions
+### Patterns
+* Workflow steps (ex: ecommerce checkout)
+* Simple vs Complex (ex: multiple shipping address)
+* Business Rule Variations (ex: state taxes)
+* Operations (ex:CRUD)
+* Data (ex: prime vs non-prime)
+* Variations in Interface (ex: mobile, alexa)
+* System Qualities (performance, logging, etc)
+* Happy vs Unhappy Path (ex: credit card info expired)
 
-### By Operational Boundaries
-* CRUD 
-
-### By Removing Cross Cutting Concerns
-* Security
-* Error Handling
-* Logging
-
-### By Performance Constraints
-* Make it work, then make it work faster
-* Separate Functional/Non-Functional aspects
-
-### By Mixed Priority
-* Low vs High
+## Keeping Value in Mind
+* vertical vs horizontal slicing
+* feedback
+* function
+* monetary
 
 ### Do Not Split by Task
 * front end, back end, etc
 * Use tracer bullets
-
-## Keeping Value in Mind
-* feedback
-* function
-* monetary
 
 ## Avoid Temptation of Related Changes
 * While I am in there I will just...
