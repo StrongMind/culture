@@ -54,7 +54,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Ionic
 - Blazor
 - Angular >12 (**deprecated**)
-- jQuery (**obsolete**)
+- jQuery (**deprecated**)
 - Aurelia (**obsolete**)
 - Knockout (**obsolete**)
 - Breeze (**obsolete**)
