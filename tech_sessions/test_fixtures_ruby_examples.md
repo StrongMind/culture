@@ -219,7 +219,7 @@ RSpec.describe Course do
   end
 
   if 'has no save permission for a student' do
-  expect(@course.can_be_saved_by?(@student)).to eq(false)
+    expect(@course.can_be_saved_by?(@student)).to eq(false)
   end
 
   it 'saves' do
