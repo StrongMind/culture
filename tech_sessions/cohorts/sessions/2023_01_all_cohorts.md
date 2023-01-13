@@ -9,7 +9,7 @@
 
 ### Week 1
 * Tues/Topic 1: [Research - Principles and Tools of Observation](.../topics/tools_for_observation.md)
-* Thurs/Topic 2: *Software Engineering - Intro to Cascading Sytle Sheets (CSS)
+* Thurs/Topic 2: *Software Engineering - Intro to Cascading Style Sheets (CSS)
 
 ### Week 2
 * Tues/Topic 1: [Effective Decision Making](.../topics/effective_decision_making.md)
