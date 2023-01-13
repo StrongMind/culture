@@ -8,16 +8,16 @@
 * Thurs/Topic 2: *Connecting With People: [Communication Styles](../topics/communication_styles.md)
 
 ### Week 1
-* Tues/Topic 1: [Research - Principles and Tools of Observation](.../topics/tools_for_observation.md)
+* Tues/Topic 1: [Effective Decision Making](.../topics/effective_decision_making.md)
 * Thurs/Topic 2: *Software Engineering - Intro to Cascading Style Sheets (CSS)
 
 ### Week 2
-* Tues/Topic 1: [Effective Decision Making](.../topics/effective_decision_making.md)
+* Tues/Topic 1: [System Visualization and Creating Diagrams Using Mermaid](.../topics/system_visualization.md)
 * Thurs/Topic 2: *Results Oriented - The Anatomy of an Epic
 
 ### Week 3
 * Tues/Topic 1: *Technology Ecosystem - Intro to Cloud Computing in AWS
-* Thurs/Topic 2: [System Visualization and Creating Diagrams Using Mermaid](.../topics/system_visualization.md)
+* Thurs/Topic 2: [Research - Principles and Tools of Observation](.../topics/tools_for_observation.md)
 
 ### Week 4
 * Tues/Topic 1: [Intro to User Journey Mapping](.../topics/intro-to-user-journey-mapping.md)
