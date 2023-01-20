@@ -1,3 +1,5 @@
+### Explanation of Document Paradigm ###
+[text_fixtures.md](./test_fixtures.md)
 
 ### 1. Tests are written in a single test method, with setup and assertions mixed together. There are many assertions in a single method.
 ```csharp
