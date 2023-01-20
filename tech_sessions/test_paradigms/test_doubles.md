@@ -130,13 +130,6 @@ When using a test double to provide context, you are looking to replicate the co
     when(requests).get(...).thenReturn(response)
     ```
 
-  * In C#, this looks a bit like this:
-
-    ```c#
-    // Moq
-    something.Setup(x => x.Add(It.IsAny<string>(), It.IsAny<object>()))
-    ```
-
     The danger of this is you could completely change what the method is asking for, and still pass all your tests
 
 * No assertions are made against anything returning from the mock
