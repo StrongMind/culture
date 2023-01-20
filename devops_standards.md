@@ -8,7 +8,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Source Control
 - Github
-- Azure DevOps (**deprecated**)
+- Azure DevOps (**obsolete**)
 - TFS (**obsolete**)
 
 ### Pair Switching
@@ -17,7 +17,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Platform As A Service ([for all platforms, do not use their domain names (i.e azurewebsites.com or amazonaws.com) for any service](https://flipswitch.slack.com/archives/C02GC9LSTFT/p1670519806699359))
 - AWS
-- Azure (_Do not use "Consumption Plan" for Prod instances_)
+- Azure (**deprecated**)
 - GoogleCloud (**deprecated**)
 
 ## Deployment container
@@ -25,7 +25,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Continuous Integration/Deployment
 - Github Actions
-- Azure DevOps
+- Azure DevOps (**obsolete**)
 - TravisCI (**obsolete**)
 - Jenkins (**obsolete**)
 - TFS (**obsolete**)
@@ -64,7 +64,8 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Flask (**deprecated**)
 
 ## CSS Frameworks
-- Bootstrap
+- Tailwind CSS + Backpack UI (as Tailwind Plugin)
+- Bootstrap (**obsolete**)
 
 ## CSS Language
 - LESS ?
@@ -106,3 +107,31 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Application URLs
 - <environment>-<app-name>.strongmind.com for lower environments
 - <app-name>.strongmind.com for production environments
+
+## IDE
+
+## Databases
+
+## Testing Tools
+
+## Mocking Tools
+
+## Desktop Operating System (Machine Type Intel/M1)
+
+## Secret Credential Stores
+
+## Virtual Environment Manager (rbenv, pyenv,etc)
+
+## Package Management
+
+## Web Packaging (npm, yarn, etc)
+
+## Other Issues
+* Repo Naming
+* Repo Locations Locally
+* Instructions for Installing Languages & Frameworks
+* Developer Setup
+* Deployment Standards
+* Terminal Config Settings
+* PR Process
+* Local Environment Variables
