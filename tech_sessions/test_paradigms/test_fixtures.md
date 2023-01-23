@@ -23,7 +23,6 @@ Context variables also provide the ability to change only small parts of the con
 
 - [Ruby Examples](test_fixtures_ruby_examples.md)
 - [Python Examples](test_fixtures_python_examples.md)
-- [DotNet Examples](test_fixtures_dotnet_examples.md)
 
 #### Split apart test methods into smaller methods (Stage 1 > 2)
 
