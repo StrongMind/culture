@@ -30,13 +30,13 @@ AWS services are typically grouped into different categories like compute, netwo
 ## Setting up and configuring a basic web application on AWS
 Exploring and utilizing various AWS services
 
-IX. Conclusion
+OR 
 
-Recap of key concepts and takeaways
-Best practices for using AWS
-Future of cloud computing and AWS.
-X. References and Additional resources
+## How to determine the right services for your project
 
+OR
+
+## How your choices impact costs
 
 
 
