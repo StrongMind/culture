@@ -26,18 +26,64 @@ AWS services are typically grouped into different categories like compute, netwo
 * Amazon RDS (Relational Database Service): Amazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a relational database in the cloud.
 * Amazon DynamoDB (Non-Relational Database): Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.
 
-
-## Setting up and configuring a basic web application on AWS
-Exploring and utilizing various AWS services
-
-OR 
-
 ## How to determine the right services for your project
+**Consider the Business Needs**
+* What are the business flows this application will support? (i.e. submit order, customer sign-up, etc.)
+* Who executes those business flows and where from? (i.e. customers, other systems)
+* What is the frequency of each business flow? (i.e. 1000 orders per hour, 100 sign-ups per hour, etc.)
+* What will happen to your business -in quantifiable terms, such as lost revenue or number of negative mentions- if any of these flows stops working for: 1 minute, 5 minutes, 1 hour, 8 hours, 24 hours?
 
-OR
+**Consider the Usage**
+* Will it be always on and running, waiting for input/data to process? Even if no input/data/request comes in, it’ll just be idle, consuming server resources and infrastructure.
+* Will it run only when needed? In this case, the application starts when it has a request or data to process and stops when completed.
+* The first example follows the classic model of running applications and points you towards ECS, EC2 or Elastic Beanstalk
+* The second example may be a use case for Lambda
+
+**AWS Region Considerations**
+* Not all services are available in all regions
+* Some services cost more in certain regions [AWS Region Cost Comparison](https://www.concurrencylabs.com/blog/choose-your-aws-region-wisely/)
+
+**Performance and Scalability**
+Some Services have limits
+* Number of provisioned resources (i.e. EC2 instances, SQS queues, CloudWatch Alarms, IAM Roles/Users, S3 Buckets, VPCs)
+* Data retention periods (i.e. CloudWatch metrics, Kinesis streams, SQS message retention)
+* Throughput (i.e. concurrent Lambda executions, CloudWatch List/Describe/Put requests, SNS messages per second, Dynamo DB capacity units, EFS throughput in Gb/s)
+* Payload size (i.e. SQS messages, Dynamo DB items, Kinesis records, IoT messages, IAM policy size)
+* Storage size (i.e. EBS volume size)
+* Some of these limits can be increased. Check for any "deal breakers" in services which can not be increased. 
+
+Who does the Scaling?
+You
+* EC2 instance types, RDS read replicas, RDS storage increase, AWS Elasitcsearch node count
+
+AWS
+* Lambda functions, S3 buckets sizes, SQS messages per second
+
+AWS Automates based on Your Configurations
+* EC2/ECS Auto Scaling, Elastic Load Balancer, RDS Aurora Read Replica Auto Scaling
+
+**Level of Commmittment (Lock In)**
+![image](https://user-images.githubusercontent.com/20523663/214369392-19152d99-30a3-4c0f-80df-503c4ee6b327.png)
+
 
 ## How your choices impact costs
+**Identify price dimensions relevant to your application and AWS service**
+* Consider both the compute AND data transfer / storage needs
+* Estimate a both low scale and high scale (some services get cheaper as usage grows)
+* What does usage look like...Low and steady? Steady growth? Spikey?
 
 
+
+## Setting up and configuring a basic web application on AWS (Activity)
+In small groups, consider the following scenario and make recommendations as to which AWS services you would choose. This is open book, feel free to visit 
+https://docs.aws.amazon.com/index.html if you need more information about a particular service.
+
+**Scenario:**
+We have an exciting opportunity to provide a mobile first content delivery application for highschool students who need supplemental material to help them with their understanding of key math concepts. We expect to start with a beta group of 1000 users, but the sales team thinks this is a BIG opportunity and we could reach 100k students. 
+* It should serve content to users
+* It should allow searching content
+* It should allow admin users to upload new content
+* It should process "near real time" events from ORDS regarding student progress
+* It should push student activity data to the data pipeline
 
 
