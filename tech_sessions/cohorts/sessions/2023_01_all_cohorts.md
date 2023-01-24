@@ -12,7 +12,7 @@
 * Thurs/Topic 2: *Software Engineering - Intro to Cascading Style Sheets (CSS)
 
 ### Week 2
-* Tues/Topic 1: [System Visualization and Creating Diagrams Using Mermaid](.../topics/system_visualization.md)
+* Tues/Topic 1: [System Visualization and Creating Diagrams Using Mermaid](../../topics/system_visualization.md)
 * Thurs/Topic 2: *Results Oriented - The Anatomy of an Epic
 
 ### Week 3
