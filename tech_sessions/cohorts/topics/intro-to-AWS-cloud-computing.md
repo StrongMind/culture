@@ -10,6 +10,7 @@ There are three cloud computing models available on AWS.
 AWS services are typically grouped into different categories like compute, networking, storage, applications, databases, and analytics.
 
 **Compute**
+Compute resources can be considered the brains and processing power that are required by applications and systems to carry out computational abilities via a series of instructions.
 * Amazon EC2: Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud
 * AWS Lambda: AWS Lambda is a serverless, event-driven compute service that allows you to run code without managing servers.
 * AWS Elastic Beanstalk: AWS Elastic Beanstalk is a Platform as a Service that facilitates quick deployment of your applications by providing all the application services that you need for your application.
@@ -75,8 +76,7 @@ AWS Automates based on Your Configurations
 
 
 ## Setting up and configuring a basic web application on AWS (Activity)
-In small groups, consider the following scenario and make recommendations as to which AWS services you would choose. This is open book, feel free to visit 
-https://docs.aws.amazon.com/index.html if you need more information about a particular service.
+In small groups, consider the following scenario and make recommendations as to which AWS services you would choose. This is open book, feel free to visit online resources such as https://docs.aws.amazon.com/index.html or https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases if you need more information about a particular service.
 
 **Scenario:**
 We have an exciting opportunity to provide a mobile first content delivery application for highschool students who need supplemental material to help them with their understanding of key math concepts. We expect to start with a beta group of 1000 users, but the sales team thinks this is a BIG opportunity and we could reach 100k students. 
@@ -86,4 +86,7 @@ We have an exciting opportunity to provide a mobile first content delivery appli
 * It should process "near real time" events from ORDS regarding student progress
 * It should push student activity data to the data pipeline
 
-
+Resources
+https://docs.aws.amazon.com/index.html
+https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases/
+https://www.concurrencylabs.com/blog/how-to-prepare-aws-assessment/
