@@ -55,7 +55,7 @@ Some Services have limits
 
 Who does the Scaling?
 You
-* EC2 instance types, RDS read replicas, RDS storage increase, AWS Elasitcsearch node count
+* EC2 instance types, RDS read replicas, RDS storage increase, AWS Elasticsearch node count
 
 AWS
 * Lambda functions, S3 buckets sizes, SQS messages per second
@@ -75,7 +75,7 @@ AWS Automates based on Your Configurations
 
 
 
-## Setting up and configuring a basic web application on AWS (Activity)
+## Choosing the Services for your New Project
 In small groups, consider the following scenario and make recommendations as to which AWS services you would choose. This is open book, feel free to visit online resources such as https://docs.aws.amazon.com/index.html or https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases if you need more information about a particular service.
 
 **Scenario:**
@@ -90,3 +90,7 @@ Resources
 https://docs.aws.amazon.com/index.html
 https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases/
 https://www.concurrencylabs.com/blog/how-to-prepare-aws-assessment/
+
+
+OR 
+## Setting up and configuring a basic web application on AWS (Activity)?
