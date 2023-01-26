@@ -135,6 +135,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Desktop Operating System (Machine Type Intel/M1)
 
 ## Secret Credential Stores
+- AWS Secret Manager
 
 ## Virtual Environment Manager (rbenv, pyenv,etc)
 
