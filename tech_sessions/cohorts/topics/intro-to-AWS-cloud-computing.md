@@ -76,7 +76,7 @@ AWS Automates based on Your Configurations
 
 
 ## Choosing the Services for your New Project
-In small groups, consider the following scenario and make recommendations as to which AWS services you would choose. This is open book, feel free to visit online resources such as https://docs.aws.amazon.com/index.html or https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases if you need more information about a particular service.
+Group Discussion: Consider the following scenario and make recommendations as to which AWS services you would choose. This is open book, feel free to visit online resources such as https://docs.aws.amazon.com/index.html or https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases if you need more information about a particular service.
 
 **Scenario:**
 We have an exciting opportunity to provide a mobile first content delivery application for highschool students who need supplemental material to help them with their understanding of key math concepts. We expect to start with a beta group of 1000 users, but the sales team thinks this is a BIG opportunity and we could reach 100k students. 
@@ -92,5 +92,17 @@ https://www.eginnovations.com/blog/top-10-aws-services-explained-with-use-cases/
 https://www.concurrencylabs.com/blog/how-to-prepare-aws-assessment/
 
 
-OR 
+
 ## Setting up and configuring a basic web application on AWS (Activity)?
+Did you know you can create a free personal account on AWS to experiment with various services? Some services are free for a period of time, others are always free up to certain usage limits. 
+
+Start here: 
+
+https://aws.amazon.com/free Links to an external site. 
+
+General account setup help can be found here
+
+https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/?p=ft&z=subnav&loc=4&refid=78b916d7-7c94-4cab-98d9-0ce5e648dd5f Links to an external site. 
+
+N.B. Amazon does require a payment method to sign up, but will not charge you as long as you remain in the boundaries of the free tier. 
+
