@@ -138,6 +138,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - AWS Secret Manager
 
 ## Virtual Environment Manager (rbenv, pyenv,etc)
+- rbenv (ruby)
+- venv (python)
+- nvm (node)
 
 ## Package Management
 
