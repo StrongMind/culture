@@ -123,8 +123,12 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - SnowFlake
 - SQL Server (**deprecated**)
 
-
 ## Testing Tools
+- PyTest Describe (Python)
+- Jest (Javascript)
+- Rspec (Ruby)
+- xUnit (.NET)
+- nUnit (.NET)
 
 ## Mocking Tools
 
