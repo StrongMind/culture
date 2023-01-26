@@ -93,11 +93,11 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Grafana
 
 ## Infrastructure As Code
-- Terraform (**deprecated**)
 - Pulumi
-- Serverless (**deprecated**)
 - Azure Resource Manager (?)
+- Serverless (**deprecated**)
 - Ansible (**deprecated**)
+- Terraform (**deprecated**)
 
 ## Flow Visualization
 - Lucid Chart
@@ -110,6 +110,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - <app-name>.strongmind.com for production environments
 
 ## IDE
+- JetBrains
+  - For Pairing/Mobbing
+  - Installed on Machine by Default
 
 ## Databases
 
