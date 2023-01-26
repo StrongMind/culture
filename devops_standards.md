@@ -115,6 +115,14 @@ The use of **obsolete** will be denoted when something is no longer part of the 
   - Installed on Machine by Default
 
 ## Databases
+### SQL
+- Postgres
+- SQL Server (**deprecated**)
+- CosmosDB (**deprecrated**)
+### Reporting
+- SnowFlake
+- SQL Server (**deprecated**)
+
 
 ## Testing Tools
 
