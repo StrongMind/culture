@@ -145,10 +145,17 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Package Management
 
 ## Web Packaging (npm, yarn, etc)
+- npm
+
+## Repo Naming
+- dashes not under scores
+
+## Repository Locations
+- Windows: `C:\Users\<user>\Documents\GitHub`
+- Mac: `/Users/<user>/github`
+- Linux: `/home/<user>/github`
 
 ## Other Issues
-* Repo Naming
-* Repo Locations Locally
 * Instructions for Installing Languages & Frameworks
 * Developer Setup
 * Deployment Standards
