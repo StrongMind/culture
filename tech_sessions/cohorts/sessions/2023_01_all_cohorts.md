@@ -9,19 +9,19 @@
 
 ### Week 1
 * Tues/Topic 1: [Effective Decision Making](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/effective_decision_making.md)
-* Thurs/Topic 2: *Software Engineering - Intro to Cascading Style Sheets (CSS)
+* Thurs/Topic 2: [*Software Engineering - Intro to Cascading Style Sheets (CSS)](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/css-crash-course.md)
 
 ### Week 2
 * Tues/Topic 1: [System Visualization and Creating Diagrams Using Mermaid](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/system_visualization.md)
-* Thurs/Topic 2: *Results Oriented - The Anatomy of an Epic
+* Thurs/Topic 2: [*Results Oriented - The Anatomy of an Epic](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/anatomy-of-an-epic.md)
 
 ### Week 3
-* Tues/Topic 1: *Technology Ecosystem - Intro to Cloud Computing in AWS
+* Tues/Topic 1: [*Technology Ecosystem - Intro to Cloud Computing in AWS](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/intro-to-AWS-cloud-computing.md)
 * Thurs/Topic 2: [Research - Principles and Tools of Observation](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/tools_for_observation.md)
 
 ### Week 4
 * Tues/Topic 1: [Intro to User Journey Mapping](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/intro-to-user-journey-mapping.md)
-* Thurs/Topic 2: *Industry Knowledge - Who Are StrongMind's Competitors?
+* Thurs/Topic 2: *Delivering Customer Value - Course Creation and Publishing
 
 ### Week 5
 * Tues/Topic 1: *Product Goals and Strategies - The Online Instructional Experience
@@ -29,4 +29,4 @@
 
 ### Week 6
 * Tues/Topic 1: [Strengths and Weaknesses](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/strengths-and-weaknesses.md)
-* Thurs/Topic 2: *Delivering Customer Value - Course Creation and Publishing
+* Thurs/Topic 2: *Industry Knowledge - Who Are StrongMind's Competitors?
