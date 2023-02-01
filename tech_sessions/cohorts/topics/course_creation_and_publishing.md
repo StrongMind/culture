@@ -1,13 +1,18 @@
 # From Roadmap to the LMS: A Course Journey
 
 ## Roadmap/Scope
-- deciding what course to build
+- deciding what course to build 
+-- partner feedback, competitive analysis
 - deciding what state to build to
+-- where are our partners?
 
 ## Planning
 - standards selection
+-- state standards are required to be met
 - standards alignment (crosswalk)
+-- cross-map standards from one state to another in order to build a course for more than one state at a time
 - course blueprint/plan
+-- standards are layed out in a course structure to plan where they were going to be taught and where they will be assessed
 - SHOW AN EXAMPLE OF WHAT THEY ARE USING
 - start creating content (curriculum developers)
 - media and interactives (media requests)
