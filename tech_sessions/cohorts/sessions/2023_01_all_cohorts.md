@@ -21,7 +21,7 @@
 
 ### Week 4
 * Tues/Topic 1: [Intro to User Journey Mapping](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/intro-to-user-journey-mapping.md)
-* Thurs/Topic 2: *Delivering Customer Value - Course Creation and Publishing
+* Thurs/Topic 2: [*Delivering Customer Value - Course Creation and Publishing](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/course_creation_and_publishing.md)
 
 ### Week 5
 * Tues/Topic 1: *Product Goals and Strategies - The Online Instructional Experience
