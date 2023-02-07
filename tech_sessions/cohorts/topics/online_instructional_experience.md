@@ -21,12 +21,17 @@
 ## Student's Perspective
 
 ### In-Class Activity
+- get into groups of 3-4
 - complete an activity from a student's perspective
 
 ## Teacher's Perspective
 ### TRG (Teacher Resource Guide)
+- what is it?
+
+### Sync vs Async
+- what is it?
 
 ### In-Class Activity
+- in your groups of 3-4 pick someone to be a teacher
+- have their role changed from student to teacher
 - grade an activity from a teacher's perspective
-
-
