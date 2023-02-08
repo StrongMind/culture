@@ -6,12 +6,14 @@
 - choice of environment
 - immediate feedback on certain assessments
 - repeated access to course materials
+- grading via online school/ department unified rubrics
 
 ## The Tools We Use
 ### LMS (Learning Management System)
 - Canvas
 - PowerSchool
 - Big Blue Button
+- Other web 2.0 tools such as Canva, Kahoot!, Padlet (More can be found here https://www.nwea.org/blog/2021/75-digital-tools-apps-teachers-use-to-support-classroom-formative-assessment/)
 
 ### Course Breakdown
 - Typically 2 parts (1 of 2 and 2 of 2)
