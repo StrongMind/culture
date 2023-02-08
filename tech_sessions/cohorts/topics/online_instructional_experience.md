@@ -10,8 +10,8 @@
 ## The Tools We Use
 ### LMS (Learning Management System)
 - Canvas
-- Buzz
-- Schoology
+- PowerSchool
+- Big Blue Button
 
 ### Course Breakdown
 - Typically 2 parts (1 of 2 and 2 of 2)
