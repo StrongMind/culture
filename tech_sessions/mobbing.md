@@ -66,8 +66,26 @@ Use audible timers to ensure rotations are followed.
 
 ### Observable Green Flag behaviors
 
+1. Clear goals and direction: Everyone in the group should have a clear understanding of the task at hand and what is expected of them.
+2. Effective communication: Regular check-ins and open communication can help ensure everyone is on the same page and minimize misunderstandings.
+3. Collaboration: Encourage a supportive and collaborative environment where everyone is encouraged to contribute their ideas and thoughts.
+4. Active listening: Pay attention to what others are saying and show interest in their opinions.
+5. Encouragement of diversity of thought: Foster an environment where different perspectives are valued and encouraged.
+6. Flexibility and adaptability: Be open to change and new ideas.
+7. Regular role rotations: Regularly rotating the driver role can help prevent burnout and ensure everyone has a chance to participate and contribute.
+8. Active participation: Encourage everyone to actively participate and contribute, rather than just passively observing.
+9. Respectful behavior: Treat others with respect and refrain from behavior that could be considered disruptive or disrespectful.
+10. Continual improvement: Regularly reflect on the process and seek ways to improve it to ensure maximum effectiveness.
+
 ### Observable Red Flag behaviors
-#### Disengagement
+
+1. Lack of focus or direction: If the group is not clear on the task at hand or is easily sidetracked, it can hinder productivity and slow down the process.
+2. Unclear roles and responsibilities: Everyone in the group should have a clear understanding of their role and what is expected of them.
+3. Unproductive discussions or arguments: If discussions or arguments arise that do not contribute to the solution, it can waste time and create tension within the group.
+4. Dominance of a single person: If one person is dominating the conversation and not allowing others to contribute, it can lead to imbalanced contributions and reduce the effectiveness of the mob programming.
+5. Poor communication: Miscommunication can lead to confusion and mistakes. Regular check-ins and open communication can help avoid this.
+6. Resistance to change: If individuals in the group are resistant to new ideas or changes, it can slow down the progress of the mob programming.
+7. Failure to rotate drivers: If the driver role is not rotated regularly, it can lead to burnout and decreased productivity.
 
 ## Advantages and Disadvantages of mobbing vs pairing
 ### Advantages
