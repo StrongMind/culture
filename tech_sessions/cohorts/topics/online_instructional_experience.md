@@ -23,8 +23,8 @@
 ## Student's Perspective
 
 ### In-Class Activity
-- get into groups of 3-4
-- complete an activity from a student's perspective
+- Access online Big Blue Button Classroom
+- complete an activity from a student's perspective (complete mini lesson on shapes tutorial)
 
 ## Teacher's Perspective
 ### TRG (Teacher Resource Guide)
@@ -34,6 +34,7 @@
 - what is it?
 
 ### In-Class Activity
-- in your groups of 3-4 pick someone to be a teacher
-- have their role changed from student to teacher
-- grade an activity from a teacher's perspective
+- form a group of 3-4 people
+- identify the learning intention and success criteria of the lesson (what are we learning and how will we know that we have mastered what we learn?)
+- assign a teacher to use BBB to teach (based on the learning intention and success criteria) and have teacher create a poll and ask questions for students to answer in discussion board
+- have their role changed from student to teacher and repeat 
