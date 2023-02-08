@@ -86,4 +86,13 @@ In short Ping-Pong pairing helps professionals keep an eye on both the coding as
 * **Take breaks when needed.** Work at a pace that fits both developers.
 
 ## Remote Pairing
-Yeah it sucks. #kthxbai
+1. Use proper tools: Use a reliable platform for remote collaboration, such as Tuple.
+2. Establish clear communication: Make sure to establish clear lines of communication, including regular check-ins, and ensure everyone is on the same page.
+3. Define roles and responsibilities: Clearly define the roles and responsibilities of each person involved in the programming session.
+4. Set a schedule: Set a schedule for the programming session, including breaks, and stick to it as much as possible.
+5. Manage distractions: Find ways to minimize distractions and interruptions during the programming session, such as turning off notifications on devices.
+6. Share screens and code: Use screen sharing tools to allow both participants to see each other's code and screens.
+7. Regularly rotate roles: Regularly rotating the driver and navigator roles can help prevent burnout and ensure everyone has a chance to participate and contribute.
+8. Document progress: Document the progress of the programming session, including any challenges or obstacles that were overcome.
+9. Use whiteboards or sticky notes: Use a virtual whiteboard or sticky notes to help visualize and organize ideas.
+10. Encourage active participation: Encourage active participation from both participants and make sure everyone has a chance to contribute and be heard.
