@@ -1,6 +1,6 @@
-### Week 2
+## Section 2: A Pragmatic Approach
 
-* Section 2: A Pragmatic Approach
+* 
     * The Evils of Duplication
     * Orthogonality
     * Reversibility
@@ -8,3 +8,4 @@
     * Prototypes and Post-It Notes
     * Domain Languages
     * Estimating
+
