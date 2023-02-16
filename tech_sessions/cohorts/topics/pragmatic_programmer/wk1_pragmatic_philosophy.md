@@ -1,7 +1,7 @@
 ## Section 1: A Pragmatic Philosophy
 
 1. What does it mean to be a pragmatic programmer?
-2. What does it mean to "take responsiblity"?
+2. What does it mean to "take responsibility"?
 3. How do you react when someone comes to you with a lame excusae?  What do you think of them and their company as a result?
 4. What "broken windows" does your neighborhood have?  What could be done to fix them?
 5. Can you tell when a window gets broken?  How?  What is your reaction?  What do you do about it?
