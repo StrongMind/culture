@@ -29,4 +29,4 @@
 
 ### Week 6
 * Tues/Topic 1: [Strengths and Weaknesses](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/strengths-and-weaknesses.md)
-* Thurs/Topic 2: *Industry Knowledge - Who Are StrongMind's Competitors?
+* Thurs/Topic 2: [Perfection and Appreciation Game](https://strongmind1.instructure.com/courses/2905/modules)
