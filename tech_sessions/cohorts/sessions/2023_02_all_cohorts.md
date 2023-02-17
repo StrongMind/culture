@@ -1,5 +1,5 @@
 ## Sessions
-**All Cohorts**
+**All Cohorts beginning in Feb/Mar 2023**
 
 *indicates new topic
 
