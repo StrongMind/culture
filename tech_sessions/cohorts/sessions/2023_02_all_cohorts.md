@@ -13,11 +13,12 @@
 
 ### Week 3
 * Tues/Topic 1: [Internal](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/internal_community_strategy.md) and Professional Community Strategy
-* Thurs/Topic 2: *Alerts and Monitoring
+* * Thurs/Topic 2: [*Industry Knowledge - Who Are StrongMind's Competitors?](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/competitors.md)
+
 
 ### Week 4
 * Tues/Topic 1: [User Stories](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/user_stories.md)
-* Thurs/Topic 2: [*Industry Knowledge - Who Are StrongMind's Competitors?](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/competitors.md)
+* Thurs/Topic 2: *Alerts and Monitoring
 
 ### Week 5
 * Tues/Topic 1: [Software Design Patterns](https://github.com/StrongMind/culture/blob/main/tech_sessions/cohorts/topics/design_patterns.md)
