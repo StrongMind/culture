@@ -1,0 +1,1 @@
+## Section 7: Before the Project
