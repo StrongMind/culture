@@ -11,7 +11,10 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Azure DevOps (**obsolete**)
 - TFS (**obsolete**)
 
-### Pair Switching
+## REST API Standards
+- [Best Practices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+
+## Pair Switching
 - git-duet fix
 
 
