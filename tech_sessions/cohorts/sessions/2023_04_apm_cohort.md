@@ -1,5 +1,5 @@
 ## Sessions
-**APM Cohorts beginning in Mar 28, 2023**
+**APM Cohorts beginning in April 04, 2023**
 
 ### Week 1
 * Topic: Value Deliver and Story Telling
