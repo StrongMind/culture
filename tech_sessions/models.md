@@ -30,7 +30,7 @@ Controllers should handle request logic only. What is request logic?
 
 ### Views
 
-The views present interfaces to users. Views may have validation logic that mirrors the backend validation.
+The views present interfaces to users. Views may use validation logic from models or mirror validation from models in client side script.
 
 Views should handle presentation logic only. What is presentation logic?
 1. Displaying data, errors, and success messages
@@ -46,10 +46,12 @@ Views should handle presentation logic only. What is presentation logic?
 
 ## Smells
 
+### Moving from Maturity Level 1 to 2
 1. Controllers that contain business logic.
+1. Controllers that don't map to one resource/model.
+1. Controllers that have more than the basic CRUD actions.
 1. Controllers that interact with models with more than 2-3 lines of code.
+
+### Moving from Maturity Level 2 to 3
 1. Model methods that are more than 8-10 lines long.
-1. Models whose methods are not mappable to CRUD actions in some way.
-
-
-
+1. More than 3 or 4 methods in a model that relate to the same action.
