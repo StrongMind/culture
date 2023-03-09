@@ -55,3 +55,159 @@ Views should handle presentation logic only. What is presentation logic?
 ### Moving from Maturity Level 2 to 3
 1. Model methods that are more than 8-10 lines long.
 1. More than 3 or 4 methods in a model that relate to the same action.
+
+## Examples
+
+### Maturity Level 1
+
+```ruby
+# app/controllers/posts_controller.rb
+class PostController < ApplicationController
+  def create
+    @post = Post.new(params)
+    if @post.save
+			Twitter.login(tw_credentials)
+			Twitter.update(@post.body)
+
+			Facebook.login(fb_credentials)
+			Facebook.update(@post.body)
+
+			Mastodon.login(ma_credentials)
+			Mastodon.update(@post.body)
+
+			MySpace.login(my_credentials)
+			MySpace.update(@post.body)
+
+			LinkedIn.login(li_credentials)
+			LinkedIn.update(@post.body)
+			redirect_to @post
+    else
+      render :new
+    end
+  end
+end
+
+# app/models/post.rb
+class Post < ActiveRecord::Base
+end
+```
+
+### Maturity Level 2
+```ruby
+# app/controllers/posts_controller.rb
+class PostController < ApplicationController
+  def create
+    @post = Post.new(params)
+    if @post.save
+        redirect_to @post
+    else
+        render :new
+    end
+  end
+end
+
+# app/models/post.rb
+class Post < ActiveRecord::Base
+	# after save, update social media
+	after_save :update_social_media
+
+	def update_social_media
+		@update_twitter
+		@update_facebook
+		@update_mastodon
+		@update_myspace
+		@update_linkedin
+	end
+
+	def update_twitter
+			Twitter.login(tw_credentials)
+			Twitter.update(@body)
+	end
+
+	def update_facebook
+			Facebook.login(fb_credentials)
+			Facebook.update(@body)
+	end
+
+	def update_mastodon
+			Mastodon.login(ma_credentials)
+			Mastodon.update(@body)
+	end
+
+	def update_myspace
+			MySpace.login(my_credentials)
+			MySpace.update(@body)
+	end
+
+	def update_linkedin
+			LinkedIn.login(li_credentials)
+			LinkedIn.update(@body)
+	end
+end
+```
+
+### Maturity Level 3
+```ruby
+# app/controllers/posts_controller.rb
+class PostController < ApplicationController
+  def create
+    @post = Post.new(params)
+    if @post.save
+        redirect_to @post
+    else
+        render :new
+    end
+  end
+end
+
+# app/models/post.rb
+class Post < ActiveRecord::Base
+	include AutoSharesToSocialMedia
+
+	def sharable_text
+		@body
+	end
+end
+
+# app/models/concerns/auto_shares_to_social_media.rb
+module AutoSharesToSocialMedia
+	extend ActiveSupport::Concern
+
+	included do
+		after_save :update_social_media
+	end
+
+	def update_social_media
+		@update_twitter
+		@update_facebook
+		@update_mastodon
+		@update_myspace
+		@update_linkedin
+	end
+
+	def update_twitter
+			Twitter.login(tw_credentials)
+			Twitter.update(@sharable_text)
+	end
+
+	def update_facebook
+			Facebook.login(fb_credentials)
+			Facebook.update(@shareable_text)
+	end
+
+	def update_mastodon
+			Mastodon.login(ma_credentials)
+			Mastodon.update(@shareable_text)
+	end
+
+	def update_myspace
+			MySpace.login(my_credentials)
+			MySpace.update(@shareable_text)
+	end
+
+	def update_linkedin
+			LinkedIn.login(li_credentials)
+			LinkedIn.update(@shareable_text)
+	end
+end
+```
