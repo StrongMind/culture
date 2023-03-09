@@ -41,8 +41,8 @@ Views should handle presentation logic only. What is presentation logic?
 ## Common Maturity Levels
 
 1. Pure CRUD models with controllers that contain all the logic and call the models simply to persist.
-1. Rich models with controllers that only route requests to the models.
-1. Models with common patterns refactored out into concerns.
+2. Rich models with controllers that only route requests to the models.
+3. Models with common patterns refactored out into concerns.
 
 ## Smells
 
@@ -210,4 +210,65 @@ module AutoSharesToSocialMedia
 			LinkedIn.update(@shareable_text)
 	end
 end
+```
+
+### Model Association Examples
+
+```ruby
+# app/models/post.rb
+class Post < ActiveRecord::Base
+	has_many :comments
+	has_many :likes
+	has_and_belongs_to_many :tags
+	belongs_to :section
+end
+
+# app/models/user.rb
+class User < ActiveRecord::Base
+	has_many :subscriptions
+	has_many :posts
+	has_many :comments
+	has_many :likes
+end
+
+# app/models/comment.rb
+class Comment < ActiveRecord::Base
+	belongs_to :user
+	belongs_to :post
+end
+
+# app/models/like.rb
+class Like < ActiveRecord::Base
+	belongs_to :user
+	belongs_to :post
+end
+
+# app/models/subscription.rb
+class Subscription < ActiveRecord::Base
+	belongs_to :user
+end
+
+# app/models/section.rb
+class Section < ActiveRecord::Base
+	has_many :posts
+end
+
+# app/models/tag.rb
+class Tag < ActiveRecord::Base
+	has_and_belongs_to_many :posts
+end
+
+```
+
+```mermaid 
+erDiagram
+		POSTS ||--o{ COMMENTS : "can have many"
+		POSTS }o--o{ TAGS : "can be tagged"
+		POSTS ||--o{ LIKES : "can be liked"
+		SECTIONS ||--o{ POSTS : "are made up of"
+		USERS ||--o{ LIKES : "can add or remove"
+		USERS ||--o{ SUBSCRIPTIONS : "can own"
+		USERS ||--o{ POSTS : "can author"
+		
+
 ```
