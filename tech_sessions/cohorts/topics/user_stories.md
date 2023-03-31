@@ -166,19 +166,29 @@ A description of desired functionality told from the perspective of the user or 
 * Overly verbose user stories
 * User stories depending on other user stories in the same sprint
 
-11. Understand the Why
-    1. The Purpose
-    2. Assumptions
-    3. Expectations
-12. Defining Done
-    1. Boundaries
-    2. Getting to Acceptance
-    3. What's Needed
-13. Focus on Value
-    1. Customer Value
-    2. Simplicity
-    3. Full Slice
-14. Think Holistically
-    1. Current System
-    2. Other Systems
-    3. Other Stakeholders
+## Understand the Why
+1. The Purpose
+2. Assumptions
+3. Expectations
+
+## Defining Done
+
+The Definition of Done is an agreed-upon set of items that must be completed before any user story can be considered complete.
+
+The difference between acceptance criteria is that this would apply to *all* user stories.
+
+1. Boundaries
+2. Getting to Acceptance
+3. What's Needed
+## Focus on Value
+
+A user story should articulate how a piece of work will deliver a particular value back to the customer
+
+1. Customer Value
+2. Simplicity
+3. Full Slice
+##  Think Holistically
+
+1. Current System
+2. Other Systems
+3. Other Stakeholders
