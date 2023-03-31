@@ -80,16 +80,92 @@ A brainstorming session where the group identifies as many user story ideas as p
 
 
 ## Where Are The Details?
-   1. Smaller Stories
-   2. Conditions of Satisfaction
-   3. Acceptance Criteria
-   4. Acceptance Testing
-8. Types of Stories
-   1. Epic
-   2. Theme
-   3. Story
-9. Tips for Good Stories
-10. Smells Around Stories
+
+Example story:  As a user, I want to cancel a reservtion
+
+Questions:
+1. Is a confirmation provided to the user?  How?
+2. Does the user get a full or partial refund? If so, via credit card or store credit?
+3. How far ahead must the reservation be cancelled?
+  a. Is that the same for all hotels?
+  b. For all site visitors?
+  c. Can frequent travelers cancel later?
+
+### Smaller Stories
+
+Example story:  As a user, I want to cancel a reservtion
+
+Smaller Stories:
+
+* As a premium site member, I can cancel a reservation up to the last minute.
+
+* As non-premium member, I can cancel up to 24 hours in advance.
+
+* As a site visitor, I am emailed a confirmation of any cancelled reservation.
+
+### Conditions of Satisfaction
+
+Example story:  As a user, I want to cancel a reservtion
+
+The product owner’s conditions of satisfaction can be added to a story
+(a.k.a Acceptance Criteria)
+
+* Verify that a premium member can cancel the same day without a fee.
+
+* Verify that a non-premium member is charged 10% for same day cancellation.
+
+* Verify that an email confirmation is sent.
+
+* Verify that the hotel is notified of any cancellation.
+
+### Acceptance Criteria
+
+Example storey: As a VP Marketing, I want to see information on television advertising when reviewing historical campaigns so that.....
+
+* See how many viewers by age range.
+* See how many viewers by income level.
+* See how many viewers by gender.
+### Acceptance Testing
+
+Acceptance testing is a quality assurance (QA) process that determines to what degree an application meets end users' approval.
+
+## Types of Stories
+
+### Epic
+
+A large user story
+
+### Theme
+
+A collection of related user stories
+
+### Story
+
+A description of desired functionality told from the perspective of the user or customer.
+
+
+## Tips for Good Stories
+
+* To identify stories, start by considering the goals of each user role in using the system.
+
+* When splitting a story, try to come up with stories that cut through all layers of the application.
+
+* Create constraint cards and tape to wall or write tests to ensure they are not violated.
+
+* Write smaller stories for functionality that will soon be implemented and broad stories for functionality further out.
+
+* Keep the user interface out of the stories for as long as possible.  ( ? )
+
+### Smells Around Stories
+
+* Expressing everything as a user story
+* Thinking that a user story is a specifications document
+* Splitting stories by technology layer
+* Stories without clear acceptance criteria
+* The user being somone else other than the person consuming the value
+* Overly verbose user stories
+* User stories depending on other user stories in the same sprint
+
 11. Understand the Why
     1. The Purpose
     2. Assumptions
