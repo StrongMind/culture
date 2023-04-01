@@ -11,7 +11,7 @@ As a *consumer*, I want to *book a reservation for a flight* so that *I can trav
 
 Anyone *can* write user stories.
 
-It's the product owner's responsibility to manage and prioritize a backlog of user stories exists, but that doesn’t mean that the product owner is the only one who is allowed to write them.
+It's the product owner's responsibility to manage and prioritize a backlog of user stories, but that doesn’t mean that the product owner is the only one who is allowed to write them.
 
 ## Why User Stories?
 
@@ -63,7 +63,7 @@ User story need to have an achievable goal that can be tested to see if it deliv
 
 ## How Do We Gather User Stories
 ### User Interviews
-Ask a diverse group of users o pen-ended questions containing "how" or "why."
+Ask a diverse group of users open-ended questions containing "how" or "why."
 
 i.e. *"How would you pair this device with your iPhone?"*
 
@@ -154,7 +154,10 @@ A description of desired functionality told from the perspective of the user or 
 
 * Write smaller stories for functionality that will soon be implemented and broad stories for functionality further out.
 
-* Keep the user interface out of the stories for as long as possible.  ( ? )
+* Keep the user interface out of the stories for as long as possible.  (Leave room for flexibility in the interface as you learn)
+
+* It is more important to think about users’ goals than to list the attributes of a solution.
+
 
 ### Smells Around Stories
 
@@ -175,18 +178,20 @@ A description of desired functionality told from the perspective of the user or 
 
 The Definition of Done is an agreed-upon set of items that must be completed before any user story can be considered complete.
 
-The difference between acceptance criteria is that this would apply to *all* user stories.
+The difference between the Definition of Done and acceptance criteria is that this would apply to *all* user stories.
 
-1. Boundaries
+1. Boundaries / Constraints
 2. Getting to Acceptance
 3. What's Needed
+
 ## Focus on Value
 
 A user story should articulate how a piece of work will deliver a particular value back to the customer
 
 1. Customer Value
 2. Simplicity
-3. Full Slice
+3. (Full) Vertical Slice
+
 ##  Think Holistically
 
 1. Current System
