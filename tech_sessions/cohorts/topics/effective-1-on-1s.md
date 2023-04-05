@@ -75,5 +75,18 @@ End the meeting with clear, actionable steps. Use the last few minutes of the me
 Make sure both parties are aligned on what work needs to be done and by when, and answer any lingering questions.
 ## Pro Tips
 
+* Have your 1-on-1s regularly
+* Find a quiet, private location
+* Break the ice
+* Don’t do all the talking
+* Change the setting sometimes
+* Use a shared document to record notes
+* Don't use the 1-on-1s for status reporting
+* Don’t be distracted
+* Follow up on action items
 
 ## Resources
+* [How to Have Effective 1:1s](https://www.radicalcandor.com/effective-one-on-ones/)
+* [Manager Tools - One on Ones](https://www.manager-tools.com/map-universe/one-ones)
+* [4 easy ways to make one-on-one meetings more meaningful](https://www.betterup.com/blog/one-on-one-meeting)
+* [The Ultimate Manager’s Guide to Leading Effective One-on-Ones](https://lattice.com/library/the-ultimate-managers-guide-to-leading-effective-one-on-ones)
