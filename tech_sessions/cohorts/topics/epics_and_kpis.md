@@ -79,3 +79,29 @@ Output: Achieve a 67% renewal rate.
 Outcome: Increase renewal rates by 10%.
 
 (*Activity to practice KPI writing)
+
+#potential other version of KPI 
+(what is a kpi)[https://www.spiderstrategies.com/blog/what-is-a-kpi/]
+
+KPIs are tied to strategic outcomes. Generally, KPIs can be organized into these broad categories:
+
+Strategic KPIs: These KPIs give a big-picture overview of your company’s performance. An example might be your overall market share.
+
+Operational KPIs: These KPIs focus more on specific processes or efficiencies and tend to measure performance over a shorter time frame. An example of an operational measure might be your average monthly sales by region.
+
+Functional Unit or Project KPIs: This type of KPI is tied to a specific function, department (such as HR), or project (such as a new product launch). One example of a functional unit KPI could be the average time to resolve a customer query.
+
+Risk KPIs: These KPIs focus on minimizing internal and external risk factors. For example, a KPI might be the cost of risk management programs or the number of risks identified.
+
+Employee KPIs: This category of KPIs focuses on human behavior and employee performance. An example of an employee measure might be staff retention rates.
+
+## How to Develop a KPI Strategy
+To create and implement your KPI strategy, utilize the SMARTER System:
+
+Specific: What exactly do you want to measure?
+Measurable: Can this KPI be easily quantified?
+Attainable: Is it realistic to meet this KPI in the time frame you’ve set?
+Relevant: How does this KPI relate to your work?
+Time-Bound: What is the timeline for meeting this KPI?
+Explainable: Is the definition clear to all the stakeholders involved?
+Relative: Does this KPI move in relation to your business goals?
