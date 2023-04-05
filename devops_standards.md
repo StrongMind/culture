@@ -146,6 +146,12 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - nvm (node)
 
 ## Package Management
+- pypi.org (python)
+  - Requires Makefile with a test and install option.
+  - Package name prefix "strongmind-"
+- nuget.org (.net)
+  - Package ID prefix "SM."
+- rubygems.org (ruby)
 
 ## Web Packaging (npm, yarn, etc)
 - npm
