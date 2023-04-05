@@ -33,11 +33,21 @@ Because they are private and timely, regular 1-on-1s are also the perfect opport
 
 As important as it is to give feedback, it's also important to provide a safe opportunity for direct reports to provide feedback.
 ## Preparing
-### Establish Mindset
-### Establish Expectations
-### Set a Recurring Schedule
-### Be Flexible
 
+### Establish Mindset
+As a manager, your role is to coach and support while ensuring your employees remain the focus of the conversation. The conversation should be flexible enough to accommodate topics that are top of mind for both sides.
+
+Have a shared collaborative space to keep track of upcoming topics to discuss.
+
+### Establish Expectations
+Set an agenda so both you and your direct report understand what will be covered.  Set the expectation that this meeting is for them, so ask them to come prepared as well.
+
+Asking them to come prepared with topics is a simple, symbolic practice that helps them feel ownership and autonomy for their work and their time. You’re saying, “You tell me what’s important.”
+
+### Set a Recurring Schedule
+Work with your direct reports to decide how frequently they should meet (weekly, biweekly).  Some employees will want and need a more hands-on approach, while more autonomous individuals might prefer a less frequent or lengthy time commitment.  30 minutes should suffice but plan for your sessions to run over.  Try not to schedule something immediately afteward.
+### Be Flexible
+Change things up.  You don't have to cover the exact same topics every time.  For example, there may be times when your direct report really wants to talk about something that has been bothering him/her and is finally comfortable to share.  You may end up eating up the entire session only talking about that and that's ok.
 ## Conducting
 
 ## Pro Tips
