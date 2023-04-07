@@ -56,24 +56,24 @@ An Epic is not just a bucket. An Epic represents value, it is a result of the wo
 
 ## Components
 
-Define the Epic
+An Epic has four primary components:
 
-- Name
-- Value Statement
+1. Definition (What and Why)
 
-Acceptance Criteria
+- What are we trying to do?
+- Value Statement (Why are we doing it?)
 
-It shall do this
+2. Define Success        
 
-It shall do that
+If we are successful these things are true
 
-KPI's
+3. KPI’s
 
-Should have X% increase in Y showing [some type of] value.
+               Should have X% increase in Y showing [some type of] value.
 
-Stories
+4. Stories
 
-As a [user] I want to [have something] so that I may [achieve something]
+               As a [user] I want to [have something] so that I may [achieve something]
 
 ## Process
 
@@ -135,9 +135,9 @@ Keep asking why until you get to the value.
 
 Now we have value.
 
-## Acceptance Criteria
+## Defining Success
 
-Acceptance Criteria clearly defines expectations of what should be accomplished before moving the Epic into validation.
+Success clearly defines expectations of what should be accomplished before moving the Epic into validation.
 
 1. Everyone has attended training.
 2. Everyone knows what results-oriented means.
@@ -177,11 +177,11 @@ This is how we build our KPI's.
 - Students using StrongMind increases from 15,000 to 20,000 in one year.
 - Survey the SAS (Sales and Service) team and find out if what we have been building the past 6 months have filled 91% of their priority items
 
-### Difference between Acceptance Criteria and KPI's
+### Difference between Success Criteria and KPI's
 
-A lot of times the lines between the Acceptance Criteria and KPI's can become a little blurry.
+A lot of times the lines between the Success and KPI's can become a little blurry.
 
-The primary difference between acceptance criteria and a KPI is that acceptance criteria defines what must be done to achieve value from the Epic, The KPI's prove (or disprove) that the value was achieved.
+The primary difference between Success and a KPI is that Success criteria defines what must be done to achieve value from the Epic, The KPI's prove (or disprove) that the value was achieved.
 
 ## Stories
 
@@ -288,6 +288,6 @@ Next add your value statement.
 
 If time permits, finish the epics by adding:
 
-- Acceptance Criteria
+- Success Criteria
 - KPI's that prove the value
 - Stories that will achieve the value
