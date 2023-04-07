@@ -5,14 +5,10 @@
 ## An Epic has four primary components:
 
 1. Definition (What and Why)
-* Name of the Epic (What)
-* Value Statement (Why)
-
-2. Acceptance Criteria (Success Looks Like)
-
-               It shall do this
-
-               It shall do that
+  - What are we trying to do?
+  - Value Statement (Why are we doing it?)
+2. Define what Success looks like
+  - If we are successful these things are true
 
 3. KPI’s
 
@@ -22,14 +18,40 @@
 
                As a [user] I want to [have something] so that I may [achieve something]
                
- ## Define
- The Title should reflect the Value we want to achieve
- The Value Statement describes why this work is valuable
- - one way to get to the value is to use the 5 Whys Process
+ ## Defining Value
+What are we Trying to do?
+ 
 
-## Acceptance Criteria
-clearly defines expectations of what should be accomplished to achieve the value of the epic
-This shows what needs to be done to complete the epic, but does not show the value in the epic.  
+The Value Statement describes why this work is valuable
+One way to focus the value is to use the 5 Whys Process
+ 
+
+E.g.
+
+**What** Curriculum needs a way to easily preview and save their course content at any point in the development process, so they can quickly review and make changes to their courses, and provide full course materials in both electronic and print formats.
+
+**Why**: Currently, Curriculum has to use multiple tools or time-consuming methods to view and compile their course content, which slows down their workflow and can lead to errors. With an easier and more efficient way to preview and save course materials, Curriculum can spend more time reviewing and improving their courses, and provide materials in a timely manner to meet various needs
+
+## What Success Looks Like
+Clearly defines the expectations of what should be accomplished to achieve the value of the epic. 
+
+If we are successful these things are true
+
+ 
+
+E.g. 
+
+Curriculum team members can:
+
+Preview and navigate through an accurate representation of the course content and functionality quickly and easily.
+
+Preview a course without being in an LMS
+
+View all course content as a teacher including the Teacher Resource Guide, answer keys and teacher resources.
+
+Save and/or print the course in both electronic and print formats.
+
+Enforce copyright information to each printed page
 
 (*Provide Example and/or practice)
 
@@ -47,36 +69,56 @@ KPIs are not independent little goals to meet. They’re stepping stones on the 
 So if you could achieve your Value without completing your KPIs, your KPIs probably aren’t the right milestones.
 The same is true if you feel like you could complete all your KPIs and still not achieve your Value. 
 
-## Types of KPIs
-#### **Inputs**
-Inputs are things that you can control.
+## Good, Better, Best: Done, Outputs, and Outcomes
+Which of these KPIs would you choose:
 
-The number of stores that open, relaunching a company website, reducing the weight of a component that’s manufactured — these are all inputs.
+1. Curriculum is able to preview and print a course
+2. The time curriculum spends printing courses will be reduced by 90%
+3. Curriculum is able to increase course production by 10% YOY
+Why?
 
-Example 1: To get our candidate elected, knock on at least 10,000 doors.
-Example 2: Test three marketing campaigns to renew subscribers to our service.
+
+#### **Done KPIs**
+1. Curriculum is able to preview and print a course
+ 
+
+We want to avoid binary (done or not done) KPIs when possible.
+
+They don't really help us prove the value of the work. 
 
 #### **Outputs**
-Outputs are the effects of your inputs. Increasing sales revenue, reaching performance benchmarks, or attracting a certain number of attendees to a conference — these are outputs.
+Outputs are benchmarks that need to be met to achieve your value. Increasing sales revenue, reaching performance benchmarks, or attracting a certain number of attendees to a conference — these are outputs.
+
+ 
 
 Example 1: To get our candidate elected, get 20,000 people to commit to voting for her.
 Example 2: Achieve a subscriber renewal rate above 63%.
+Example 3: The time curriculum spends printing courses will be reduced by 90%
 
 #### **Outcomes**
-Outcomes are a more advanced way to think about outputs. Outputs tend to describe the desired end result itself. Outcomes often emphasize the “before” and “after” more clearly than either an input or an output.
+Outcomes are a more advanced way to think about outputs. Outputs tend to describe the desired end result itself. 
 
-To clarify, let’s look at two sample Objectives and potential KPIs viewed through the lens of either being an input, output or outcome.
+3. Curriculum is able to increase course production by 10% YOY
 
-Objective: Get our candidate elected.
+ 
 
-Input: Volunteers must knock on at least 10,000 doors.
-Output: Get 20,000 people to commit to voting for our candidate.
-Outcome: Our candidate wins more districts than they did in the previous election.
-Value: Customers value our service.
+In this example we are saying that the value in decreasing time printing courses IS REALLY an increase in capacity to make more courses. This is ultimately the goal. 
 
-Input: Run three marketing campaigns aimed at renewals.
-Output: Achieve a 67% renewal rate.
-Outcome: Increase renewal rates by 10%.
+Outcomes can be more difficult to measure as they might have multiple inputs, longer time frames etc. They also represent the real value to the organization so are good to be aware of even if they end up being tracked at the Initiative level. 
+
+Epic: Get our candidate elected to office this fall
+
+Done KPI: Volunteers must knock on at least 10,000 doors.
+Output KPI: Get 20,000 people to commit to voting for our candidate.
+Outcome KPI: Our candidate wins more districts than they did in the previous election.
+
+
+
+Epic: Increase Renewal Rates
+
+Done KPI: Run three marketing campaigns aimed at renewals.
+Output KPI: Achieve a 67% renewal rate.
+Outcome KPI: Increase renewal rates by 10%.
 
 (*Activity to practice KPI writing)
 
