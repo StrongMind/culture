@@ -14,6 +14,7 @@ It is crucial that all members of the decision making group understand the probl
 Leverage diverse appoaches to the problem by gathering ideas from the group. 
 * Using sticky notes to capture ideas encourages less vocal participants
 * Drawing together
+* Try a "round robin" with each person contributing an idea
 
 
 ## Select an Approach
@@ -39,11 +40,13 @@ For each potential approach, place it on the chart according to level of effort 
 <img src= 'https://cdn-images-1.medium.com/max/800/0*fAxZVRNG9st6Aiji.'/>
 
 **Force Field Analysis**
-This tool is especially useful to understand the forces for and against a proposed change. Each force is given a size or weight that represents how "strong" it is compared to other forces. 
+The idea behind Force Field Analysis is that situations are maintained by an equilibrium between forces that drive change and others that resist change. For change to happen, the driving forces must be strengthened or the resisting forces weakened.
+
+Each participant should be contributing their "forces". Each force is given a size or weight that represents how "strong" it is compared to other forces. 
 
 1. In the center of your chart, describe the proposed change
-2. On the left, list the forces that are in favor of change
-3. On the right, list the forces that oppose (or are against) change
+2. On the left, list the forces that are pushing for change
+3. On the right, list the forces that resist (or are against) change
 4. Use dot voting, sizing or another method to determine the strength rating for each force
 5. Sum each side of the forces
 
