@@ -40,6 +40,33 @@ Once individuals understand what they want to be when they grow up, they can beg
 
 ## Creating Growth Plans
 
+Once individuals have identified areas for growth, they'll need to [practice that skill](https://jamesclear.com/deliberate-practice-theory).  In order to ensure they are practicing, they'll need a plan they can execute on.
+
+The [Engineering Goal Setting Process](https://strongmind0.sharepoint.com/:w:/r/sites/DevelopmentManagers/Shared%20Documents/Goal%20Setting/Engineering%20Goal%20Process%20Overview.docx), provides specific instrutions for everyone to create a plan for themselves.
+
+As manager's it is essential to help them with what this looks like.  Pay particular attention to the items that might stand in their way as their may be things we can do to help remove those blockers.
+
+It's important that individuals have practice areas which enourages them to do something at least once a week to help build or strengthen their muscles around the specific compentencies they've chosen.  Having people record what they've done, no matter how small is also important to determine if they are progressing on their journey.
+
 ## Evaluating Growth
 
+Beyond the initial StrongMinder's Journey evaluation, it is essential that evalation be an ongoing process.  It is important that indivuduals see how they are progressing and get feedback.
+
+Using the comptenency descriptions in the [StrongMinder's Journey](https://strongmind.atlassian.net/wiki/spaces/PENG/pages/1033699373/StrongMinder+s+Journey) as managers, we need to use our best judgement determine what level they are with each competency based on...
+* Our own observations of the behaviors they are exhibing
+* Output they've produced
+* Accountability to the plan items on their growth plan
+* Feedback from others
+
 ## References
+### External
+* [Employee Growth: What It Is & How to Promote It](https://www.questionpro.com/blog/employee-growth/#:~:text=Employee%20growth%20is%20the%20continuous,evolution%20of%20employees%20as%20professionals.)
+* [The 4 Pillars of Employee Growth](https://lattice.com/library/the-4-pillars-of-employee-growth)
+* [Employee Development: 8 Ways to Drive Continuous Employee Growth](https://semoscloud.com/blog/employee-development-ways-to-drive-employee-growth/)
+* [Developing Employees](https://www.shrm.org/resourcesandtools/tools-and-samples/toolkits/pages/developingemployees.aspx)
+* [7 Employee Growth and Development Ideas for Leaders](https://www.yourthoughtpartner.com/blog/bid/73916/6-tips-to-help-employees-grow-and-develop)
+### Internal
+
+* [StrongMinder's Journey](https://strongmind.atlassian.net/wiki/spaces/PENG/pages/1033699373/StrongMinder+s+Journey)
+* [SMJourneyReviewScoreCardTemplate-MASTER](https://strongmind0.sharepoint.com/:x:/r/sites/DevelopmentManagers/Shared%20Documents/StrongMinder%27s%20Journey/SMJourneyReviewScoreCardTemplate-MASTER.xlsx)
+* [Engineering Goal Setting Process](https://strongmind0.sharepoint.com/:w:/r/sites/DevelopmentManagers/Shared%20Documents/Goal%20Setting/Engineering%20Goal%20Process%20Overview.docx)
