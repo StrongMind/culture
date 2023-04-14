@@ -20,6 +20,24 @@ In order to support growth, as managers we need to help our direct reports...
 
 ## Identifying Areas for Growth
 
+### Goal Setting
+
+In order for people to feel motivated to want to improve themselves, they need to first determine why they want to grow.  Along their journey, this helps provide them with motivation to continue their deliberate practice even when it becomes hard or boring.  For that, we need a way to discover that North Star.  The first step is to have people determine *"What do I want to be when I grow up"*.
+
+We then go through the process of helping them understand where they are relative to that broader goal, what they need to do to fulfill that goal, and what type of things might stand in their way.
+
+See [Engineering Goal Process Overview](https://strongmind0.sharepoint.com/:w:/r/sites/DevelopmentManagers/Shared%20Documents/Goal%20Setting/Engineering%20Goal%20Process%20Overview.docx)
+### The StrongMinder's Journey
+
+The [StrongMinder's Journey](https://strongmind.atlassian.net/wiki/spaces/PENG/pages/1033699373/StrongMinder+s+Journey) is a personal development tool. It's designed to be a mechanism to guide discussion and action when assessing employee's current behaviors and where they can improve personally and professionally. It should be used as a mechanism to assist assessing their current behaviors and where they can develop or enhance their skills.
+
+Everyone is provided with a tool to be able to assess their own skill level for each of the SMJ competenencies and for managers to be able to perform their own assessment.  For managers, specifically, assessments are done quarterly so as to see the progression of growth over time.
+
+Once individuals understand what they want to be when they grow up, they can begin to understand which areas they would like to grow and use the same techniques as above to understand...
+* Where they currently stand skillwise for a particular competency
+* What they need to do to improve their skill in that compentency
+* What headwinds might hold them back
+
 ## Creating Growth Plans
 
 ## Evaluating Growth
