@@ -1,23 +1,34 @@
 # Managing and Evaluating Performance
 
-# Importance of Managing Performance
+## Importance of Managing Performance
 
-# Setting Expectations
+taking an active role in managing performance, you can provide clarity, direction, and purpose to empower your direct reports to be their best at work.
 
-# Evaluating
+Modern approaches to performance management seek to align efforts with organizational goals and develop each employee’s potential in real time. 
 
-## Monitoring
+## Setting Expectations
 
-## Measuring
+Expectations can be set using a varity of techniques.
 
-### performance metrics
+### Cultrual
 
-# Accountability
+Culturual norms are set of behaviors that are inherent to an organization that may or may not be expressly written down.  These are things are learned over time
 
-## Providing support
 
-## Feedback
+## Evaluating
 
-### Amplifying positive behaviors and outcomes
+### Monitoring
 
-### Correcting poor behaviors and outcomes
+### Measuring
+
+## Accountability
+
+### Coaching
+
+#### Providing support
+
+### Feedback
+
+#### Amplifying positive behaviors and outcomes
+
+#### Correcting poor behaviors and outcomes
