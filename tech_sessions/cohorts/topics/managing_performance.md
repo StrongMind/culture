@@ -41,4 +41,11 @@ When invididuals get feedback in the form of coaching from managers in the flow 
 
 #### Amplifying positive behaviors and outcomes
 
+Recognizing good performance means acknowledging positive behaviors and contributions.  Nothing plays a bigger role in employee motivation than this.  Recognizing individuals for their efforts and achievements throughout the year, not just once at the end of it, lets them know their talents are appreciated and encourages them to continue to perform at a high level.
+
+This effective technique helps support behaviors that are aligned with a strategic goal, may be tied to an employee’s passion and purpose, and are associated with an employee’s accomplishments. This also gives people a sense of meaning or purpose in their work.
 #### Correcting poor behaviors and outcomes
+
+If an individual isn’t meeting the standards and expectations of the position after coaching or other forms of help, the next stage of performance management is corrective action.
+
+Corrective action calls on you and the individual to work together to find the reasons for poor performance and develop a plan to improve the situation.  It's important that as managers, we do everything in our power to preven this from getting to the stage of creating a "formal" plan.  This is why continuous and real-time coaching is so important.
