@@ -30,11 +30,14 @@ The important takeway is that there is no single input we should latch onto.  In
 
 ## Accountability
 
+Simply setting expectations is not enough. It's important as managers that we hold individuals accountable to those expectations.  Accountablility takes on many forms.  It's important that it doesn't mean berrating individuals for every little thing they've done wrong.  In order for accountability to be effective it must be well rounded.
 ### Coaching
 
-#### Providing support
+The coaching stage of performance management sets the tone for your company and the success of your employees. Coaching involves training, outlining standards and goals, two-way feedback, and collaboration to help employees get better.
 
-### Feedback
+Ensure you provide *continuous* coaching and challenge your employees at this stage. Take their feedback into consideration, listen to any concerns they may have, and provide appropriate support. As a manager, you are responsible for helping your staff build their capability. You should stay attuned to the different learning styles of your staff - do they work better with written or verbal instructions? Do they prefer you to be hands on or hands off? Ensure you tailor your coaching style to the individual.
+
+When invididuals get feedback in the form of coaching from managers in the flow of work, they can adjust their behavior and mindset. This exchange can build trust because employees see their managers want to help them improve. Moreover, employees aren’t surprised by feedback that only arrives weeks or months later.
 
 #### Amplifying positive behaviors and outcomes
 
