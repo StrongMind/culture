@@ -58,7 +58,7 @@ Using the comptenency descriptions in the [StrongMinder's Journey](https://stron
 * Accountability to the plan items on their growth plan
 * Feedback from others
 
-## References
+## Resources
 ### External
 * [Employee Growth: What It Is & How to Promote It](https://www.questionpro.com/blog/employee-growth/#:~:text=Employee%20growth%20is%20the%20continuous,evolution%20of%20employees%20as%20professionals.)
 * [The 4 Pillars of Employee Growth](https://lattice.com/library/the-4-pillars-of-employee-growth)

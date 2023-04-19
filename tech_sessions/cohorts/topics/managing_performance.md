@@ -49,3 +49,15 @@ This effective technique helps support behaviors that are aligned with a strateg
 If an individual isn’t meeting the standards and expectations of the position after coaching or other forms of help, the next stage of performance management is corrective action.
 
 Corrective action calls on you and the individual to work together to find the reasons for poor performance and develop a plan to improve the situation.  It's important that as managers, we do everything in our power to preven this from getting to the stage of creating a "formal" plan.  This is why continuous and real-time coaching is so important.
+
+## Resources
+### External
+[Basic Tips for Managing Employee Performance](https://www.tasb.org/services/hr-services/hrx/hr-trends/basic-tips-for-managing-employee-performance.aspx)
+[The Ultimate Guide to Managing Employee Performance](https://www.betterworks.com/magazine/guide-to-managing-employee-performance/)
+[5 ways to effectively manage employee performance](https://www.phocassoftware.com/resources/blog/5-ways-to-effectively-manage-employee-performance-through-bi)
+[Performance Management Process: 4 Steps to Success in 2023](https://www.workhuman.com/blog/performance-management-process/)
+[Performance Management: Employee Accountability](https://www.forbes.com/sites/forbeshumanresourcescouncil/2020/12/14/performance-management-employee-accountability)
+
+### Internal
+[StrongMinder's Journey](https://strongmind.atlassian.net/wiki/spaces/PENG/pages/1033699373/StrongMinder+s+Journey)
+[Employee Evaluation Process](https://strongmind.atlassian.net/wiki/spaces/EM/pages/2974974576/Employee+Evaluation+Process+draft)
