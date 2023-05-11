@@ -1,5 +1,3 @@
-Week 4: Delegation
-
 # Delegation
 
 Delegation is the act of entrusting someone else with a task or responsibility. It is an essential skill for engineering managers, as it allows them to free up their time to focus on more strategic tasks.
@@ -43,8 +41,8 @@ When your team members successfully complete a delegated task, make sure to reco
 
 ## References
 
-https://www.jobsity.com/blog/a-simple-guide-to-delegation-for-devs
-https://www.theengineeringmanager.com/management-101/delegation/
-https://www.heykona.com/blog/effective-engineering-delegation
-https://fellow.app/blog/engineering/an-engineering-managers-guide-to-delegating/
-https://medium.com/swlh/how-to-delegate-effectively-in-software-development-teams-d0c5c8383b0a
+* [A Simple Guide to Delegation for Devs](https://www.jobsity.com/blog/a-simple-guide-to-delegation-for-devs)
+* [The Engineering Manager -- Empowering ourselves to empower others](https://www.theengineeringmanager.com/management-101/delegation)
+* [5 Effective Delegation Techniques for Engineering Managers](https://www.heykona.com/blog/effective-engineering-delegation)
+* [An Engineering Manager’s Guide to Delegating](https://fellow.app/blog/engineering/an-engineering-managers-guide-to-delegating)
+* [How to Delegate Effectively in Software Development Teams](https://medium.com/swlh/how-to-delegate-effectively-in-software-development-teams-d0c5c8383b0a)
