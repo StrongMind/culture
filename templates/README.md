@@ -140,3 +140,7 @@ py manage.py runserver
 ```
 
 > Code owners can be found in [CODEOWNERS file](./CODEOWNERS)
+
+## Confluence Links
+
+A place to link confluence pages/documentation related to the application (until it is moved to git wiki or README).
