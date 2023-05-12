@@ -8,20 +8,20 @@ As an engineering manager, you'll have to delegate tasks and responsibilities to
 
 ### Implementation
 
-Choose the right tasks to delegate. Not all tasks are created equal. Some tasks are better suited for delegation than others. Managers should choose tasks that are:
-* Appropriate for the employee's skill level and experience
+First, choose the right tasks to delegate. Not all tasks are created equal. Some tasks are better suited for delegation than others. Managers should choose tasks that are:
+* Appropriate for the individual's skill level and experience or allows the individual to stretch somewhat beyond their current skill level
 * Within the employee's scope of responsibility
 * Well-defined and with clear instructions
 
 #### Clearly Define the Task
 
-Once you've identified the right person for the task, clearly define what is expected of them. Provide detailed instructions and make sure they understand the scope of the task, the timeline, and any relevant constraints. This will help ensure that they have a clear understanding of what they need to do and can successfully complete the task.
+Once you've identified the right individual for the task, clearly define what is expected of them. Provide detailed instructions and make sure they understand the scope of the task, the timeline, and any relevant constraints. This will help ensure that they have a clear understanding of what they need to do and can successfully complete the task.
 * The desired outcome of the task
 * The deadline for completion
 * The level of autonomy that the employee has
 * The resources that the employee will need
 
-Explain the reasoning behind the task you are delegating. This helps your team understand the importance of the task and how it fits into the bigger picture.  Provide clear documentation and expectations for the task you are delegating. This includes deadlines, deliverables, and any other relevant information.
+Explain the "why" behind the task you are delegating. This helps your team understand the importance of the task and how it fits into the bigger picture.  Provide clear expectations, and if needed, documentation as well, for the task you are delegating. This includes deadlines, deliverables, and any other relevant information.
 
 #### Provide the Necessary Resources and Support
 
@@ -33,11 +33,11 @@ When delegating tasks, it's important to give your team members the freedom and 
 
 #### Monitor Progress and Provide Feedback
 
-While you want to give your team members autonomy, you still need to monitor their progress and provide feedback to ensure they're on track. Be available to answer questions.  Schedule regular check-ins to review progress, answer any questions, and provide guidance as needed.
+Trust but verify. While you want to give your team members autonomy, you still need to monitor their progress and provide feedback to ensure they're on track. Be available to answer questions.  Regularly check-in to review progress, answer any questions, and provide guidance as needed. But don't hover or check in so frequently that it appears as though you're micro-managing the process.
 
 #### Recognize and Reward Success
 
-When your team members successfully complete a delegated task, make sure to recognize and reward their efforts. This could be as simple as a verbal acknowledgment or more substantial recognition such as a promotion, bonus, or other incentive. Celebrating successes will encourage your team members to continue to grow and develop their skills.
+When your team members successfully complete a delegated task, make sure to recognize and reward their efforts. This could be as simple as a verbal acknowledgment or more substantial recognition for a larger endeavor. Celebrating successes will encourage your team members to continue to grow and develop their skills.
 
 ## References
 
