@@ -5,13 +5,13 @@ Unit Test to Spec Testing
 Using act for running GitHub Actions locally
 
 ## Week 3
-Using AI to Program
+OpenAPI and Generating Clients
 
 ## Week 4
-Using AI in Programs
+Using AI to Program
 
 ## Week 5
-OpenAPI and Generating Clients
+Using AI in Programs
 
 ## Week 6
 Rails Generators
