@@ -40,17 +40,12 @@ npm install @openapitools/openapi-generator-cli -g
 <br/><br/>
 
 # Building a Simple API to Manage Users
-In this section, you'll build a simple API for managing users. The API will allow you to read users from an in-memory array. We will use Sinatra to build the API.
+In this section, you'll build a simple API for managing users. The API will allow you to read users from an in-memory array. We will clone a repo that uses Sinatra for the API.
 
-### Step 1: Create a new directory for your project and initialize it with a few files we will be using:
+### Step 1: Clone the sample repo:
 
 ```bash
-mkdir open-api-course
-cd open-api-course
-touch users_api.rb
-touch openapi.yaml
-touch test-client.rb
-touch test-client.py
+git clone https://github.com/StrongMind/openapi-course-sample-api
 ```
 
 ### Step 2: Install the Sinatra gem:
@@ -59,34 +54,7 @@ touch test-client.py
 gem install sinatra
 ```
 
-### Step 3: Create a basic Sinatra app in your ruby file:
-
-```ruby
-# users_api.rb
-require 'sinatra'
-
-require 'json'
-
-# In memory array of users
-users = [
-    { id: 1, name: 'John Doe', email: 'john@gmail.com' },
-    { id: 2, name: 'Jane Doe', email: 'jane@gmail.com' }
-]
-
-# GET /users
-get '/users' do
-    content_type :json
-    users.to_json
-end
-
-# GET /users/:id
-get '/users/:id' do
-    content_type :json
-    users.select { |user| user[:id] == params[:id].to_i }.first.to_json
-end
-
-```
-### Step 5: Run the app:
+### Step 3: Run the app:
 
 ```bash
 ruby users_api.rb
