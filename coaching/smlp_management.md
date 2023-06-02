@@ -4,5 +4,5 @@
 ## Week 2: [Managing and Evaluating Growth](/tech_sessions/cohorts/topics/managing_growth.md)
 ## Week 3: [Managing and Evaluating Performance](/tech_sessions/cohorts/topics/managing_performance.md)
 ## Week 4: [Delegation](/tech_sessions/cohorts/topics/delegation.md)
-## Week 5: Performance Coaching
+## Week 5: [Performance Coaching](/tech_sessions/cohorts/topics/performance_coaching.md)
 ## Week 6: Crucial Conversations
