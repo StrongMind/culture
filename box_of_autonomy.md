@@ -100,3 +100,4 @@ Each team/product will produce/publish/follow the following:
 - Exceptions must be reported to an approved exception reporting system.
 - Data must be shipped to the data platform.
 - Data retention matches corporate policy.
+- 500-599 error codes returned from a service outside a normal anomaly band should alert the development team and the dev/ops team.
