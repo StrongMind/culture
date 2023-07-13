@@ -10,12 +10,12 @@
 * Description: Empathise -> Define -> Ideate -> Prototype -> Test -> Implement -> repeat
 
 ### Week 3
-* Topic: Design Systems
-* Description: BACKPACK UI!
+* Topic: Analyzing Human Data
+* Description: Leveraging human data presents it's own set of unique challenges. In this session, we will discuss the varying factors that can influence your data, how to control for these factors, and how to best design your data pipelines & interpret data in a way that will actually generate reliable insights.
 
 ### Week 4
-* Topic: Talking to Your Customer
-* Description: Gathering ongoing user feedback, techniques on interviewing
+* Topic: Design Systems
+* Description: BACKPACK UI!
 
 ### Week 5
 * Topic: UI 101
