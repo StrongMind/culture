@@ -14,12 +14,12 @@
 * Description: Leveraging human data presents it's own set of unique challenges. In this session, we will discuss the varying factors that can influence your data, how to control for these factors, and how to best design your data pipelines & interpret data in a way that will actually generate reliable insights.
 
 ### Week 4
-* Topic: Design Systems
-* Description: BACKPACK UI!
+* Topic: Visual Note Taking
+* Description: Wireframes, taking notes, visual cues
 
 ### Week 5
 * Topic: UI 101
-* Description: Best practices, tips and tricks
+* Description: Best practices, tips and tricks, basic web accessibility
 
 ### Week 6
 * Topic: CSS/HTML
