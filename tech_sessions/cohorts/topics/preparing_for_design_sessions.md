@@ -2,8 +2,16 @@
 
 ## Introduction
 Design sessions are essential collaborative meetings where product managers work with UX researchers,
-UI engineers, and full-stack engineers to create user-centric solutions. This course provides a concise
-guide to help product managers effectively prepare for design sessions, covering the following key points:
+UX engineers, stakeholders, and full-stack engineers to create user-centric solutions. This course provides a
+guide to help product managers effectively prepare for design sessions, covering the following key points: 
+- When to use a design session
+- Who to invite
+- Setting the stage
+- Brainstorming
+- Sketching
+
+## When to use a design session
+
 
 ## Meeting Participants
 By inviting participants with different skill sets, you invite ideas from different perspectives.
