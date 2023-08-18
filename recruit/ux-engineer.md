@@ -1,98 +1,98 @@
-# Bowling Exercise (UX) 
+# UI/UX Designer Pizza Exercise 
 
-## User Story 
+At Strongmind, we believe that a strong user experience drives successful products. We focus on user stories to keep our users at the heart of our design process. Your task is to simulate a UI/UX workflow by designing the front end of a pizza management application. 
 
-### Title
-Bowling Scoring Application 
+## Instructions: 
 
-### Description 
+**Research & Insights:** Document your understanding of the potential users and any assumptions you make during the design process. 
 
-As a bowler, I want to be able to enter a list of bowling frame scores so that I can see the progress and total score of my game.  
+**Wireframes & User Flows:** Create low-fidelity wireframes and user flows based on the provided user stories. 
 
-### Acceptance Criteria
+**Prototyping:** Develop a high-fidelity prototype that demonstrates the interactions. 
 
-* I will have a place to enter a series of scores per frame. 
-* A strike is scored as defined below. 
-* A spare is scored as defined below. 
-* An incomplete game is scored up to the last frame provided. 
+**HTML/CSS Proficiency:** Create a basic, responsive front-end (static mockup) for one of the pages. It can be as simple as a toppings page or a pizza creation page. 
 
-## Information 
+**Documentation:** Describe your design decisions and rationale behind them. Explain any user experience considerations or insights that influenced your design. 
 
-Please read through the following and develop a solution to complete the user story.  
+Create a GitHub repository for this project. 
 
-This activity is intended to assess your skills in UX, design and interface development. This could include everything from creating wireframes/prototypes to implementing fully functioning application interfaces. Your deliverable should reflect the skill sets you have along this spectrum and will help us understand your strengths. 
-
-Should you choose to build upon your prototype/interface and turn it into a working application, the next section provides you with a backend implementation containing the logic for scoring a bowling game. 
-
-## Score Calculation 
-
-To make it easier for you to enhance the functionality of your prototype/interface, we’ve provided the following API which implements the logic for calculating bowling scores, accessible by the URL below: 
-
-https://bowling-function20210908100310.azurewebsites.net /api/CalculateBowlingScore/<frame scores> 
-
-The frame scores are added to the end of the URL. The following inputs are allowed per roll: 
-* Roll: ‘0-9’ 
-* Spare: ‘S’ 
-* Strike: ‘X’ 
-
-You will need to use the following API key on your request by adding it as a query string: 
-
-https://bowling-function20210908100310.azurewebsites.net/api/CalculateBowlingScore/<frame scores>?code=93HAamqSqMBMDD1DxkxqXsZ/T7aR6vFYoKKhwqEgPLZIzidZ6cgBEg== 
+Email recruiter@strongmind.com links to your GitHub repository and any hosted prototype (if you choose to host it) with the subject “UI/UX Designer Candidate - Your Name." 
 
  
 
-### Example 
+## User Stories: 
 
-https://bowling-function20210908100310.azurewebsites.net/api/CalculateBowlingScore/23x4s/?code=93HAamqSqMBMDD1DxkxqXsZ/T7aR6vFYoKKhwqEgPLZIzidZ6cgBEg== 
+**1. Manage Toppings UI:** 
+
+* As a pizza store owner, I should see a visually appealing dashboard to manage toppings. 
+
+* I should be able to easily identify each topping through visuals or names. 
+
+* Adding, updating, or deleting a topping should be intuitive. 
+
+* Feedback should be clear when I try to enter duplicate toppings. 
+
+
+\
+Consider accessibility when designing the UI. 
+
+
+\
+**2. Manage Pizzas UI:**
+
+As a pizza chef, I need a creation space where I can visualize my pizzas. 
+
+* The design should help me differentiate between various pizzas and their toppings. 
+
+* Adding, updating, or deleting a pizza, or its toppings, should be a straightforward process. 
+
+* Ensure that the UI provides feedback when duplicate pizza names are entered. 
+
+\
+Consider designing for different devices: desktop, tablet, and mobile. 
+
+
+ 
+
+**Optional Deployment**: If you wish to demonstrate your prototype in a live environment, you can deploy it to a service of your choice. Check out the resources below for suggestions. 
+
+ 
+ 
+
+## Evaluation Criteria: 
+
+**User-Centered Design:** Does the design consider the needs and usability for its users? 
+
+**Clarity & Simplicity:** Are the designs clear and the interactions intuitive? 
+
+**Responsiveness & Accessibility:** How well does the HTML/CSS mockup adapt to different device sizes? Is the design accessible to all users, including those with disabilities? 
+
+**Aesthetic:** While this is subjective, the design should be modern and appealing. 
+
+**Documentation:** Is the rationale behind design decisions clear? Are there insights provided on UX considerations? 
 
  
 
-In this example, the bowler knocked down 2 pins on the first roll of the first frame and 3 pins on the second roll of the first frame. They earned a strike on the 2nd frame and then a spare on the 3rd by knocking down 4 pins on the first roll and then the remaining 6 on the second roll.   
+ 
+
+Best of luck! We’re excited to see how you approach this challenge and your design process. 
 
  
 
-The API would return the following JSON for this example: 
-
-{ 
-
-    "score": 25, 
-
-    "error": null 
-
-} 
-
  
 
-## Definitions 
+### Resources:  
 
-### Frame 
+If you need some references to free web resources for development try https://free-for.dev  
 
-A frame consists of 2 opportunities to knock down 10 bowling pins with a bowling ball.  The 10 pins are then reset for the next frame.   
+All the major cloud providers have some sort of free plan. Here are some examples: 
 
-## How to Score 
+https://cloud.google.com/free 
 
-### Strike 
+https://www.ibm.com/cloud/free 
 
-* If you knock down all 10 pins in the first shot of a frame, you get a strike. 
-* A strike earns 10 points plus the sum of your next two shots. 
+https://aws.amazon.com/free 
 
-### Spare 
+[Figma](www.figma.com)
 
-* If you knock down all 10 pins using both shots of a frame, you get a spare. 
-* A spare earns 10 points plus the sum of your next one shot. 
-
-### Open Frame 
-
-* If you do not knock down all 10 pins using both shots of your frame (9 or fewer pins knocked down), you have an open frame. 
-* An open frame only earns the number of pins knocked down. 
-
-### The 10th Frame 
-
-The 10th frame is a bit different: 
-* If you roll a strike in the first shot of the 10th frame, you get 2 more shots. 
-* If you roll a spare in the first two shots of the 10th frame, you get 1 more shot. 
-* If you leave the 10th frame open after two shots, the game is over and you do not get an additional shot. 
-* The score for the 10th frame is the total number of pins knocked down in the 10th frame. 
-
- 
-Some definitions from http://www.fryes4fun.com/Bowling/scoring.htm 
+[Pexels](www.pexels.com)
