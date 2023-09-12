@@ -34,14 +34,14 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - TFS (**obsolete**)
 
 ## Languages
-- Python >= 3.7
+- Python >= 3.8
 - .NET (C#) >6
 - Ruby >3
 - Javascript >6
 - Typescript
 - .NET <6 (C#)(**deprecated**)
 - Ruby <3 (**deprecated**)
-- Python <3.7 (**deprecated**)
+- Python <3.8 (**deprecated**)
 - Javascript <6 (**deprecated**)
 - Rust (**obsolete**)
 - DNX (**obsolete**)
