@@ -79,7 +79,6 @@
 - [climate_control](https://rubygems.org/gems/climate_control): A Ruby library to control your app's environment in tests.
 - [breadcrumbs_on_rails](https://rubygems.org/gems/breadcrumbs_on_rails): A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation. 
 - [view_component](https://rubygems.org/gems/view_component): A framework for building view components in Rails.
-
 - kaminari (**deprecated**)
 - uglifier (**deprecated**)
 - coffee-rails (**deprecated**)
@@ -95,6 +94,7 @@
 - wdm (**obsolete**)
 
 ## Under evaluation
+
 - [aws-sdk](https://rubygems.org/gems/aws-sdk): Official AWS SDK for Ruby.
 - [zip-codes](https://rubygems.org/gems/zip-codes): Provides a simple interface to obtain city and state information based on zip codes.
 - [zendesk_api](https://rubygems.org/gems/zendesk_api): Ruby client for the Zendesk API.
