@@ -1,0 +1,176 @@
+# Ruby Gems
+
+## Approved
+- [simple_calendar](https://rubygems.org/gems/simple_calendar): frontend calendar
+- [rolify](https://rubygems.org/gems/rolify): role management
+- [pundit](https://rubygems.org/gems/pundit): authorization
+- [puma](https://rubygems.org/gems/puma): web server
+- [tzinfo-data](https://rubygems.org/gems/tzinfo-data): timezone data
+- [rails](https://rubygems.org/gems/rails): MVC framework
+- [faker](https://rubygems.org/gems/faker): fake data
+- [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver): browser automation
+- [pg](https://rubygems.org/gems/pg): postgresql
+- [jbuilder](https://rubygems.org/gems/jbuilder): JSON views as Ruby.
+- [capybara](https://rubygems.org/gems/capybara): Acceptance test framework for web applications.
+- [debug](https://rubygems.org/gems/debug): A simple, flexible and extensible Ruby debugger.
+- [bootsnap](https://rubygems.org/gems/bootsnap): Boot large Ruby/Rails apps faster.
+- [web-console](https://rubygems.org/gems/web-console): A debugging tool for your Rails application.
+- [turbo-rails](https://rubygems.org/gems/turbo-rails): The Hotwire framework for Ruby on Rails applications.
+- [stimulus-rails](https://rubygems.org/gems/stimulus-rails): A modest JavaScript framework for the HTML you already have.
+- [sprockets-rails](https://rubygems.org/gems/sprockets-rails): Sprockets Rails integration.
+- [rspec-rails](https://rubygems.org/gems/rspec-rails): RSpec for Rails.
+- [importmap-rails](https://rubygems.org/gems/importmap-rails): Use JavaScript import maps in your Rails app.
+- [webdrivers](https://rubygems.org/gems/webdrivers): Tool for managing WebDriver (e.g. Selenium) binaries automatically.
+- [factory_bot_rails](https://rubygems.org/gems/factory_bot_rails): FactoryBot for Rails.
+- [redis](https://rubygems.org/gems/redis): A Ruby client library for Redis.
+- [tailwindcss-rails](https://rubygems.org/gems/tailwindcss-rails): Easily use Tailwind CSS with Rails.
+- [sentry-rails](https://rubygems.org/gems/sentry-rails): Official Sentry SDK for Ruby on Rails projects.
+- [rubocop](https://rubygems.org/gems/rubocop): A Ruby static code analyzer and formatter.
+- [rspec](https://rubygems.org/gems/rspec): BDD for Ruby.
+- [sqlite3](https://rubygems.org/gems/sqlite3): Ruby binding to the SQLite3 library.
+- [dotenv-rails](https://rubygems.org/gems/dotenv-rails): Shim to load environment variables from `.env`.
+- [sentry-ruby](https://rubygems.org/gems/sentry-ruby): Official Ruby client for Sentry.
+- [simplecov](https://rubygems.org/gems/simplecov): Code coverage for Ruby.
+- [omniauth_openid_connect](https://rubygems.org/gems/omniauth_openid_connect): OpenID Connect strategy for OmniAuth.
+- [omniauth-rails_csrf_protection](https://rubygems.org/gems/omniauth-rails_csrf_protection): OmniAuth strategy for Rails CSRF protection.
+- [faraday](https://rubygems.org/gems/faraday): HTTP/REST API client library.
+- [devise](https://rubygems.org/gems/devise): Flexible authentication solution for Rails with Warden.
+- [rake](https://rubygems.org/gems/rake): Ruby Make - a simple build utility.
+- [timecop](https://rubygems.org/gems/timecop): A gem providing "time travel" and "time freezing" capabilities.
+- [strongmind-platform-sdk](https://rubygems.org/gems/strongmind-platform-sdk): Ruby SDK for StrongMind's platform API.
+- [shoulda-matchers](https://rubygems.org/gems/shoulda-matchers): Simple one-liners to test your Rails application.
+- [foreman](https://rubygems.org/gems/foreman): Manage Procfile-based applications.
+- [sidekiq](https://rubygems.org/gems/sidekiq): Simple, efficient background processing for Ruby.
+- [rubocop-rspec](https://rubygems.org/gems/rubocop-rspec): Code style checking for RSpec files.
+- [rubocop-rails](https://rubygems.org/gems/rubocop-rails): Code style checking for Rails projects.
+- [pry-rails](https://rubygems.org/gems/pry-rails): Use Pry as your Rails console.
+- [pry-byebug](https://rubygems.org/gems/pry-byebug): Combine Pry with Byebug.
+- [omniauth](https://rubygems.org/gems/omniauth): A generalized Rack framework for multiple-provider authentication.
+- [aws-sdk-secretsmanager](https://rubygems.org/gems/aws-sdk-secretsmanager): Official AWS SDK for Amazon Secrets Manager.
+- [jwt](https://rubygems.org/gems/jwt): JSON Web Token implementation in Ruby.
+- [ims-lti](https://rubygems.org/gems/ims-lti): IMS LTI Ruby gem for integrating with LTI-compliant tools.
+- [faraday-retry](https://rubygems.org/gems/faraday-retry): Retry middleware for Faraday.
+- [factory_bot](https://rubygems.org/gems/factory_bot): A library for setting up Ruby objects as test data.
+- [sidekiq-scheduler](https://rubygems.org/gems/sidekiq-scheduler): Extension to Sidekiq to add support for job scheduling.
+- [rswag](https://rubygems.org/gems/rswag): OpenAPI/Swagger 2.0 for Rails API using RSpec and ActiveSupport.
+- [rolify](https://rubygems.org/gems/rolify): Role management library with resource scoping.
+- [launchdarkly-server-sdk](https://rubygems.org/gems/launchdarkly-server-sdk): Official LaunchDarkly server-side SDK for Ruby.
+- [byebug](https://rubygems.org/gems/byebug): Debugging in Ruby 2, fast.
+- [bundler-audit](https://rubygems.org/gems/bundler-audit): Patch-level verification for Bundler.
+- [brakeman](https://rubygems.org/gems/brakeman): A static analysis security vulnerability scanner for Ruby on Rails applications.
+- [aws-sdk-s3](https://rubygems.org/gems/aws-sdk-s3): Official AWS SDK for Amazon S3.
+- [slack-ruby-client](https://rubygems.org/gems/slack-ruby-client): A Ruby client for the Slack Web and RealTime Messaging APIs.
+- [sidekiq-pro](https://rubygems.org/gems/sidekiq-pro): Professional version of Sidekiq with additional features.
+- [rspec-sidekiq](https://rubygems.org/gems/rspec-sidekiq): RSpec matchers for testing Sidekiq jobs.
+- [requestjs-rails](https://rubygems.org/gems/requestjs-rails): Gem to include Request.js in your Rails application.
+- [rack-cors](https://rubygems.org/gems/rack-cors): Rack middleware for handling Cross-Origin Resource Sharing (CORS).
+- [rack-attack](https://rubygems.org/gems/rack-attack): Rack middleware for blocking & throttling abusive requests.
+- [pundit](https://rubygems.org/gems/pundit): Object-oriented authorization for Rails applications.
+- [pry](https://rubygems.org/gems/pry): An IRB alternative and runtime developer console.
+- [open-uri](https://rubygems.org/gems/open-uri): Wrapper for Net::HTTP and Net::FTP.
+- [octokit](https://rubygems.org/gems/octokit): Ruby toolkit for the GitHub API.
+- [oauth](https://rubygems.org/gems/oauth): OAuth Core Ruby implementation.
+- [lms-api](https://rubygems.org/gems/lms-api): Ruby wrapper for the LMS API.
+- [listen](https://rubygems.org/gems/listen): The Listen gem listens to file modifications and notifies you about the changes.
+- [json_spec](https://rubygems.org/gems/json_spec): RSpec matchers for JSON APIs.
+- [httparty](https://rubygems.org/gems/httparty): Makes HTTP fun again!
+- [font-awesome-rails](https://rubygems.org/gems/font-awesome-rails): Font-Awesome for the Rails asset pipeline.
+- [faraday-net_http](https://rubygems.org/gems/faraday-net_http): Faraday adapter for Net::HTTP.
+- [climate_control](https://rubygems.org/gems/climate_control): A Ruby library to control your app's environment in tests.
+- [breadcrumbs_on_rails](https://rubygems.org/gems/breadcrumbs_on_rails): A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation. 
+- [view_component](https://rubygems.org/gems/view_component): A framework for building view components in Rails.
+
+- kaminari (**deprecated**)
+- uglifier (**deprecated**)
+- coffee-rails (**deprecated**)
+- standard (**deprecated**)
+- travis (**deprecated**)
+- database_cleaner (**deprecated**)
+- turbolinks (**deprecated**)
+- sass-rails (**deprecated**)
+- sinatra-contrib (**obsolete**)
+- sinatra-asset-pipeline (**obsolete**)
+- sinatra-activerecord (**obsolete**)
+- sinatra (**obsolete**)
+- wdm (**obsolete**)
+
+## Under evaluation
+- [aws-sdk](https://rubygems.org/gems/aws-sdk): Official AWS SDK for Ruby.
+- [zip-codes](https://rubygems.org/gems/zip-codes): Provides a simple interface to obtain city and state information based on zip codes.
+- [zendesk_api](https://rubygems.org/gems/zendesk_api): Ruby client for the Zendesk API.
+- [validates_zipcode](https://rubygems.org/gems/validates_zipcode): Validates and formats zip codes.
+- [uuid](https://rubygems.org/gems/uuid): Universally Unique Identifier (UUID) generation library.
+- [uri](https://rubygems.org/gems/uri): Generic URI manipulation library.
+- [twilio-ruby](https://rubygems.org/gems/twilio-ruby): Ruby library for communicating with the Twilio API.
+- [therubyracer](https://rubygems.org/gems/therubyracer): Embed the V8 JavaScript interpreter into Ruby.
+- [strongmind_canvas_api_client](https://rubygems.org/gems/strongmind_canvas_api_client): Ruby client for the Canvas API by StrongMind.
+- [strongmind-schoology-client](https://rubygems.org/gems/strongmind-schoology-client): Ruby client for the Schoology API by StrongMind.
+- [strongmind-oneroster-client](https://rubygems.org/gems/strongmind-oneroster-client): Ruby client for the OneRoster API by StrongMind.
+- [strongmind-agilix-buzz-client](https://rubygems.org/gems/strongmind-agilix-buzz-client): Ruby client for the Agilix Buzz API by StrongMind.
+- [spring-watcher-listen](https://rubygems.org/gems/spring-watcher-listen): Spring extension to watch file changes using Listen.
+- [spring-commands-rspec](https://rubygems.org/gems/spring-commands-rspec): RSpec commands for Spring application preloader.
+- [spring](https://rubygems.org/gems/spring): Preloads your application so things like console, rake, and tests run faster.
+- [simple_oauth](https://rubygems.org/gems/simple_oauth): Simple OAuth 2.0 client gem.
+- [sentry-sidekiq](https://rubygems.org/gems/sentry-sidekiq): Sentry integration for Sidekiq background jobs.
+- [sentry-raven](https://rubygems.org/gems/sentry-raven): Official Ruby client for Sentry.
+- [sass](https://rubygems.org/gems/sass): Syntactically Awesome Stylesheets (Sass) for CSS.
+- [rubyzip](https://rubygems.org/gems/rubyzip): Ruby library for reading and writing ZIP files.
+- [ruby-openai](https://rubygems.org/gems/ruby-openai): Ruby client for the OpenAI API.
+- [ruby-debug-ide](https://rubygems.org/gems/ruby-debug-ide): Ruby debugger that interfaces with IDEs.
+- [rest-client](https://rubygems.org/gems/rest-client): Simple HTTP and REST client for Ruby.
+- [require_all](https://rubygems.org/gems/require_all): A wonderfully simple way to load your code.
+- [redcarpet](https://rubygems.org/gems/redcarpet): Fast, safe, and extensible Markdown to HTML library.
+- [rails-erd](https://rubygems.org/gems/rails-erd): Generate Entity-Relationship Diagrams for your Rails application.
+- [rails-controller-testing](https://rubygems.org/gems/rails-controller-testing): Test your Rails controllers with ease.
+- [rack_csrf](https://rubygems.org/gems/rack_csrf): Rack middleware for CSRF protection.
+- [rack-test](https://rubygems.org/gems/rack-test): Rack::Test allows you to quickly test Rack applications.
+- [rack-contrib](https://rubygems.org/gems/rack-contrib): Contributed Rack middleware and utilities.
+- [puppeteer-ruby](https://rubygems.org/gems/puppeteer-ruby): Puppeteer Ruby bindings.
+- [platform-sdk](https://rubygems.org/gems/platform-sdk): Official Ruby SDK for a specific platform.
+- [paper_trail](https://rubygems.org/gems/paper_trail): Track changes to your models' data for auditing or versioning.
+- [pagy](https://rubygems.org/gems/pagy): A simple and efficient pagination gem.
+- [nokogiri](https://rubygems.org/gems/nokogiri): HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
+- [net-sftp](https://rubygems.org/gems/net-sftp): Secure File Transfer Protocol (SFTP) library.
+- [multi_json](https://rubygems.org/gems/multi_json): A gem to provide simple JSON parsing and encoding.
+- [maintenance_tasks](https://rubygems.org/gems/maintenance_tasks): Tasks for managing application maintenance tasks.
+- [logstash-event](https://rubygems.org/gems/logstash-event): LogStash event representations for Ruby.
+- [lograge](https://rubygems.org/gems/lograge): Tame Rails' multi-line logging into a single line per request.
+- [learnosity-sdk](https://rubygems.org/gems/learnosity-sdk): Ruby SDK for Learnosity APIs.
+- [ldclient-rb](https://rubygems.org/gems/ldclient-rb): LaunchDarkly Ruby server-side SDK.
+- [jsbundling-rails](https://rubygems.org/gems/jsbundling-rails): JavaScript bundling for Rails.
+- [jira-ruby](https://rubygems.org/gems/jira-ruby): Ruby library for interacting with Jira.
+- [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap): Automatically generates a sitemap for your Jekyll site.
+- [jekyll](https://rubygems.org/gems/jekyll): Transform your plain text into static websites and blogs.
+- [influxdb](https://rubygems.org/gems/influxdb): Ruby library for interfacing with InfluxDB.
+- [image_processing](https://rubygems.org/gems/image_processing): High-level image processing wrapper for libvips and ImageMagick.
+- [hotwire-livereload](https://rubygems.org/gems/hotwire-livereload): Automatically reload Hotwire-enabled pages in development.
+- [googleauth](https://rubygems.org/gems/googleauth): Handles authentication and authorization for Google APIs.
+- [google-api-client](https://rubygems.org/gems/google-api-client): Client library for interacting with Google APIs.
+- [friendly_id](https://rubygems.org/gems/friendly_id): Create pretty URLs and work with human-friendly strings.
+- [font-awesome-sass](https://rubygems.org/gems/font-awesome-sass): Sass-powered version of Font Awesome.
+- [faraday-oauth](https://rubygems.org/gems/faraday-oauth): OAuth middleware for Faraday.
+- [factory_girl_rails](https://rubygems.org/gems/factory_girl_rails): Factory Girl adapter for Rails.
+- [execjs](https://rubygems.org/gems/execjs): Run JavaScript code from Ruby.
+- [error_highlight](https://rubygems.org/gems/error_highlight): Highlight the line of code with errors in development log.
+- [ed25519](https://rubygems.org/gems/ed25519): Ruby bindings to the Ed25519 digital signature algorithm.
+- [dotenv](https://rubygems.org/gems/dotenv): Loads environment variables from .env into ENV in development.
+- [debase](https://rubygems.org/gems/debase): Debugger for Ruby.
+- [cssbundling-rails](https://rubygems.org/gems/cssbundling-rails): CSS bundling for Rails.
+- [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
+- [capistrano-rbenv](https://rubygems.org/gems/capistrano-rbenv): Capistrano tasks for rbenv support.
+- [capistrano-rails](https://rubygems.org/gems/capistrano-rails): Capistrano tasks for deploying Ruby on Rails applications.
+- [capistrano-bundler](https://rubygems.org/gems/capistrano-bundler): Capistrano bundler tasks.
+- [capistrano](https://rubygems.org/gems/capistrano): Remote multi-server automation tool.
+- [canvas-api](https://rubygems.org/gems/canvas-api): Ruby library for interfacing with the Canvas API.
+- [bluepill](https://rubygems.org/gems/bluepill): Process monitoring tool.
+- [bcrypt_pbkdf](https://rubygems.org/gems/bcrypt_pbkdf): Ruby bindings for bcrypt_pbkdf.
+- [aws-sdk-elasticbeanstalk](https://rubygems.org/gems/aws-sdk-elasticbeanstalk): Official AWS SDK for AWS Elastic Beanstalk.
+- [aws-sdk-dynamodb](https://rubygems.org/gems/aws-sdk-dynamodb): Official AWS SDK for Amazon DynamoDB.
+- [aws-sdk-costexplorer](https://rubygems.org/gems/aws-sdk-costexplorer): Official AWS SDK for AWS Cost Explorer.
+- [aws-sdk-core](https://rubygems.org/gems/aws-sdk-core): Core AWS SDK for Ruby.
+- [aws-sdk-cloudcontrolapi](https://rubygems.org/gems/aws-sdk-cloudcontrolapi): Official AWS SDK for AWS Cloud Control API.
+- [aws-sdk-apigateway](https://rubygems.org/gems/aws-sdk-apigateway): Official AWS SDK for Amazon API Gateway.
+- [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
+- [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
+- [activerecord](https://rubygems.org/gems/activerecord): Object-relational mapping (ORM) framework for Rails.
+

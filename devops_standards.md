@@ -47,9 +47,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - DNX (**obsolete**)
 
 ## Ruby Gems
-- [simple_calendar](https://rubygems.org/gems/simple_calendar): frontend calendar
-- [rolify](https://rubygems.org/gems/rolify): role management
-- [pundit](https://rubygems.org/gems/pundit): authorization
+[See Ruby Gems](gems.md)
 
 ## Video/Audio/Chat Conferencing
 - Zoom
@@ -70,6 +68,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - Angular <12 (**obsolete**)
 
 ## MVC Frameworks
+- Rails
 - Flask (**deprecated**)
 
 ## CSS Frameworks
