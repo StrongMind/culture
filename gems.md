@@ -89,6 +89,11 @@
 - [sentry-raven](https://rubygems.org/gems/sentry-raven): Official Ruby client for Sentry.
 - [dotenv](https://rubygems.org/gems/dotenv): Loads environment variables from .env into ENV in development.
 - [canvas-api](https://rubygems.org/gems/canvas-api): Ruby library for interfacing with the Canvas API.
+- paper_trail (**deprecated**)
+- capistrano-rbenv (**deprecated**)
+- capistrano-rails (**deprecated**)
+- capistrano-bundler (**deprecated**)
+- capistrano (**deprecated**)
 - kaminari (**deprecated**)
 - uglifier (**deprecated**)
 - coffee-rails (**deprecated**)
@@ -103,13 +108,6 @@
 - sinatra (**obsolete**)
 - wdm (**obsolete**)
 - factory_girl_rails (**obsolete**)
-
-## Not longer in stack
-- [paper_trail](https://rubygems.org/gems/paper_trail): Track changes to your models' data for auditing or versioning.
-- [capistrano-rbenv](https://rubygems.org/gems/capistrano-rbenv): Capistrano tasks for rbenv support.
-- [capistrano-rails](https://rubygems.org/gems/capistrano-rails): Capistrano tasks for deploying Ruby on Rails applications.
-- [capistrano-bundler](https://rubygems.org/gems/capistrano-bundler): Capistrano bundler tasks.
-- [capistrano](https://rubygems.org/gems/capistrano): Remote multi-server automation tool.
 
 ## Under evaluation
 
