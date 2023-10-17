@@ -7,6 +7,7 @@
 - [puma](https://rubygems.org/gems/puma): web server
 - [tzinfo-data](https://rubygems.org/gems/tzinfo-data): timezone data
 - [rails](https://rubygems.org/gems/rails): MVC framework
+- [activerecord](https://rubygems.org/gems/activerecord): Object-relational mapping (ORM) framework for Rails.
 - [faker](https://rubygems.org/gems/faker): fake data
 - [selenium-webdriver](https://rubygems.org/gems/selenium-webdriver): browser automation
 - [pg](https://rubygems.org/gems/pg): postgresql
@@ -79,6 +80,15 @@
 - [climate_control](https://rubygems.org/gems/climate_control): A Ruby library to control your app's environment in tests.
 - [breadcrumbs_on_rails](https://rubygems.org/gems/breadcrumbs_on_rails): A simple Ruby on Rails plugin for creating and managing a breadcrumb navigation. 
 - [view_component](https://rubygems.org/gems/view_component): A framework for building view components in Rails.
+- [pagy](https://rubygems.org/gems/pagy): A simple and efficient pagination gem.
+- [strongmind_canvas_api_client](https://rubygems.org/gems/strongmind_canvas_api_client): Ruby client for the Canvas API by StrongMind.
+- [strongmind-schoology-client](https://rubygems.org/gems/strongmind-schoology-client): Ruby client for the Schoology API by StrongMind.
+- [strongmind-oneroster-client](https://rubygems.org/gems/strongmind-oneroster-client): Ruby client for the OneRoster API by StrongMind.
+- [strongmind-agilix-buzz-client](https://rubygems.org/gems/strongmind-agilix-buzz-client): Ruby client for the Agilix Buzz API by StrongMind.
+- [sentry-sidekiq](https://rubygems.org/gems/sentry-sidekiq): Sentry integration for Sidekiq background jobs.
+- [sentry-raven](https://rubygems.org/gems/sentry-raven): Official Ruby client for Sentry.
+- [dotenv](https://rubygems.org/gems/dotenv): Loads environment variables from .env into ENV in development.
+- [canvas-api](https://rubygems.org/gems/canvas-api): Ruby library for interfacing with the Canvas API.
 - kaminari (**deprecated**)
 - uglifier (**deprecated**)
 - coffee-rails (**deprecated**)
@@ -92,6 +102,14 @@
 - sinatra-activerecord (**obsolete**)
 - sinatra (**obsolete**)
 - wdm (**obsolete**)
+- factory_girl_rails (**obsolete**)
+
+## Not longer in stack
+- [paper_trail](https://rubygems.org/gems/paper_trail): Track changes to your models' data for auditing or versioning.
+- [capistrano-rbenv](https://rubygems.org/gems/capistrano-rbenv): Capistrano tasks for rbenv support.
+- [capistrano-rails](https://rubygems.org/gems/capistrano-rails): Capistrano tasks for deploying Ruby on Rails applications.
+- [capistrano-bundler](https://rubygems.org/gems/capistrano-bundler): Capistrano bundler tasks.
+- [capistrano](https://rubygems.org/gems/capistrano): Remote multi-server automation tool.
 
 ## Under evaluation
 
@@ -103,16 +121,10 @@
 - [uri](https://rubygems.org/gems/uri): Generic URI manipulation library.
 - [twilio-ruby](https://rubygems.org/gems/twilio-ruby): Ruby library for communicating with the Twilio API.
 - [therubyracer](https://rubygems.org/gems/therubyracer): Embed the V8 JavaScript interpreter into Ruby.
-- [strongmind_canvas_api_client](https://rubygems.org/gems/strongmind_canvas_api_client): Ruby client for the Canvas API by StrongMind.
-- [strongmind-schoology-client](https://rubygems.org/gems/strongmind-schoology-client): Ruby client for the Schoology API by StrongMind.
-- [strongmind-oneroster-client](https://rubygems.org/gems/strongmind-oneroster-client): Ruby client for the OneRoster API by StrongMind.
-- [strongmind-agilix-buzz-client](https://rubygems.org/gems/strongmind-agilix-buzz-client): Ruby client for the Agilix Buzz API by StrongMind.
 - [spring-watcher-listen](https://rubygems.org/gems/spring-watcher-listen): Spring extension to watch file changes using Listen.
 - [spring-commands-rspec](https://rubygems.org/gems/spring-commands-rspec): RSpec commands for Spring application preloader.
 - [spring](https://rubygems.org/gems/spring): Preloads your application so things like console, rake, and tests run faster.
 - [simple_oauth](https://rubygems.org/gems/simple_oauth): Simple OAuth 2.0 client gem.
-- [sentry-sidekiq](https://rubygems.org/gems/sentry-sidekiq): Sentry integration for Sidekiq background jobs.
-- [sentry-raven](https://rubygems.org/gems/sentry-raven): Official Ruby client for Sentry.
 - [sass](https://rubygems.org/gems/sass): Syntactically Awesome Stylesheets (Sass) for CSS.
 - [rubyzip](https://rubygems.org/gems/rubyzip): Ruby library for reading and writing ZIP files.
 - [ruby-openai](https://rubygems.org/gems/ruby-openai): Ruby client for the OpenAI API.
@@ -127,8 +139,6 @@
 - [rack-contrib](https://rubygems.org/gems/rack-contrib): Contributed Rack middleware and utilities.
 - [puppeteer-ruby](https://rubygems.org/gems/puppeteer-ruby): Puppeteer Ruby bindings.
 - [platform-sdk](https://rubygems.org/gems/platform-sdk): Official Ruby SDK for a specific platform.
-- [paper_trail](https://rubygems.org/gems/paper_trail): Track changes to your models' data for auditing or versioning.
-- [pagy](https://rubygems.org/gems/pagy): A simple and efficient pagination gem.
 - [nokogiri](https://rubygems.org/gems/nokogiri): HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
 - [net-sftp](https://rubygems.org/gems/net-sftp): Secure File Transfer Protocol (SFTP) library.
 - [multi_json](https://rubygems.org/gems/multi_json): A gem to provide simple JSON parsing and encoding.
@@ -149,19 +159,12 @@
 - [friendly_id](https://rubygems.org/gems/friendly_id): Create pretty URLs and work with human-friendly strings.
 - [font-awesome-sass](https://rubygems.org/gems/font-awesome-sass): Sass-powered version of Font Awesome.
 - [faraday-oauth](https://rubygems.org/gems/faraday-oauth): OAuth middleware for Faraday.
-- [factory_girl_rails](https://rubygems.org/gems/factory_girl_rails): Factory Girl adapter for Rails.
 - [execjs](https://rubygems.org/gems/execjs): Run JavaScript code from Ruby.
 - [error_highlight](https://rubygems.org/gems/error_highlight): Highlight the line of code with errors in development log.
 - [ed25519](https://rubygems.org/gems/ed25519): Ruby bindings to the Ed25519 digital signature algorithm.
-- [dotenv](https://rubygems.org/gems/dotenv): Loads environment variables from .env into ENV in development.
 - [debase](https://rubygems.org/gems/debase): Debugger for Ruby.
 - [cssbundling-rails](https://rubygems.org/gems/cssbundling-rails): CSS bundling for Rails.
 - [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
-- [capistrano-rbenv](https://rubygems.org/gems/capistrano-rbenv): Capistrano tasks for rbenv support.
-- [capistrano-rails](https://rubygems.org/gems/capistrano-rails): Capistrano tasks for deploying Ruby on Rails applications.
-- [capistrano-bundler](https://rubygems.org/gems/capistrano-bundler): Capistrano bundler tasks.
-- [capistrano](https://rubygems.org/gems/capistrano): Remote multi-server automation tool.
-- [canvas-api](https://rubygems.org/gems/canvas-api): Ruby library for interfacing with the Canvas API.
 - [bluepill](https://rubygems.org/gems/bluepill): Process monitoring tool.
 - [bcrypt_pbkdf](https://rubygems.org/gems/bcrypt_pbkdf): Ruby bindings for bcrypt_pbkdf.
 - [aws-sdk-elasticbeanstalk](https://rubygems.org/gems/aws-sdk-elasticbeanstalk): Official AWS SDK for AWS Elastic Beanstalk.
@@ -172,5 +175,3 @@
 - [aws-sdk-apigateway](https://rubygems.org/gems/aws-sdk-apigateway): Official AWS SDK for Amazon API Gateway.
 - [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
 - [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
-- [activerecord](https://rubygems.org/gems/activerecord): Object-relational mapping (ORM) framework for Rails.
-
