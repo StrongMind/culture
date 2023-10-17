@@ -89,6 +89,67 @@
 - [sentry-raven](https://rubygems.org/gems/sentry-raven): Official Ruby client for Sentry.
 - [dotenv](https://rubygems.org/gems/dotenv): Loads environment variables from .env into ENV in development.
 - [canvas-api](https://rubygems.org/gems/canvas-api): Ruby library for interfacing with the Canvas API.
+- [aws-sdk](https://rubygems.org/gems/aws-sdk): Official AWS SDK for Ruby.
+- [zendesk_api](https://rubygems.org/gems/zendesk_api): Ruby client for the Zendesk API.
+- [uuid](https://rubygems.org/gems/uuid): Universally Unique Identifier (UUID) generation library.
+- [uri](https://rubygems.org/gems/uri): Generic URI manipulation library.
+- [twilio-ruby](https://rubygems.org/gems/twilio-ruby): Ruby library for communicating with the Twilio API.
+- [therubyracer](https://rubygems.org/gems/therubyracer): Embed the V8 JavaScript interpreter into Ruby.
+- [simple_oauth](https://rubygems.org/gems/simple_oauth): Simple OAuth 2.0 client gem.
+- [faraday-oauth](https://rubygems.org/gems/faraday-oauth): OAuth middleware for Faraday.
+- [rubyzip](https://rubygems.org/gems/rubyzip): Ruby library for reading and writing ZIP files.
+- [ruby-openai](https://rubygems.org/gems/ruby-openai): Ruby client for the OpenAI API.
+- [ruby-debug-ide](https://rubygems.org/gems/ruby-debug-ide): Ruby debugger that interfaces with IDEs.
+- [rest-client](https://rubygems.org/gems/rest-client): Simple HTTP and REST client for Ruby.
+- [rack_csrf](https://rubygems.org/gems/rack_csrf): Rack middleware for CSRF protection.
+- [rack-test](https://rubygems.org/gems/rack-test): Rack::Test allows you to quickly test Rack applications.
+- [rack-contrib](https://rubygems.org/gems/rack-contrib): Contributed Rack middleware and utilities.
+- [maintenance_tasks](https://rubygems.org/gems/maintenance_tasks): Tasks for managing application maintenance tasks.
+- [learnosity-sdk](https://rubygems.org/gems/learnosity-sdk): Ruby SDK for Learnosity APIs.
+- [jira-ruby](https://rubygems.org/gems/jira-ruby): Ruby library for interacting with Jira.
+- [image_processing](https://rubygems.org/gems/image_processing): High-level image processing wrapper for libvips and ImageMagick.
+- [hotwire-livereload](https://rubygems.org/gems/hotwire-livereload): Automatically reload Hotwire-enabled pages in development.
+- [googleauth](https://rubygems.org/gems/googleauth): Handles authentication and authorization for Google APIs.
+- [google-api-client](https://rubygems.org/gems/google-api-client): Client library for interacting with Google APIs.
+- [friendly_id](https://rubygems.org/gems/friendly_id): Create pretty URLs and work with human-friendly strings.
+- [bluepill](https://rubygems.org/gems/bluepill): Process monitoring tool.
+- [aws-sdk-elasticbeanstalk](https://rubygems.org/gems/aws-sdk-elasticbeanstalk): Official AWS SDK for AWS Elastic Beanstalk.
+- [aws-sdk-dynamodb](https://rubygems.org/gems/aws-sdk-dynamodb): Official AWS SDK for Amazon DynamoDB.
+- [aws-sdk-costexplorer](https://rubygems.org/gems/aws-sdk-costexplorer): Official AWS SDK for AWS Cost Explorer.
+- [aws-sdk-core](https://rubygems.org/gems/aws-sdk-core): Core AWS SDK for Ruby.
+- [aws-sdk-cloudcontrolapi](https://rubygems.org/gems/aws-sdk-cloudcontrolapi): Official AWS SDK for AWS Cloud Control API.
+- [aws-sdk-apigateway](https://rubygems.org/gems/aws-sdk-apigateway): Official AWS SDK for Amazon API Gateway.
+- [bcrypt_pbkdf](https://rubygems.org/gems/bcrypt_pbkdf): Ruby bindings for bcrypt_pbkdf.
+- [redcarpet](https://rubygems.org/gems/redcarpet): Fast, safe, and extensible Markdown to HTML library.
+- [platform-sdk](https://rubygems.org/gems/platform-sdk): Official Ruby SDK for a specific platform.
+- [nokogiri](https://rubygems.org/gems/nokogiri): HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
+- [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap): Automatically generates a sitemap for your Jekyll site.
+- [jekyll](https://rubygems.org/gems/jekyll): Transform your plain text into static websites and blogs.
+- [ldclient-rb](https://rubygems.org/gems/ldclient-rb): LaunchDarkly Ruby server-side SDK.
+- [spring-watcher-listen](https://rubygems.org/gems/spring-watcher-listen): Spring extension to watch file changes using Listen.
+- [spring-commands-rspec](https://rubygems.org/gems/spring-commands-rspec): RSpec commands for Spring application preloader.
+- [spring](https://rubygems.org/gems/spring): Preloads your application so things like console, rake, and tests run faster.
+- [rails-controller-testing](https://rubygems.org/gems/rails-controller-testing): Test your Rails controllers with ease.
+- [puppeteer-ruby](https://rubygems.org/gems/puppeteer-ruby): Puppeteer Ruby bindings.
+- [debase](https://rubygems.org/gems/debase): Debugger for Ruby.
+- [logstash-event](https://rubygems.org/gems/logstash-event): LogStash event representations for Ruby.
+- [lograge](https://rubygems.org/gems/lograge): Tame Rails' multi-line logging into a single line per request.
+- [error_highlight](https://rubygems.org/gems/error_highlight): Highlight the line of code with errors in development log.
+- [zip-codes](https://rubygems.org/gems/zip-codes): Provides a simple interface to obtain city and state information based on zip codes.
+- [validates_zipcode](https://rubygems.org/gems/validates_zipcode): Validates and formats zip codes.
+- [cssbundling-rails](https://rubygems.org/gems/cssbundling-rails): CSS bundling for Rails.
+- [jsbundling-rails](https://rubygems.org/gems/jsbundling-rails): JavaScript bundling for Rails.
+- [sass](https://rubygems.org/gems/sass): Syntactically Awesome Stylesheets (Sass) for CSS.
+- [font-awesome-sass](https://rubygems.org/gems/font-awesome-sass): Sass-powered version of Font Awesome.
+- [execjs](https://rubygems.org/gems/execjs): Run JavaScript code from Ruby.
+- [require_all](https://rubygems.org/gems/require_all): A wonderfully simple way to load your code.
+- [rails-erd](https://rubygems.org/gems/rails-erd): Generate Entity-Relationship Diagrams for your Rails application.
+- [net-sftp](https://rubygems.org/gems/net-sftp): Secure File Transfer Protocol (SFTP) library.
+- [multi_json](https://rubygems.org/gems/multi_json): A gem to provide simple JSON parsing and encoding.
+- [ed25519](https://rubygems.org/gems/ed25519): Ruby bindings to the Ed25519 digital signature algorithm.
+- [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
+- [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
+- [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
 - paper_trail (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
@@ -102,74 +163,10 @@
 - database_cleaner (**deprecated**)
 - turbolinks (**deprecated**)
 - sass-rails (**deprecated**)
+- influxdb (**deprecaated**)
 - sinatra-contrib (**obsolete**)
 - sinatra-asset-pipeline (**obsolete**)
 - sinatra-activerecord (**obsolete**)
 - sinatra (**obsolete**)
 - wdm (**obsolete**)
 - factory_girl_rails (**obsolete**)
-
-## Under evaluation
-
-- [aws-sdk](https://rubygems.org/gems/aws-sdk): Official AWS SDK for Ruby.
-- [zip-codes](https://rubygems.org/gems/zip-codes): Provides a simple interface to obtain city and state information based on zip codes.
-- [zendesk_api](https://rubygems.org/gems/zendesk_api): Ruby client for the Zendesk API.
-- [validates_zipcode](https://rubygems.org/gems/validates_zipcode): Validates and formats zip codes.
-- [uuid](https://rubygems.org/gems/uuid): Universally Unique Identifier (UUID) generation library.
-- [uri](https://rubygems.org/gems/uri): Generic URI manipulation library.
-- [twilio-ruby](https://rubygems.org/gems/twilio-ruby): Ruby library for communicating with the Twilio API.
-- [therubyracer](https://rubygems.org/gems/therubyracer): Embed the V8 JavaScript interpreter into Ruby.
-- [spring-watcher-listen](https://rubygems.org/gems/spring-watcher-listen): Spring extension to watch file changes using Listen.
-- [spring-commands-rspec](https://rubygems.org/gems/spring-commands-rspec): RSpec commands for Spring application preloader.
-- [spring](https://rubygems.org/gems/spring): Preloads your application so things like console, rake, and tests run faster.
-- [simple_oauth](https://rubygems.org/gems/simple_oauth): Simple OAuth 2.0 client gem.
-- [sass](https://rubygems.org/gems/sass): Syntactically Awesome Stylesheets (Sass) for CSS.
-- [rubyzip](https://rubygems.org/gems/rubyzip): Ruby library for reading and writing ZIP files.
-- [ruby-openai](https://rubygems.org/gems/ruby-openai): Ruby client for the OpenAI API.
-- [ruby-debug-ide](https://rubygems.org/gems/ruby-debug-ide): Ruby debugger that interfaces with IDEs.
-- [rest-client](https://rubygems.org/gems/rest-client): Simple HTTP and REST client for Ruby.
-- [require_all](https://rubygems.org/gems/require_all): A wonderfully simple way to load your code.
-- [redcarpet](https://rubygems.org/gems/redcarpet): Fast, safe, and extensible Markdown to HTML library.
-- [rails-erd](https://rubygems.org/gems/rails-erd): Generate Entity-Relationship Diagrams for your Rails application.
-- [rails-controller-testing](https://rubygems.org/gems/rails-controller-testing): Test your Rails controllers with ease.
-- [rack_csrf](https://rubygems.org/gems/rack_csrf): Rack middleware for CSRF protection.
-- [rack-test](https://rubygems.org/gems/rack-test): Rack::Test allows you to quickly test Rack applications.
-- [rack-contrib](https://rubygems.org/gems/rack-contrib): Contributed Rack middleware and utilities.
-- [puppeteer-ruby](https://rubygems.org/gems/puppeteer-ruby): Puppeteer Ruby bindings.
-- [platform-sdk](https://rubygems.org/gems/platform-sdk): Official Ruby SDK for a specific platform.
-- [nokogiri](https://rubygems.org/gems/nokogiri): HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
-- [net-sftp](https://rubygems.org/gems/net-sftp): Secure File Transfer Protocol (SFTP) library.
-- [multi_json](https://rubygems.org/gems/multi_json): A gem to provide simple JSON parsing and encoding.
-- [maintenance_tasks](https://rubygems.org/gems/maintenance_tasks): Tasks for managing application maintenance tasks.
-- [logstash-event](https://rubygems.org/gems/logstash-event): LogStash event representations for Ruby.
-- [lograge](https://rubygems.org/gems/lograge): Tame Rails' multi-line logging into a single line per request.
-- [learnosity-sdk](https://rubygems.org/gems/learnosity-sdk): Ruby SDK for Learnosity APIs.
-- [ldclient-rb](https://rubygems.org/gems/ldclient-rb): LaunchDarkly Ruby server-side SDK.
-- [jsbundling-rails](https://rubygems.org/gems/jsbundling-rails): JavaScript bundling for Rails.
-- [jira-ruby](https://rubygems.org/gems/jira-ruby): Ruby library for interacting with Jira.
-- [jekyll-sitemap](https://rubygems.org/gems/jekyll-sitemap): Automatically generates a sitemap for your Jekyll site.
-- [jekyll](https://rubygems.org/gems/jekyll): Transform your plain text into static websites and blogs.
-- [influxdb](https://rubygems.org/gems/influxdb): Ruby library for interfacing with InfluxDB.
-- [image_processing](https://rubygems.org/gems/image_processing): High-level image processing wrapper for libvips and ImageMagick.
-- [hotwire-livereload](https://rubygems.org/gems/hotwire-livereload): Automatically reload Hotwire-enabled pages in development.
-- [googleauth](https://rubygems.org/gems/googleauth): Handles authentication and authorization for Google APIs.
-- [google-api-client](https://rubygems.org/gems/google-api-client): Client library for interacting with Google APIs.
-- [friendly_id](https://rubygems.org/gems/friendly_id): Create pretty URLs and work with human-friendly strings.
-- [font-awesome-sass](https://rubygems.org/gems/font-awesome-sass): Sass-powered version of Font Awesome.
-- [faraday-oauth](https://rubygems.org/gems/faraday-oauth): OAuth middleware for Faraday.
-- [execjs](https://rubygems.org/gems/execjs): Run JavaScript code from Ruby.
-- [error_highlight](https://rubygems.org/gems/error_highlight): Highlight the line of code with errors in development log.
-- [ed25519](https://rubygems.org/gems/ed25519): Ruby bindings to the Ed25519 digital signature algorithm.
-- [debase](https://rubygems.org/gems/debase): Debugger for Ruby.
-- [cssbundling-rails](https://rubygems.org/gems/cssbundling-rails): CSS bundling for Rails.
-- [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
-- [bluepill](https://rubygems.org/gems/bluepill): Process monitoring tool.
-- [bcrypt_pbkdf](https://rubygems.org/gems/bcrypt_pbkdf): Ruby bindings for bcrypt_pbkdf.
-- [aws-sdk-elasticbeanstalk](https://rubygems.org/gems/aws-sdk-elasticbeanstalk): Official AWS SDK for AWS Elastic Beanstalk.
-- [aws-sdk-dynamodb](https://rubygems.org/gems/aws-sdk-dynamodb): Official AWS SDK for Amazon DynamoDB.
-- [aws-sdk-costexplorer](https://rubygems.org/gems/aws-sdk-costexplorer): Official AWS SDK for AWS Cost Explorer.
-- [aws-sdk-core](https://rubygems.org/gems/aws-sdk-core): Core AWS SDK for Ruby.
-- [aws-sdk-cloudcontrolapi](https://rubygems.org/gems/aws-sdk-cloudcontrolapi): Official AWS SDK for AWS Cloud Control API.
-- [aws-sdk-apigateway](https://rubygems.org/gems/aws-sdk-apigateway): Official AWS SDK for Amazon API Gateway.
-- [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
-- [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
