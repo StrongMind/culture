@@ -1,6 +1,7 @@
 # Ruby Gems
 
 ## Approved
+- [webmock](https://rubygems.org/gems/webmock/): http request mocking library, which can stop outbound network connections
 - [simple_calendar](https://rubygems.org/gems/simple_calendar): frontend calendar
 - [rolify](https://rubygems.org/gems/rolify): role management
 - [pundit](https://rubygems.org/gems/pundit): authorization
