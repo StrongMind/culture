@@ -1,15 +1,13 @@
-[Link to Jira ticket](url_goes_here)
-
-#Delete comments under headings and replace with appropriate descriptions for each category
+[Link to Jira ticket](https://strongmind.atlassian.net/browse/TEAM-NUMBER)
 
 ## Purpose 
-(what/why)
+<!-- what/why -->
 
 ## Approach 
-(how)
+<!-- how -->
 
 ## Testing
-(what did you do to confirm this works/what would a QA engineer do to confirm - Think: setup process, steps, expected outcomes)
+<!-- what did you do to confirm this works/what would a QA engineer do to confirm - Think: setup process, steps, expected outcomes -->
 
 ## Screenshots/Video
-(show before/after of the change if possible)
+<!-- show before/after of the change if possible -->
