@@ -15,7 +15,6 @@
       - Could you change the code and what the code does and still pass all the tests?
     - Is the code easy to understand?              
       - Are the functions, classes, methods and attributes obviously named?
-      - Has the
       - Is complexity refactored out?
     - Does the code use a well established design pattern (probably MVC for our tests)?              
       - Does it use it conventionally per the framework it comes from?
