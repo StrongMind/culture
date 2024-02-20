@@ -1,0 +1,80 @@
+## New Padawan, Knights, Masters Sessions
+
+- Sync Lessons
+- Async Lessons
+- Labs (1 hour sprint)
+	- Stories
+	- One-Offs
+- Reading
+	- Discussion
+-
+- 6 weeks of lessons
+	- 12 sessions per group
+-
+- Suggestions for lessons:
+	- Testing (JourneyTracker, others)
+	- Deployments
+	- Ux/Backpack
+	- Sentry/Stack traces
+	- rails console / debugging
+	- Rewrite crappy flask apps
+	- Authentication
+	- Authorization
+	- Best Practices (code, rails-y-ness, feature flags)
+	- Refactor Prod code
+	- Editor/Command line proficiency
+-
+- SE0s
+  collapsed:: true
+	- Week 1: Derek
+		- Sync Lesson: Intro and CRUD
+		- Lab
+	- Week 2: Derek
+		- Sync Lesson: CRUD deep dive
+		- Lab
+	- Week 3: Derek
+	  collapsed:: true
+		- Sync Lesson: Models, relationships
+		- Lab
+	- Week 4: Open
+	  collapsed:: true
+		- Sync Lesson: Deployment
+		- Lab
+	- Week 5: Open
+	  collapsed:: true
+		- Sync Lesson: Backpack
+		- Lab
+	- Week 6: Open
+	  collapsed:: true
+		- Sync Lesson: Auth
+		- Lab
+- SE1s
+	- Week 1: Open
+		- Async: Rails Conventions
+			- Find example in SM Code
+		- Lab: Refactor Session
+			- Based on examples from async
+	- Week 2: Ryan/Paul
+		- Async: Editor/Command Line Proficiency
+		- Lab: Bug Driven Testing
+	- Week 3: Open
+		-
+	- Week 4: Open
+		-
+	- Week 5: Open
+		-
+	- Week 6: Open
+		-
+- SE2s
+	- Week 1: Open
+		- Async: Rails Conventions
+			- Find example in SM Code
+		- Lab: Refactor Session
+			- Base on examples from async
+	- Week 2: Ryan/Paul
+		- Async: Editor/Command Line Proficiency
+		- Lab: Bug Driven Testing
+	- Week 3: Open
+	- Week 4: Open
+	- Week 5: Open
+	- Week 6: Open
