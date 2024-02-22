@@ -23,6 +23,13 @@
 	- Best Practices (code, rails-y-ness, feature flags)
 	- Refactor Prod code
 	- Editor/Command line proficiency
+  	- Active Record / SQL basics
+     	- Triaging Bugs
+       	- Effective Migrations
+        - Skinny Controllers
+        - Turbo
+        - Legacy Code Refactor
+        - Deployment
 -
 - SE0s
   collapsed:: true
@@ -49,32 +56,43 @@
 		- Sync Lesson: Auth
 		- Lab
 - SE1s
-	- Week 1: Open
+	- Week 1: Brito (A) Benner/Jarred (L)
 		- Async: Rails Conventions
 			- Find example in SM Code
 		- Lab: Refactor Session
 			- Based on examples from async
-	- Week 2: Ryan/Paul
+	- Week 2: Ryan (A) Paul (L)
 		- Async: Editor/Command Line Proficiency
 		- Lab: Bug Driven Testing
-	- Week 3: Open
-		-
-	- Week 4: Open
-		-
-	- Week 5: Open
-		-
-	- Week 6: Open
-		-
+	- Week 3: Angel (A,L)
+		- Async: Deployment (Rails)
+		- Lab: Create and Deploy a Slackbot
+	- Week 4: Benner (A) Brito (L)
+		- Async: Active Record / SQL Basics
+		- Lab: Using Bullet in SMC (bonus add to another app)
+	- Week 5: Jarred (A,L)
+		- Async: Effective Migrations, Seeds, Maintenance Tasks
+		- Lab: Building Seed Files
+	- Week 6: Max (A) Benner/Jarred (L)
+		- Async: Skinny Controllers
+		- Lab: Repo Dashboard Controllers
 - SE2s
-	- Week 1: Open
+	- Week 1: Brito (A) Paul/Ryan (L)
 		- Async: Rails Conventions
-			- Find example in SM Code
-		- Lab: Refactor Session
-			- Base on examples from async
-	- Week 2: Ryan/Paul
+			- Find an example in SM Code
+		- Lab: OneRoster Data Store (Cache)
+	- Week 2: Ryan (A) Benner/Jarred (L)
 		- Async: Editor/Command Line Proficiency
-		- Lab: Bug Driven Testing
-	- Week 3: Open
-	- Week 4: Open
-	- Week 5: Open
-	- Week 6: Open
+		- Lab: OneRoster Data Store (Cache)
+	- Week 3: Angel (A), Ng/Brito (L)
+		- Async: Deployment (Rails)
+		- Lab: OneRoster Data Store (Cache)
+	- Week 4: Benner (A) Paul/Ryan (L)
+		- Async: Active Record / SQL Basics
+		- Lab: OneRoster Data Store (Cache)
+	- Week 5: Jarred (A) Ng/Angel (L)
+		- Async: Effective Migrations, Seeds, Maintenance Tasks
+		- Lab: OneRoster Data Store (Cache)
+	- Week 6: Max (A) Benner/Jarred (L)
+		- Async: Skinny Controllers
+		- Lab: OneRoster Data Store (Cache)
