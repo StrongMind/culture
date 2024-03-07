@@ -1,6 +1,8 @@
 # Ruby Gems
 
 ## Approved
+- [fog-aws](https://github.com/fog/fog-aws): AWS s3 connector
+- [asset_sync](https://github.com/AssetSync/asset_sync): Sync rails assets on precompile
 - [webmock](https://rubygems.org/gems/webmock/): http request mocking library, which can stop outbound network connections
 - [simple_calendar](https://rubygems.org/gems/simple_calendar): frontend calendar
 - [rolify](https://rubygems.org/gems/rolify): role management
