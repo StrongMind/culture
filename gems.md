@@ -1,6 +1,7 @@
 # Ruby Gems
 
 ## Approved
+- [rails-mermaid_erd](https://github.com/koedame/rails-mermaid_erd) ERDs in mermaid
 - [fog-aws](https://github.com/fog/fog-aws): AWS s3 connector
 - [asset_sync](https://github.com/AssetSync/asset_sync): Sync rails assets on precompile
 - [webmock](https://rubygems.org/gems/webmock/): http request mocking library, which can stop outbound network connections
