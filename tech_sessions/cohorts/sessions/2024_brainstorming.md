@@ -1,0 +1,32 @@
+## New Padawan, Knights, Masters Sessions
+
+- Sync Lessons
+- Async Lessons
+- Labs (1 hour sprint)
+	- Stories
+	- One-Offs
+- Reading
+	- Discussion
+-
+- 6 weeks of lessons
+	- 12 sessions per group
+
+- Suggestions for lessons:
+	- Testing (JourneyTracker, others)
+	- Deployments
+	- Ux/Backpack
+	- Sentry/Stack traces
+	- rails console / debugging
+	- Rewrite crappy flask apps
+	- Authentication
+	- Authorization
+	- Best Practices (code, rails-y-ness, feature flags)
+	- Refactor Prod code
+	- Editor/Command line proficiency
+  	- Active Record / SQL basics
+     	- Triaging Bugs
+       	- Effective Migrations
+        - Skinny Controllers
+        - Turbo
+        - Legacy Code Refactor
+        - Deployment
