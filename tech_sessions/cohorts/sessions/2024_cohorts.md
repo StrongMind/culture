@@ -9,8 +9,8 @@
 - [x] Sync Lesson: Models, relationships
 - [x] Lab
 ### Week 4 (4/15): Mike
-- [ ] Lab: Backpack
-- [ ] Lab: Backpack
+- [x] Lab: Backpack
+- [x] Lab: Backpack
 ### Week 5 (4/22): Ryan
 - [ ] Sync Lesson: Auth
 - [ ] Lab
@@ -30,8 +30,8 @@
 - [x] Async: Deployment (Rails)
 - [x] Lab: Create and Deploy a Slackbot
 ### Week 4 (4/15): Benner (A) Brito (L)
-- [ ] Async: Active Record / SQL Basics / Bullet
-- [ ] Lab: Add Bullet to apps / test suites
+- [x] Async: Active Record / SQL Basics / Bullet
+- [x] Lab: Add Bullet to apps / test suites
 ### Week 5 (4/22): Jarred (A,L)
 - [ ] Async: Effective Migrations, Seeds, Maintenance Tasks
 - [ ] Lab: Building Seed Files
@@ -52,8 +52,8 @@
 ### Week 3: Angel (A), Ng/Brito (L)
 - [x] Lab: OneRoster API navigation practice
 ### Week 4 (4/15): Benner (A) Paul/Ryan (L)
-- [ ] Async: Active Record / SQL Basics / Bullet
-- [ ] Lab: OneRoster Data Store (Cache)
+- [x] Async: Active Record / SQL Basics / Bullet
+- [x] Lab: OneRoster Data Store (Cache)
 ### Week 5 (4/22): Jarred (A) Ng/Angel (L)
 - [ ] Async: Effective Migrations, Seeds, Maintenance Tasks
 - [ ] Lab: OneRoster Data Store (Cache)
