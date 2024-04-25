@@ -11,12 +11,12 @@
 ### Week 4 (4/15): Mike
 - [x] Lab: Backpack
 - [x] Lab: Backpack
-### Week 5 (4/22): Ryan
-- [ ] Sync Lesson: Auth
-- [ ] Lab
-### Week 6 (4/29): Angel
+### Week 5 (4/22): Derek/Mike
+- [x] Sync Lesson: Auth
+- [x] Lab
+### Week 6 (4/29): Derek/Mike
 - [ ] Sync Lesson: Deployment
-- [ ] Lab
+- [ ] Lab: Presentations
 
 # SE1s (Knights)
 ### Week 1: Brito (A) Benner/Jarred (L)
@@ -33,8 +33,8 @@
 - [x] Async: Active Record / SQL Basics / Bullet
 - [x] Lab: Add Bullet to apps / test suites
 ### Week 5 (4/22): Jarred (A,L)
-- [ ] Async: Effective Migrations, Seeds, Maintenance Tasks
-- [ ] Lab: Building Seed Files
+- [x] Async: Effective Migrations, Seeds, Maintenance Tasks
+- [x] Lab: Building Seed Files
 ### Week 6 (4/29): Max (A) Benner/Jarred (L)
 - [ ] Async: Skinny Controllers
 - [ ] Lab: Repo Dashboard Controllers
@@ -54,10 +54,10 @@
 ### Week 4 (4/15): Benner (A) Paul/Ryan (L)
 - [x] Async: Active Record / SQL Basics / Bullet
 - [x] Lab: OneRoster Data Store (Cache)
-### Week 5 (4/22): Jarred (A) Ng/Angel (L)
-- [ ] Async: Effective Migrations, Seeds, Maintenance Tasks
+### Week 5 (4/22): Jarred (A) Paul/Ryan (L)
+- [x] Async: Effective Migrations, Seeds, Maintenance Tasks
 - [ ] Lab: OneRoster Data Store (Cache)
-### Week 6 (4/29): Max (A) Benner/Jarred (L)
+### Week 6 (4/29): Max (A) Paul/Ryan (L)
 - [ ] Async: Skinny Controllers
 - [ ] Lab: OneRoster Data Store (Cache)
 
