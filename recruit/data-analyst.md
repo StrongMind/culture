@@ -9,7 +9,8 @@
 - What is a Cartesian join and what issue(s) can it cause?
 
 #### Given the tables shown below, please answer the scenario questions using Snowflake or MS SQL Server syntax.
-  xxxxx images
+ ![db_table_sample](https://github.com/StrongMind/culture/assets/56941814/f7f881e5-2c14-442b-9730-f65f9bd3d598)
+
 
 - The sample tables shown provides data on actors who portrayed certain characters.  Given this data, please provide SQL code that will provide answers to the following questions:
     - What is the name and alias of each person whose agency is control? Sort results by name descending.
@@ -27,13 +28,13 @@
         select agency, CastYear, gender from Person cross join character
 
 - Answer the following questions using the Venn diagram below as reference.  The tables use a field named “key” for their relationship.  Select all records from each table in your results.
+  
+![venn](https://github.com/StrongMind/culture/assets/56941814/134e71ef-2392-4cbb-80f1-b878b2f514e4)
 
-   xxxxx images
-
-    - What code would yield results from both tables only where they have matching records?
-    - What code would yield results from both tables with all records from table A and only matching records from table B?
-    - What code would yield results from both tables for records with no matches between table A and table B?
-    - What code would yield results from table B where there were no matches with table A?
-    - What code would yield results from both tables, regardless if there was a match or not?
+   - What code would yield results from both tables only where they have matching records?
+   - What code would yield results from both tables with all records from table A and only matching records from table B?
+   - What code would yield results from both tables for records with no matches between table A and table B?
+   - What code would yield results from table B where there were no matches with table A?
+   - What code would yield results from both tables, regardless if there was a match or not?
 
 
