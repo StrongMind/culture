@@ -1,4 +1,4 @@
-# Data Analyst exercises
+# Data Analyst Exercise
 
 #### Please answer the following questions and provide an example that illustrates your answer, whether in SQL or regular text.
  - What is ETL?  How does it differ from an ELT?  When would one be used over the other?
