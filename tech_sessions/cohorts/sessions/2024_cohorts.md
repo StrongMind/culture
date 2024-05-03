@@ -1,3 +1,29 @@
+# May - June
+# SE0 (Padawans)
+- (WW 19-24)lab: Journey tracker bugs and features
+  
+
+
+# SE1 (Knights)
+- (WW 19) Lab: Bug driven testing
+- Check for Journey Tracker features
+- Add Backpack to Rails Generator
+- 
+
+
+# SE2 (Masters)
+- (WW 19)Class: Review PRs for ORDS
+- (WW 20-?)Class: Obie book Patterns of Application Development using AI
+- (WW 19- 23)Lab: ORDS / Book Exercises
+
+
+
+
+
+
+
+
+# March-April
 # SE0s (Padawans)
 ### Week 1: Derek
 - [x] Sync Lesson: Intro and CRUD
