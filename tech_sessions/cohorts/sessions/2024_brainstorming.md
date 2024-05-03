@@ -30,3 +30,4 @@
         - Turbo
         - Legacy Code Refactor
         - Deployment
+	- AWS (containers, RDS, navigating)
