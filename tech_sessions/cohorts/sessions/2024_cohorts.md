@@ -7,7 +7,10 @@
 # SE1 (Knights)
 - (WW 19) Lab: Bug driven testing
 - Check for Journey Tracker features
-- Add Backpack to Rails Generator
+- Search implementation / Algolia session
+- Adding data to pipeline / Why Data / Noun format etc session
+- Handle error ticket / How to handle errors (railsconf talk) session
+- Add Backpack to Rails Generator / what is a generator, why? session
 - 
 
 
