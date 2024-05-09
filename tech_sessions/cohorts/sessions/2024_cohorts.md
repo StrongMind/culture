@@ -7,17 +7,45 @@
 # SE1 (Knights)
 - (WW 19) Lab: Bug driven testing
 - Check for Journey Tracker features
-- Search implementation / Algolia session
 - Adding data to pipeline / Why Data / Noun format etc session
 - Handle error ticket / How to handle errors (railsconf talk) session
 - Add Backpack to Rails Generator / what is a generator, why? session
-- 
-
+- (WW 20) Class: Mobile First UX/UI
+  - Instructor: Ryan
+- (WW 20) Lab: Come with a view to refactor
+  - Instructor: Ryan, Jarred
+- (WW 21) Class: What is Algolia, how to implement it, why?
+  - Instructor: Angel/Benner
+- (WW 21) Lab: Search implementation / Algolia session / Add to Journey Tracker
+  - Instructor: Angel/Benner
+- (WW 22) Class: Intro to Pagy, why, how to implement
+  - Instructor: Paul
+- (WW 22) Lab: Pagy implementation / Add to Central (Communities, Admin Pages) / Sort/Filter with Pagy
+  - Instructor: Paul
+- (WW 23) Class: Pundit and Rolify, why, how to implement
+  - Instructor: Jarred
+- (WW 23) Lab: Pundit and Rolify implementation / Add to Course Builder
+  - Instructor: Jarred
+- (WW 24) Class: Data Pipeline (Maybe get Kunz or Jason to talk)
+  - Instructor: Jarred
+- (WW 24) Lab: Data Pipeline / Add to Journey Tracker
+  - Instructor: Ryan
 
 # SE2 (Masters)
-- (WW 19)Class: Review PRs for ORDS
-- (WW 20-?)Class: Obie book Patterns of Application Development using AI
-- (WW 19- 24)Lab: ORDS / Book Exercises
+- (WW 19) Class: Review PRs for ORDS
+- (WW 20-24) Class: Obie book Patterns of Application Development using AI
+  - (WW 20) Read: "Narrow The Path", Instructor: Jarred (Create two discussion questions. One normal, one stretch.)
+  - (WW 21) Read: "Multitude of Workers", Instructor: Ryan (Create two discussion questions. One normal, one stretch.)
+  - (WW 22) Read: "Using Tools / Self Healing Data", Instructor: Ng (Create two discussion questions. One normal, one stretch.)
+  - (WW 23) Read: "Contextual Content Generation", Instructor: Brito (Create two discussion questions. One normal, one stretch.)
+  - (WW 24) Read: "Intelligent Workflow Orchestration", Instructor: Angel (Create two discussion questions. One normal, one stretch.)
+- (WW 19- 24) Lab: ORDS
+  - (WW 20) Lab: ORDS, Instructor: Jarred/Paul/Ryan
+  - (WW 21) Lab: ORDS, Instructor: Ryan/Paul
+  - (WW 22) Lab: ORDS, Instructor: Ng/Paul/Ryan
+  - (WW 23) Lab: ORDS, Instructor: Brito/Paul/Ryan
+  - (WW 24) Lab: ORDS, Instructor: Angel/Paul/Ryan
+
 
 
 
