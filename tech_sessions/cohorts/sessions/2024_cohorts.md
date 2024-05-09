@@ -17,7 +17,7 @@
 # SE2 (Masters)
 - (WW 19)Class: Review PRs for ORDS
 - (WW 20-?)Class: Obie book Patterns of Application Development using AI
-- (WW 19- 23)Lab: ORDS / Book Exercises
+- (WW 19- 24)Lab: ORDS / Book Exercises
 
 
 
