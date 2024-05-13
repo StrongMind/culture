@@ -26,8 +26,8 @@
   - Instructor: Jarred
 - (WW 23) Lab: Pundit and Rolify implementation / Add to Course Builder
   - Instructor: Jarred
-- (WW 24) Class: Data Pipeline (Maybe get Kunz or Jason to talk)
-  - Instructor: Jarred
+- (WW 24) Class: Data Pipeline - Why do we care? What is a noun? Why is data important?
+  - Instructor: Mike/Jason (Data Team)
 - (WW 24) Lab: Data Pipeline / Add to Journey Tracker
   - Instructor: Ryan
 
