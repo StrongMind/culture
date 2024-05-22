@@ -35,8 +35,8 @@
 - (WW 19) Class: Review PRs for ORDS
 - (WW 20-24) Class: Obie book Patterns of Application Development using AI
   - (WW 20) Read: "Narrow The Path", Instructor: Jarred (Create two discussion questions. One normal, one stretch.)
-  - (WW 21) Read: "Multitude of Workers", Instructor: Ryan (Create two discussion questions. One normal, one stretch.)
-  - (WW 22) Read: "Using Tools / Self Healing Data", Instructor: Ng (Create two discussion questions. One normal, one stretch.)
+  - (WW 21) Read: "Multitude of Workers", Instructor: Ng (Create two discussion questions. One normal, one stretch.)
+  - (WW 22) Read: "Using Tools / Self Healing Data", Instructor: Ng/Ryan (Create two discussion questions. One normal, one stretch.)
   - (WW 23) Read: "Contextual Content Generation", Instructor: Brito (Create two discussion questions. One normal, one stretch.)
   - (WW 24) Read: "Intelligent Workflow Orchestration", Instructor: Angel (Create two discussion questions. One normal, one stretch.)
 - (WW 19- 24) Lab: ORDS
