@@ -1,7 +1,7 @@
 # May 2024
 
 ## Particpants
-- Michelle Vilavanh, Nicole Osborn, CJ Scirone, Michael Takeuchi, Dwaine Matthew
+- Michelle Vilavanh, Nicole Osborn, CJ Scirone, Michael Takeuchi, Dwaine Matthew, others??
   
 # Goals
 - Ideate using sketches
@@ -15,15 +15,21 @@
 - Ideate using sketches
   - Lab: Using an [app idea generator](https://appideagenerator.com/), sketch out some ideas for an interface. Group critique and another round of iterations on the sketch.
   - Instructor: Jen
-  - Homework: [Sign up for a codepen account](https://codepen.io/accounts/signup/user/free)
+  - Homework
+    - [Sign up for a codepen account](https://codepen.io/accounts/signup/user/free)
+    - Using the app generator, create another sketch (you will use this to give to someone else to implement)
 - Creating markup from sketches
-  - Lab: Using your sketches, create your html markup. Pair code review.
+  - Lab: Using your sketches, create your html markup. No styling, just markup! Pair code review.
   - Instructor: Ray
-  - Homework: Get familiar with Backpack UI
+  - Homework
+    - Get familiar with Backpack UI
+    - Sketch swaps! Swap sketches amongst the group and do the html markup for your given sketch. Unsure of what something is? Reach out to the artist!
 - Understand and implement Backpack UI
   - Lab: Connect your app to Backpack UI and style it using only Backpack UI components. No custom classes! Present apps and get feedback.
   - Instructor: Jen
-  - Homework: Take note of anything you couldn't style strictly using Backpack UI.
+  - Homework
+    - Using your sketch swaps markup, add Backpack UI to it! Get feedback from the original artist.
+    - Take note of anything you couldn't style strictly using Backpack UI from the session and from your sketch swap.
 - Understand when to use Tailwind
   - Lab: Connect your app to Tailwind and use it to fix layout issues in your app. No custom classes! Present apps and get feedback.
   - Instructor: Ray
