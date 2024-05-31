@@ -1,7 +1,7 @@
 # June 2024
 
 ## Particpants
-- Michelle Vilavanh, Nicole Osborn, CJ Scirone, Michael Takeuchi, Dwaine Matthew, others??
+- Ray Villaraza, Michelle Vilavanh, Nicole Osborn, CJ Scirone, Michael Takeuchi, Dwaine Matthew, Bri Elder
   
 # Goals
 - Ideate using sketches
