@@ -1,4 +1,70 @@
-# May - June
+##### June - July
+# SE0 (Padawans)
+- (WW 25 - 32)
+
+## The Strongmind Way Series
+
+# SE1 (Knights)
+- (WW 25) Class/Lab: Cancelled
+  - Instructor: None
+- (WW 26) Class/Lab: Cancelled
+  - Instructor: None
+- (WW 27) Class: Turbo - Drives
+  - Instructor: TBD
+- (WW 27) Lab: TBD
+  - Instructor: TBD
+- (WW 28) Class: Turbo - Frames
+  - Instructor: TBD
+- (WW 28) Lab: TBD
+  - Instructor: TBD
+- (WW 29) Class: Turbo - Streams
+  - Instructor: TBD
+- (WW 29) Lab: TBD
+  - Instructor: TBD
+- (WW 30) Class: Stimulus - When to use and when to avoid
+  - Instructor: TBD
+- (WW 30) Lab: TBD
+  - Instructor: TBD
+- (WW 31) Class: SQL - Scopes
+  - Instructor: TBD
+- (WW 31) Lab: TBD
+  - Instructor: TBD
+- (WW 32) Class: SQL - Joins and N+1s and how to resolve
+  - Instructor: TBD
+- (WW 32) Lab: TBD
+  - Instructor: TBD
+
+# SE2 (Masters)
+- (WW 25) Class/Lab: Cancelled
+  - Instructor: None
+- (WW 26) Class/Lab: Cancelled
+  - Instructor: None
+- (WW 27) Class: Turbo (Drives, Frames, Streams)
+  - Instructor: TBD
+- (WW 27) Lab: TBD
+  - Instructor: TBD
+- (WW 28) Class: Stimulus - When to use and when to avoid / Best practices
+  - Instructor: TBD
+- (WW 28) Lab: TBD
+  - Instructor: TBD
+- (WW 29) Class: SQL - Scopes deep dive
+  - Instructor: TBD
+- (WW 29) Lab: TBD
+  - Instructor: TBD
+- (WW 30) Class: SQL - Joins and N+1s and query optimization
+  - Instructor: TBD
+- (WW 30) Lab: TBD
+  - Instructor: TBD
+- (WW 31) Class: TBD
+  - Instructor: TBD
+- (WW 31) Lab: TBD
+  - Instructor: TBD
+- (WW 32) Class: TBD
+  - Instructor: TBD
+- (WW 32) Lab: TBD
+  - Instructor: TBD
+
+##### May - June
 # SE0 (Padawans)
 - (WW 19-24)lab: Journey tracker bugs and features
   
