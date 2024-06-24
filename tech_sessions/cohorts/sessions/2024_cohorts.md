@@ -9,30 +9,30 @@
   - Instructor: None
 - (WW 26) Class/Lab: Cancelled
   - Instructor: None
-- (WW 27) Class: Turbo - Drives
-  - Instructor: TBD
-- (WW 27) Lab: TBD
-  - Instructor: TBD
-- (WW 28) Class: Turbo - Frames
-  - Instructor: TBD
-- (WW 28) Lab: TBD
-  - Instructor: TBD
-- (WW 29) Class: Turbo - Streams
-  - Instructor: TBD
-- (WW 29) Lab: TBD
-  - Instructor: TBD
-- (WW 30) Class: Stimulus - When to use and when to avoid
-  - Instructor: TBD
-- (WW 30) Lab: TBD
-  - Instructor: TBD
-- (WW 31) Class: SQL - Scopes
-  - Instructor: TBD
-- (WW 31) Lab: TBD
-  - Instructor: TBD
-- (WW 32) Class: SQL - Joins and N+1s and how to resolve
-  - Instructor: TBD
-- (WW 32) Lab: TBD
-  - Instructor: TBD
+- (WW 27) Class: Turbo - Drives (Read docs/handbook, Come with at least one disabled turbo)
+  - Instructor: Paul/Jarred
+- (WW 27) Lab: Re-Enable turbo in chosen application
+  - Instructor: Paul/Jarred
+- (WW 28) Class: Turbo - Frames (Read docs/handbook, Come with at least one overuse of stream that could be a frame)
+  - Instructor: Paul/Jarred
+- (WW 28) Lab: Replace stream with frame in chosen application
+  - Instructor: Paul/Jarred
+- (WW 29) Class: Turbo - Streams (Read docs/handbook, Come with at least one use of streams in controller that should be in view)
+  - Instructor: Paul/Jarred
+- (WW 29) Lab: How to use streams in views, replacing multiple things with streams in views
+  - Instructor: Paul/Jarred
+- (WW 30) Class: Stimulus - Read docs, create supplemental content on when to use and when to avoid (Come with a duplicated controller)
+  - Instructor: Brito/Angel
+- (WW 30) Lab: Consilidating stimulus controllers into backpack
+  - Instructor: Brito/Angel
+- (WW 31) Class: Turbo - Broadcasts (Read docs/handbook, Come with at least one potentially duplicated broadcast)
+  - Instructor: Angel/Brito
+- (WW 31) Lab: Consilidate/Simplify broadcasts in chosen application 
+  - Instructor: Angel/Brito
+- (WW 32) Class: SQL - Deep Dive: Eagerloading and N+1s and how to resolve (when bullet doesn't help)
+  - Instructor: Paul/Benner
+- (WW 32) Lab: Resolving N+1s in chosen application
+  - Instructor: Paul/Benner
 
 # SE2 (Masters)
 - (WW 25) Class/Lab: Cancelled
