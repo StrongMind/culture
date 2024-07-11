@@ -1,0 +1,22 @@
+name: Dependabot Pull Request Approve and Merge
+
+on:
+  push:
+    branches:
+      - 'main'
+      - 'master'
+  pull_request_target:
+    branches:
+      - 'main'
+      - 'master'
+    types: [opened, synchronize]
+
+jobs:
+  dependabot:
+    uses: StrongMind/public-reusable-workflows/.github/workflows/shared-dependabot-auto-merge.yml@main
+    with:
+      PR_URL: ${{ github.event.pull_request.html_url }}
+      github_actor: ${{ github.actor }}
+    secrets: inherit
+    if: ${{ github.actor == 'dependabot[bot]'}}
+
