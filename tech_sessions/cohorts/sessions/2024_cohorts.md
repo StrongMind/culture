@@ -3,59 +3,59 @@
 TBD
 
 # SE1 (Knights)
-(WW 33) Class: Using Active Record to query (Come with example where we have SQL that could be AR)
+- (WW 33) Class: Using Active Record to query (Come with example where we have SQL that could be AR)
   - Instructor: Brito/ TBD
-(WW 33) Lab: Convert SQL to AR in chosen application
-  - Instructor: Brito/ TBD
-
-(WW 34) Class: Nested partials are stinky (Come with example where we have nested partials)
-  - Instructor: Brito/ TBD
-(WW 34) Lab: unnest partials in chosen application
+- (WW 33) Lab: Convert SQL to AR in chosen application
   - Instructor: Brito/ TBD
 
-(WW 35) Class: Setting up API endpoints
+- (WW 34) Class: Nested partials are stinky (Come with example where we have nested partials)
   - Instructor: Brito/ TBD
-(WW 35) Lab: TBD
-  - Instructor: Brito/ TBD
-
-(WW 36) Class: Identity for Authentication
-  - Instructor: Brito/ TBD
-(WW 36) Lab: TBD
+- (WW 34) Lab: unnest partials in chosen application
   - Instructor: Brito/ TBD
 
-(WW 37) Class: Spec performance. How to profile and weigh performance vs value.
+- (WW 35) Class: Setting up API endpoints
   - Instructor: Brito/ TBD
-(WW 37) Lab: Improve spec performance in chosen application
-  - Instructor: Brito/ TBD
-
-(WW 38) Class: Join models. Learn about has_many through relationships. Learn about polymorphic relationships.
-  - Instructor: Brito/ TBD
-(WW 38) Lab: TBD
+- (WW 35) Lab: TBD
   - Instructor: Brito/ TBD
 
-(WW 39) Class: Slackbot popupforms (outage summary, ect.)
+- (WW 36) Class: Identity for Authentication
   - Instructor: Brito/ TBD
-(WW 39) Lab: TBD
-  - Instructor: Brito/ TBD
-
-(WW 40) Class: Service Client Pattern
-  - Instructor: Brito/ TBD
-(WW 40) Lab: TBD
+- (WW 36) Lab: TBD
   - Instructor: Brito/ TBD
 
-(WW 41 - Extra) Class: How and when to use view helpers (Come with example where we have logic in views)
+- (WW 37) Class: Spec performance. How to profile and weigh performance vs value.
   - Instructor: Brito/ TBD
-(WW 41 - Extra) Lab: Move logic from views to helpers in chosen application
-  - Instructor: Brito/ TBD
-
-(WW 42 - Extra) Class: Decoupling your code (Come with example where we are assuming too much such as the expectation a user will be save and doing operations on that user)
-  - Instructor: Brito/ TBD
-(WW 42 - Extra) Lab: Decouple code in chosen application
+- (WW 37) Lab: Improve spec performance in chosen application
   - Instructor: Brito/ TBD
 
-(WW 43 - Extra) Class: Callbacks
+- (WW 38) Class: Join models. Learn about has_many through relationships. Learn about polymorphic relationships.
   - Instructor: Brito/ TBD
-(WW 43 - Extra) Lab: TBD
+- (WW 38) Lab: TBD
+  - Instructor: Brito/ TBD
+
+- (WW 39) Class: Slackbot popupforms (outage summary, ect.)
+  - Instructor: Brito/ TBD
+- (WW 39) Lab: TBD
+  - Instructor: Brito/ TBD
+
+- (WW 40) Class: Service Client Pattern
+  - Instructor: Brito/ TBD
+- (WW 40) Lab: TBD
+  - Instructor: Brito/ TBD
+
+- (WW 41 - Extra) Class: How and when to use view helpers (Come with example where we have logic in views)
+  - Instructor: Brito/ TBD
+- (WW 41 - Extra) Lab: Move logic from views to helpers in chosen application
+  - Instructor: Brito/ TBD
+
+- (WW 42 - Extra) Class: Decoupling your code (Come with example where we are assuming too much such as the expectation a user will be save and doing operations on that user)
+  - Instructor: Brito/ TBD
+- (WW 42 - Extra) Lab: Decouple code in chosen application
+  - Instructor: Brito/ TBD
+
+- (WW 43 - Extra) Class: Callbacks
+  - Instructor: Brito/ TBD
+- (WW 43 - Extra) Lab: TBD
   - Instructor: Brito/ TBD
 
 
