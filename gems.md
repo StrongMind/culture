@@ -1,6 +1,8 @@
 # Ruby Gems
 
 ## Approved
+- [activerecord-cte](https://github.com/vlado/activerecord-cte) helpers for building CTEs using ActiveRecord and ARel
+- [scenic](https://github.com/scenic-views/scenic) migration support for postgres database views
 - [parallel_tests](https://github.com/grosser/parallel_tests) ability to split testing across several processes to speed up tests.
 - [rails-mermaid_erd](https://github.com/koedame/rails-mermaid_erd) ERDs in mermaid
 - [fog-aws](https://github.com/fog/fog-aws): AWS s3 connector
