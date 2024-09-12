@@ -152,6 +152,7 @@
 - [require_all](https://rubygems.org/gems/require_all): A wonderfully simple way to load your code.
 - [rails-erd](https://rubygems.org/gems/rails-erd): Generate Entity-Relationship Diagrams for your Rails application.
 - [net-sftp](https://rubygems.org/gems/net-sftp): Secure File Transfer Protocol (SFTP) library.
+- [upmark](https://github.com/conversation/upmark): A HTML to Markdown converter.
 - [multi_json](https://rubygems.org/gems/multi_json): A gem to provide simple JSON parsing and encoding.
 - [ed25519](https://rubygems.org/gems/ed25519): Ruby bindings to the Ed25519 digital signature algorithm.
 - [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
