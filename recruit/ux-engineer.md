@@ -1,6 +1,6 @@
 # UI/UX Designer Pizza Exercise 
 
-At Strongmind, we believe that a strong user experience drives successful products. We focus on user stories to keep our users at the heart of our design process. Your task is to simulate a UI/UX workflow by designing the front end of a pizza management application. 
+At StrongMind, we believe that a strong user experience drives successful products. We focus on user stories to keep our users at the heart of our design process. Your task is to simulate a UI/UX workflow by designing the front end of a pizza management application. 
 
 ## Instructions: 
 
@@ -16,11 +16,10 @@ At Strongmind, we believe that a strong user experience drives successful produc
 
 Create a GitHub repository for this project. 
 
-Email recruiter@strongmind.com links to your GitHub repository and any hosted prototype (if you choose to host it) with the subject “UI/UX Designer Candidate - Your Name." 
-
+Email recruiter@strongmind.com links to your GitHub repository and any hosted prototype (if you choose to host it) with the subject “UI/UX Designer Candidate - Your Name." Make sure your Figma files have the correct permissions set so our team can view your files!
  
 
-## User Stories: 
+## User Stories
 
 **1. Manage Toppings UI:** 
 
