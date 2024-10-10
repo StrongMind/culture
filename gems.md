@@ -158,6 +158,7 @@
 - [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
 - [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
 - [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
+- [langchainrb](https://rubygems.org/gems/langchainrb/versions/0.17.1): For building LLM-powered applications in Ruby
 - paper_trail (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
