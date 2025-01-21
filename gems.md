@@ -160,7 +160,8 @@
 - [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
 - [langchainrb](https://rubygems.org/gems/langchainrb/versions/0.17.1): For building LLM-powered applications in Ruby
 - [metainspector](https://rubygems.org/gems/metainspector): Lets you scrape a web page and get its links, images, texts, meta tags...
-- [acts_as_list](https://rubygems.org/gems/acts_as_list) "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
+- [acts_as_list](https://rubygems.org/gems/acts_as_list): "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
+- [pretender](https://rubygems.org/gems/pretender): Log in as another user in Rails
 - paper_trail (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
