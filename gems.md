@@ -1,6 +1,7 @@
 # Ruby Gems
 
 ## Approved
+- [rack-timeout](https://github.com/zombocom/rack-timeout) to enable aborting requests that are taking too long
 - [activerecord-cte](https://github.com/vlado/activerecord-cte) helpers for building CTEs using ActiveRecord and ARel
 - [scenic](https://github.com/scenic-views/scenic) migration support for postgres database views
 - [parallel_tests](https://github.com/grosser/parallel_tests) ability to split testing across several processes to speed up tests.
