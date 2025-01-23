@@ -1,6 +1,10 @@
 # Ruby Gems
 
 ## Approved
+- [memory_profiler](https://github.com/SamSaffron/memory_profiler) for use with rack-mini-profiler to show memory usage
+- [stackprof](https://github.com/tmm1/stackprof) for use with rack-mini-profiler to show profiles
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) for showing rails profiles
+- [vernier](https://github.com/jhawthorn/vernier) for profiling newer ruby applications
 - [rack-timeout](https://github.com/zombocom/rack-timeout) to enable aborting requests that are taking too long
 - [activerecord-cte](https://github.com/vlado/activerecord-cte) helpers for building CTEs using ActiveRecord and ARel
 - [scenic](https://github.com/scenic-views/scenic) migration support for postgres database views
