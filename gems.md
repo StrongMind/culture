@@ -166,6 +166,7 @@
 - [langchainrb](https://rubygems.org/gems/langchainrb/versions/0.17.1): For building LLM-powered applications in Ruby
 - [metainspector](https://rubygems.org/gems/metainspector): Lets you scrape a web page and get its links, images, texts, meta tags...
 - [acts_as_list](https://rubygems.org/gems/acts_as_list) "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
+- [pdf-reader](https://rubygems.org/gems/pdf-reader) implements a PDF parser conforming as much as possible to the PDF specification from Adobe
 - paper_trail (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
