@@ -1,6 +1,7 @@
 # Ruby Gems
 
 ## Approved
+- [geocoder](https://github.com/alexreisner/geocoder) used for converting addresses to lat/long and doing distance calculations.
 - [memory_profiler](https://github.com/SamSaffron/memory_profiler) for use with rack-mini-profiler to show memory usage
 - [stackprof](https://github.com/tmm1/stackprof) for use with rack-mini-profiler to show profiles
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) for showing rails profiles
