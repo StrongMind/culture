@@ -1,6 +1,12 @@
 # Ruby Gems
 
 ## Approved
+- [geocoder](https://github.com/alexreisner/geocoder) used for converting addresses to lat/long and doing distance calculations.
+- [memory_profiler](https://github.com/SamSaffron/memory_profiler) for use with rack-mini-profiler to show memory usage
+- [stackprof](https://github.com/tmm1/stackprof) for use with rack-mini-profiler to show profiles
+- [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) for showing rails profiles
+- [vernier](https://github.com/jhawthorn/vernier) for profiling newer ruby applications
+- [rack-timeout](https://github.com/zombocom/rack-timeout) to enable aborting requests that are taking too long
 - [activerecord-cte](https://github.com/vlado/activerecord-cte) helpers for building CTEs using ActiveRecord and ARel
 - [scenic](https://github.com/scenic-views/scenic) migration support for postgres database views
 - [parallel_tests](https://github.com/grosser/parallel_tests) ability to split testing across several processes to speed up tests.
@@ -162,6 +168,7 @@
 - [metainspector](https://rubygems.org/gems/metainspector): Lets you scrape a web page and get its links, images, texts, meta tags...
 - [acts_as_list](https://rubygems.org/gems/acts_as_list): "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
 - [pretender](https://rubygems.org/gems/pretender): Log in as another user in Rails
+- [pdf-reader](https://rubygems.org/gems/pdf-reader) implements a PDF parser conforming as much as possible to the PDF specification from Adobe
 - paper_trail (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
