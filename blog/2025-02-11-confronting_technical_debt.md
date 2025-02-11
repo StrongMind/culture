@@ -6,15 +6,9 @@ Technical debt is the implied cost of future rework caused by choosing an expedi
 
 Closely related to this is the **Sunken Cost Fallacy**, the urge to continue investing in a losing proposition just because you’ve already spent resources on it. In the world of code, this translates to holding on to outdated or poorly designed solutions simply because of the time already invested in them.
 
-Refactoring is a key remedy for technical debt. By methodically improving existing code without
+Refactoring is a key remedy for technical debt. By methodically improving existing code without  altering its external behavior, you make the codebase easier to maintain and extend, reducing  the “interest” on your technical debt.
 
-altering its external behavior, you make the codebase easier to maintain and extend, reducing
-
-the “interest” on your technical debt.
-
-Below are some quick code examples (in Ruby and JavaScript) along with three ASCII-style
-
-images to illustrate our key points.
+Below are some quick code examples.
 
 ## 1. Technical Debt in a Nutshell
 
@@ -22,13 +16,7 @@ images to illustrate our key points.
 
 **– Martin Fowler**
 
-Technical debt can be introduced by shortcuts, “temporary” fixes, or legacy code that doesn’t
-
-get updated. Sometimes incurring debt is a valid business decision (to meet a deadline), but it
-
-must be tracked and eventually addressed. Otherwise, it can lead to bug-prone code and
-
-reduced velocity.
+Technical debt can be introduced by shortcuts, “temporary” fixes, or legacy code that doesn’t  get updated. Sometimes incurring debt is a valid business decision (to meet a deadline), but it  must be tracked and eventually addressed. Otherwise, it can lead to bug-prone code and  reduced velocity.
 
 ## 2. The Sunken Cost Fallacy
 
@@ -36,29 +24,19 @@ reduced velocity.
 
 **– Grace Hopper**
 
-The Sunken Cost Fallacy has us clinging to a suboptimal approach because of the time or
-
-money already invested. When we recognize that a certain piece of code is significantly flawed,
-
-the healthiest move is to cut our losses and refactor or rewrite rather than continue patching the
-
-same failing solution.
+The Sunken Cost Fallacy has us clinging to a suboptimal approach because of the time or  money already invested. When we recognize that a certain piece of code is significantly flawed,  the healthiest move is to cut our losses and refactor or rewrite rather than continue patching the  same failing solution.
 
 ## 3. Refactoring: Paying Down the Debt
 
-“For each desired change, make the change easy (warning: this may be hard), then make
-
-the easy change.”
+“For each desired change, make the change easy (warning: this may be hard), then make  the easy change.”
 
 **– Kent Beck**
 
-Refactoring involves restructuring code to reduce complexity, remove duplication, and improve
-
-maintainability. The key is **not** to change the external behavior but to clean up the internals.
+Refactoring involves restructuring code to reduce complexity, remove duplication, and improve  maintainability. The key is **not** to change the external behavior but to clean up the internals.
 
 Regular, incremental refactoring keeps technical debt in check and your team’s morale high.
 
-**Example: RubyBefore Refactoring (Complex Conditional Logic):**
+**Example: Ruby Before Refactoring (Complex Conditional Logic):**
 
   ```
   def calculate_discounted_price(price, discount_type)
@@ -129,9 +107,7 @@ This revised version uses a hash lookup, making the code easier to maintain and 
 
 ### Closing Thoughts
 
-Technical debt is inevitable in any evolving software project, but it doesn’t have to be a showstopper. By embracing continuous refactoring and staying vigilant about the Sunken Cost
-
-Fallacy, teams can keep their codebases healthy and their productivity high.
+Technical debt is inevitable in any evolving software project, but it doesn’t have to be a showstopper. By embracing continuous refactoring and staying vigilant about the Sunken Cost  Fallacy, teams can keep their codebases healthy and their productivity high.
 
 As Robert C. Martin (Uncle Bob) reminds us:
 
