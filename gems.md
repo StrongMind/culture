@@ -57,6 +57,7 @@
 - [sidekiq](https://rubygems.org/gems/sidekiq): Simple, efficient background processing for Ruby.
 - [rubocop-rspec](https://rubygems.org/gems/rubocop-rspec): Code style checking for RSpec files.
 - [rubocop-rails](https://rubygems.org/gems/rubocop-rails): Code style checking for Rails projects.
+- [rubocop-performance](https://rubygems.org/gems/rubocop-performance): Code performance checking for Rails projects.
 - [pry-rails](https://rubygems.org/gems/pry-rails): Use Pry as your Rails console.
 - [pry-byebug](https://rubygems.org/gems/pry-byebug): Combine Pry with Byebug.
 - [omniauth](https://rubygems.org/gems/omniauth): A generalized Rack framework for multiple-provider authentication.
