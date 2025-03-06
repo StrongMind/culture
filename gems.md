@@ -1,6 +1,7 @@
 # Ruby Gems
 
 ## Approved
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail) used for auditing of actions, soft-deleting and history/undo.
 - [geocoder](https://github.com/alexreisner/geocoder) used for converting addresses to lat/long and doing distance calculations.
 - [memory_profiler](https://github.com/SamSaffron/memory_profiler) for use with rack-mini-profiler to show memory usage
 - [stackprof](https://github.com/tmm1/stackprof) for use with rack-mini-profiler to show profiles
@@ -172,7 +173,7 @@
 - [pdf-reader](https://rubygems.org/gems/pdf-reader) implements a PDF parser conforming as much as possible to the PDF specification from Adobe
 - [colorize](https://github.com/fazibear/colorize): colorizing the terminal text.
 - [clipboard](https://github.com/janlelis/clipboard): ability to access the clipboard.
-- paper_trail (**deprecated**)
+- audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
 - capistrano-bundler (**deprecated**)
