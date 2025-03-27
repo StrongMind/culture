@@ -166,6 +166,7 @@
 - [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
 - [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
 - [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
+- [RubyLLM](https://github.com/crmne/ruby_llm): A delightful Ruby way to work with AI.
 - [langchainrb](https://rubygems.org/gems/langchainrb/versions/0.17.1): For building LLM-powered applications in Ruby
 - [metainspector](https://rubygems.org/gems/metainspector): Lets you scrape a web page and get its links, images, texts, meta tags...
 - [acts_as_list](https://rubygems.org/gems/acts_as_list): "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
