@@ -1,6 +1,8 @@
 # Ruby Gems
 
 ## Approved
+- [paper_trail](https://github.com/paper-trail-gem/paper_trail) used for auditing of actions, soft-deleting and history/undo.
+- [geocoder](https://github.com/alexreisner/geocoder) used for converting addresses to lat/long and doing distance calculations.
 - [memory_profiler](https://github.com/SamSaffron/memory_profiler) for use with rack-mini-profiler to show memory usage
 - [stackprof](https://github.com/tmm1/stackprof) for use with rack-mini-profiler to show profiles
 - [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) for showing rails profiles
@@ -56,6 +58,7 @@
 - [sidekiq](https://rubygems.org/gems/sidekiq): Simple, efficient background processing for Ruby.
 - [rubocop-rspec](https://rubygems.org/gems/rubocop-rspec): Code style checking for RSpec files.
 - [rubocop-rails](https://rubygems.org/gems/rubocop-rails): Code style checking for Rails projects.
+- [rubocop-performance](https://rubygems.org/gems/rubocop-performance): Code performance checking for Rails projects.
 - [pry-rails](https://rubygems.org/gems/pry-rails): Use Pry as your Rails console.
 - [pry-byebug](https://rubygems.org/gems/pry-byebug): Combine Pry with Byebug.
 - [omniauth](https://rubygems.org/gems/omniauth): A generalized Rack framework for multiple-provider authentication.
@@ -157,18 +160,23 @@
 - [require_all](https://rubygems.org/gems/require_all): A wonderfully simple way to load your code.
 - [rails-erd](https://rubygems.org/gems/rails-erd): Generate Entity-Relationship Diagrams for your Rails application.
 - [net-sftp](https://rubygems.org/gems/net-sftp): Secure File Transfer Protocol (SFTP) library.
-- [upmark](https://github.com/conversation/upmark): A HTML to Markdown converter.
+- [reverse_markdown](https://github.com/xijo/reverse_markdown): A HTML to Markdown converter.
 - [multi_json](https://rubygems.org/gems/multi_json): A gem to provide simple JSON parsing and encoding.
 - [ed25519](https://rubygems.org/gems/ed25519): Ruby bindings to the Ed25519 digital signature algorithm.
 - [cloud_events](https://rubygems.org/gems/cloud_events): Ruby implementation of CloudEvents.
 - [async](https://rubygems.org/gems/async): An event-driven framework for Ruby.
 - [acts-as-taggable-on](https://rubygems.org/gems/acts-as-taggable-on): Tagging functionality for your Rails application.
+- [RubyLLM](https://github.com/crmne/ruby_llm): A delightful Ruby way to work with AI.
 - [langchainrb](https://rubygems.org/gems/langchainrb/versions/0.17.1): For building LLM-powered applications in Ruby
 - [metainspector](https://rubygems.org/gems/metainspector): Lets you scrape a web page and get its links, images, texts, meta tags...
-- [acts_as_list](https://rubygems.org/gems/acts_as_list) "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
+- [acts_as_list](https://rubygems.org/gems/acts_as_list): "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
+- [pretender](https://rubygems.org/gems/pretender): Log in as another user in Rails
 - [pdf-reader](https://rubygems.org/gems/pdf-reader) implements a PDF parser conforming as much as possible to the PDF specification from Adobe
 - [ruby-lsp](https://github.com/Shopify/ruby-lsp) Language Server Protocol implementation for Ruby
+- [colorize](https://github.com/fazibear/colorize): colorizing the terminal text.
+- [clipboard](https://github.com/janlelis/clipboard): ability to access the clipboard.
 - paper_trail (**deprecated**)
+- audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
 - capistrano-bundler (**deprecated**)
