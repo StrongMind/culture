@@ -60,6 +60,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - React
 - Ionic
 - Blazor
+- Next.JS
 - Angular >12 (**deprecated**)
 - jQuery (**deprecated**)
 - Aurelia (**obsolete**)
@@ -101,6 +102,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 ## Infrastructure As Code
 - Pulumi
+- Vercel
 - Azure Resource Manager (?)
 - Serverless (**deprecated**)
 - Ansible (**deprecated**)
