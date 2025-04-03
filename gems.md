@@ -172,8 +172,10 @@
 - [acts_as_list](https://rubygems.org/gems/acts_as_list): "acts_as" extension which provides the capabilities of sorting and reordering objects in a list
 - [pretender](https://rubygems.org/gems/pretender): Log in as another user in Rails
 - [pdf-reader](https://rubygems.org/gems/pdf-reader) implements a PDF parser conforming as much as possible to the PDF specification from Adobe
+- [ruby-lsp](https://github.com/Shopify/ruby-lsp) Language Server Protocol implementation for Ruby
 - [colorize](https://github.com/fazibear/colorize): colorizing the terminal text.
 - [clipboard](https://github.com/janlelis/clipboard): ability to access the clipboard.
+- paper_trail (**deprecated**)
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
