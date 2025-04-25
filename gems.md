@@ -175,7 +175,6 @@
 - [ruby-lsp](https://github.com/Shopify/ruby-lsp) Language Server Protocol implementation for Ruby
 - [colorize](https://github.com/fazibear/colorize): colorizing the terminal text.
 - [clipboard](https://github.com/janlelis/clipboard): ability to access the clipboard.
-- paper_trail (**deprecated**)
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
