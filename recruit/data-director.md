@@ -18,7 +18,7 @@ Thank you for your interest in the Director of Data Analytics position at Strong
 
 ## 📦 Submission
 
-Please submit your completed exercise to **[insert submission instructions here]** within **[insert number of days]** of receiving this prompt. Reach out if you need additional time — we’re happy to accommodate where possible.
+Please submit your completed exercise to [recruiter@strongmind.com](mailto:recruiter@strongmind.com) with the subject “Director of Data Science and Analytics - Your Name". Reach out if you need additional time — we’re happy to accommodate where possible.
 
 ---
 
