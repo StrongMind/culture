@@ -175,6 +175,7 @@
 - [ruby-lsp](https://github.com/Shopify/ruby-lsp) Language Server Protocol implementation for Ruby
 - [colorize](https://github.com/fazibear/colorize): colorizing the terminal text.
 - [clipboard](https://github.com/janlelis/clipboard): ability to access the clipboard.
+- [websocket-client-simple](https://github.com/ruby-jp/websocket-client-simple): Simple WebSocket Client for Ruby
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
