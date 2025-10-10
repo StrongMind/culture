@@ -1,6 +1,7 @@
 # Ruby Gems
 
 ## Approved
+- [test-prof](https://github.com/test-prof/test-prof) used for profiling tests.
 - [paper_trail](https://github.com/paper-trail-gem/paper_trail) used for auditing of actions, soft-deleting and history/undo.
 - [geocoder](https://github.com/alexreisner/geocoder) used for converting addresses to lat/long and doing distance calculations.
 - [memory_profiler](https://github.com/SamSaffron/memory_profiler) for use with rack-mini-profiler to show memory usage
