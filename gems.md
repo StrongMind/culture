@@ -179,6 +179,7 @@
 - [websocket-client-simple](https://github.com/ruby-jp/websocket-client-simple): Simple WebSocket Client for Ruby
 - [workflow](https://github.com/geekq/workflow): used status based events and workflows
 - [ringcentral-sdk](https://github.com/ringcentral/ringcentral-ruby): RingCentral SDK
+- [acts-as-paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid): A Rails plugin to add soft delete
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
