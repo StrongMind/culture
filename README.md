@@ -1,16 +1,16 @@
-# StrongMind Culture README
+# StrongMind Engineering Culture README
 
 ## What?
 
-This repository keeps various sets of cultural artifacts that the StrongMind engineering team use as part of training and creating shared alignment and understanding. 
+This repository keeps various sets of artifacts that the StrongMind engineering team use as part of training and creating shared alignment and understanding. 
 
 ### Diagram
 
 ```mermaid
 graph LR
-  subgraph project_components[StrongMind]
+  subgraph project_components[StrongMind Engineering]
 
-	  strongmind[StrongMind culture repo]
+	  strongmind[StrongMind Engineering culture repo]
   end
 
   subgraph end_users[End Users]
@@ -35,17 +35,16 @@ graph LR
 
 ### Administration
 
-* [(b)logs](https://strongmind-newsletter.netlify.app/)
 * [exception tracking](https://sentry.io/organizations/strongmind-4j/)
-* [monitoring & metrics dashboard](#) (not implemented)
+* [monitoring & metrics dashboard](https://app.datadoghq.com/dashboard/lists?p=1)
 
 ## Local Install
 
-* Visit [our current vacancies](https://recruiting2.ultipro.com/STR1017SMINC/JobBoard/e883a137-8797-484c-bf4d-c3d514ec5e38/?q=&o=postedDateDesc&w=&wc=&we=&wpst=&f5=fomFUKZBpE-POmuBhDZQgQ)
-* Select vacancy
-* Click Apply Now
-* Speak with our recruiters in the USA or the Phillippines
-* Submit a Pizza Server kata code sample
+* Visit [our current open positions](https://www.strongmind.com/job-openings/)
+* Select a position
+* Click Apply
+* Speak with our recruiters
+* Submit a brief code exercise
 * Interview with us
 * Join our team
 
