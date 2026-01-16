@@ -181,6 +181,7 @@
 - [ringcentral-sdk](https://github.com/ringcentral/ringcentral-ruby): RingCentral SDK
 - [acts-as-paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid): A Rails plugin to add soft delete
 - [liquid](https://github.com/Shopify/liquid): Liquid is a template engine
+- [commonmarker](https://github.com/gjtorikian/commonmarker) Ruby wrapper for Rust's comrak crate
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
