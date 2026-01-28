@@ -181,8 +181,8 @@
 - [ringcentral-sdk](https://github.com/ringcentral/ringcentral-ruby): RingCentral SDK
 - [acts-as-paranoid](https://github.com/ActsAsParanoid/acts_as_paranoid): A Rails plugin to add soft delete
 - [liquid](https://github.com/Shopify/liquid): Liquid is a template engine
-- [commonmarker](https://github.com/gjtorikian/commonmarker) Ruby wrapper for Rust's comrak crate
-- [letter_opener](https://github.com/ryanb/letter_opener) Preview email in the default browser instead of sending it
+- [commonmarker](https://github.com/gjtorikian/commonmarker): Ruby wrapper for Rust's comrak crate
+- [letter_opener](https://github.com/ryanb/letter_opener): Preview email in the default browser instead of sending it
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
