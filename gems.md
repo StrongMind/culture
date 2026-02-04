@@ -183,6 +183,7 @@
 - [liquid](https://github.com/Shopify/liquid): Liquid is a template engine
 - [commonmarker](https://github.com/gjtorikian/commonmarker): Ruby wrapper for Rust's comrak crate
 - [letter_opener](https://github.com/ryanb/letter_opener): Preview email in the default browser instead of sending it
+- [ferrum](https://github.com/rubycdp/ferrum): Headless Chrome Ruby API
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
