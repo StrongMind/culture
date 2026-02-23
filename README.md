@@ -1,4 +1,4 @@
-# StrongMind Engineering Culture README
+# StrongMind Engineering How We Work Together README
 
 ## What?
 
