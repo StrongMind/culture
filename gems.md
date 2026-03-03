@@ -184,6 +184,8 @@
 - [commonmarker](https://github.com/gjtorikian/commonmarker): Ruby wrapper for Rust's comrak crate
 - [letter_opener](https://github.com/ryanb/letter_opener): Preview email in the default browser instead of sending it
 - [ferrum](https://github.com/rubycdp/ferrum): Headless Chrome Ruby API
+- [langfuse](https://rubygems.org/gems/langfuse): Ruby client for Langfuse's API
+- [langfuse-ruby](https://rubygems.org/gems/langfuse-ruby): Ruby client library for Langfuse, providing additional tracing, prompt management, and evaluation capabilities for LLM-based applications
 - audited (**deprecated**)
 - capistrano-rbenv (**deprecated**)
 - capistrano-rails (**deprecated**)
