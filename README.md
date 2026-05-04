@@ -1,51 +1,29 @@
-# StrongMind Engineering How We Work Together README
+# StrongMind Engineering
 
-## What?
+Engineering standards, decisions, and learning resources for the StrongMind engineering organization.
 
-This repository keeps various sets of artifacts that the StrongMind engineering team use as part of training and creating shared alignment and understanding. 
+## Engineering Standards
 
-### Diagram
+> If you need to know how we do something, start here.
 
-```mermaid
-graph LR
-  subgraph project_components[StrongMind Engineering]
+| I need to... | Go to |
+|---|---|
+| Set up a CI pipeline for a Go service | [CI/CD Standards — Go](engineering_standards/ci-cd-go.md) |
 
-	  strongmind[StrongMind Engineering culture repo]
-  end
+## Decisions
 
-  subgraph end_users[End Users]
-  	leadership[Leadership team]
-  	contributors[Individual Contributors]
-  end
-  
-	leadership -->|Author documents<br>and teach from contents| strongmind
-  contributors -->|Propose changes<br>and consume content| strongmind
-```
+[Architecture Decision Records](decisions/) explain why standards are the way they are. If a standard surprises you, look here first before asking.
 
-## Where?
+## Other Resources
 
-### links
+- [Technology Registry](devops_standards.md): approved, deprecated, and obsolete technologies
+- [Templates](templates/): pull request template and Cursor rules
+- [Tech Sessions](tech_sessions/): learning materials and workshops
+- [Engineering Leadership](engineering_leadership/): proposals and leadership resources
+- [Coaching](coaching/): team development resources
+- [Recruiting](recruit/): job descriptions, onboarding, and interview rubrics
+- [Blog](blog/): engineering blog posts
+- [Box of Autonomy](box_of_autonomy.md): how we think about team autonomy
+- [Metrics](metrics.md): engineering metrics
 
-* dev: [dev.strongmind.com](https://dev.strongmind.com)
-* prod: [strongmind.com](https://strongmind.com)
-
-### CI/CD
-
-* [https://github.com/StrongMind/culture/actions](https://github.com/StrongMind/culture/actions)
-
-### Administration
-
-* [exception tracking](https://sentry.io/organizations/strongmind-4j/)
-* [monitoring & metrics dashboard](https://app.datadoghq.com/dashboard/lists?p=1)
-
-## Local Install
-
-* Visit [our current open positions](https://www.strongmind.com/job-openings/)
-* Select a position
-* Click Apply
-* Speak with our recruiters
-* Submit a brief code exercise
-* Interview with us
-* Join our team
-
-> Code owners can be found in [CODEOWNERS file](./CODEOWNERS)
+> Code owners: [CODEOWNERS](./CODEOWNERS)
