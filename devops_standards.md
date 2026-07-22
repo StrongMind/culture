@@ -38,7 +38,9 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - .NET (C#) >6
 - Ruby >3
 - Javascript >6
-- Typescript
+- Typescript >= 5
+- Go >= 1.25
+- Node.js >= 20
 - .NET <6 (C#)(**deprecated**)
 - Ruby <3 (**deprecated**)
 - Python <3.8 (**deprecated**)
@@ -57,7 +59,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 
 
 ## Front End Frameworks
-- React
+- React >= 18 (>=19 default for new work)
 - Ionic
 - Blazor
 - Next.JS
@@ -135,6 +137,8 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 ## Testing Tools
 - PyTest Describe (Python)
 - Jest (Javascript)
+- Vitest (Javascript/Typescript)
+- go test + testify (Go)
 - Rspec (Ruby)
 - xUnit (.NET)
 - nUnit (.NET)
@@ -150,6 +154,7 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - rbenv (ruby)
 - venv (python)
 - nvm (node)
+- Volta (node)
 
 ## Package Management
 - pypi.org (python)
@@ -158,6 +163,11 @@ The use of **obsolete** will be denoted when something is no longer part of the 
 - nuget.org (.net)
   - Package ID prefix "SM."
 - rubygems.org (ruby)
+- go modules (go)
+  - `github.com/StrongMind/strongmind-platform/go`, consumed via `go get`
+  - Versioned by path-prefixed git tags (`go/vX.Y.Z`), not a central registry (see ADR-0002)
+- GitHub Packages (javascript/typescript)
+  - `@strongmind/*` scoped packages, consumed by version, never by repo path (see ADR-0002)
 
 ## Web Packaging (npm, yarn, etc)
 - npm
